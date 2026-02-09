@@ -1,0 +1,11 @@
+---
+title: "Malicious packages for dYdX cryptocurrency exchange empties user wallets"
+source: "
+                    Dan Goodin
+                "
+url: "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/"
+published: "2026-02-06T22:16:51.000Z"
+category: "tech"
+summary: "Incident is at least the third time the exchange has been targeted by thieves."
+---
+Open source packages published on the npm and PyPI repositories were laced with code that stole wallet credentials from dYdX developers and backend systems and, in some cases, backdoored devices, researchers said. “Every application using the compromised npm versions is at risk ….” the researchers, from security firm Socket, said Friday. “Direct impact includes complete wallet compromise and irreversible cryptocurrency theft. The attack scope includes all applications depending on the compromised versions and both developers testing with real credentials and production end-users.” Packages that were infected were: npm (@dydxprotocol/v4-client-js): 3.4.1 1.22.1 1.15.2 1.0.31 PyPI (dydx-v4-client): 1.1.5post1 Perpetual trading, perpetual targeting dYdX is a decentralized derivatives exchange that supports hundreds of markets for “perpetual trading,” or the use of cryptocurrency to bet that the value of a derivative future will rise or fall. Socket said dYdX has processed over $1.5 trillion in trading volume over its lifetime, with an average trading volume of $200 million to $540 million and roughly $175 million in open interest. The exchange provides code libraries that allow third-party apps for trading bots, automated strategies, or backend services, all of which handle mnemonics or private keys for signing. The npm malware embedded a malicious function in the legitimate package. When a seed phrase that underpins wallet security was processed, the function exfiltrated it, along with a fingerprint of the device running the app. The fingerprint allowed the threat actor to correlate stolen credentials to track victims across multiple compromises. The domain receiving the seed was dydx[.]priceoracle[.]site, which mimics the legitimate dYdX service at dydx[.]xyz through typosquatting.
