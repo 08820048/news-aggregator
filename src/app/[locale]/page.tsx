@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { getLatestNews } from '@/lib/news'
+import { getNewsByCategory } from '@/lib/news'
 import { getDict, type Locale } from '@/lib/i18n'
 
 interface PageProps {
@@ -10,25 +10,24 @@ export default async function HomePage({ params }: PageProps) {
   const { locale: rawLocale } = await params
   const locale = (rawLocale as Locale) ?? 'zh'
   const dict = getDict(locale)
-  const items = getLatestNews().slice(0, 30)
+  const items = getNewsByCategory('tech').slice(0, 30)
 
   return (
     <section>
-      <h1>{dict.latest}</h1>
-      <div className="list">
+      <h1>{dict.tech}</h1>
+      <ul className="list">
         {items.map((item) => (
-          <article key={item.slug} className="card">
+          <li key={item.slug} className="list-item">
             <div className="meta">
-              <span className="tag">{dict[item.category as keyof typeof dict] ?? item.category}</span>
               <time>{new Date(item.published).toLocaleString()}</time>
+              <span>{dict.source}: {item.source || 'N/A'}</span>
             </div>
-            <h2>
-              <Link href={`/${locale}/${item.category}/${item.slug}`}>{item.title}</Link>
-            </h2>
-            <p>{item.summary}</p>
-          </article>
+            <Link href={`/${locale}/${item.category}/${item.slug}`} className="title">
+              {item.title}
+            </Link>
+          </li>
         ))}
-      </div>
+      </ul>
     </section>
   )
 }

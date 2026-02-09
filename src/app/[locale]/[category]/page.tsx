@@ -22,20 +22,19 @@ export default async function CategoryPage({ params }: PageProps) {
   return (
     <section>
       <h1>{categoryLabel}</h1>
-      <div className="list">
+      <ul className="list">
         {items.map((item) => (
-          <article key={item.slug} className="card">
+          <li key={item.slug} className="list-item">
             <div className="meta">
               <time>{new Date(item.published).toLocaleString()}</time>
               <span>{dict.source}: {item.source || 'N/A'}</span>
             </div>
-            <h2>
-              <Link href={`/${locale}/${category}/${item.slug}`}>{item.title}</Link>
-            </h2>
-            <p>{item.summary}</p>
-          </article>
+            <Link href={`/${locale}/${category}/${item.slug}`} className="title">
+              {item.title}
+            </Link>
+          </li>
         ))}
-      </div>
+      </ul>
     </section>
   )
 }
