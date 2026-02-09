@@ -1,0 +1,9 @@
+---
+title: "Alphabet lines up 100-year sterling bond sale"
+source: "Unknown"
+url: "https://www.ft.com/content/3260bc45-e09e-45a7-ae30-e55effbaf29b"
+published: "2026-02-09T18:45:54.000Z"
+category: "finance"
+summary: "Deal comes as Google parent steps up AI borrowing rush with $20bn sale of dollar bonds"
+---
+订阅解锁这篇文章，在标准数字上节省40%以上，第一年540美元，现在299美元，现在可以在任何设备上获得值得信赖的《金融时报》新闻的基本数字访问。按每月年化价格计算的节余。探索更多的机会。试用4周1美元，然后每月75美元。在任何设备上完全数字化访问高质量的FT新闻。在试用期间随时取消或更改您的计划。高级DigitalComplete覆盖75美元每月在任何设备上获得独家见解和行业深度报道的完整数字访问。原价409美元，现在是第一年的149美元，周一至周六送货，包括FT周末和FT数字版：任何设备上的FT报纸的所有内容。根据年价格节省。探索我们的全系列订阅。发现您所在国家目前可用的所有计划，为组织提供数字访问。包括独家功能和内容。为什么是英国《金融时报》？看看为什么有100多万读者付费阅读《金融时报》。找出原因

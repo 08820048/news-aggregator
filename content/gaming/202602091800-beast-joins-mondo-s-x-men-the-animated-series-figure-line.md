@@ -1,0 +1,9 @@
+---
+title: "Beast Joins Mondo's X-Men: The Animated Series Figure Line"
+source: "Jesse Schedeen"
+url: "https://www.ign.com/articles/beast-joins-mondos-x-men-the-animated-series-figure-line"
+published: "2026-02-09T18:00:00.000Z"
+category: "gaming"
+summary: "Mondo's long-running X-Men: The Animated Series figure line adds another mutant heavy-hitter. Check out our exclusive first look at their Beast 1:6 scale figure."
+---
+Mondo is one step closer to assembling the full, iconic X-Men: The Animated Series roster, as the company has just revealed a truly epic Beast 1:6 scale figure.IGN can exclusively debut the first images of the X-Men: The Animated Series - Beast 1/6 Scale Figure - Limited Edition. Check them out in the slideshow gallery below, along with a new Jim Lee X-Men poster and a Beast enamel pin:The Beast figure is designed to fit alongside the rest of Mondo 1:6 scale X-Men figures. The figure includes a wealth of accessories, including several interchangeable heads and hands, an optional lab coat, a tech pack and tech gear, books, and even a Howard the Duck T-shirt. Beast is priced at $255, and this deluxe limited edition version is limited to 1500 units worldwide. The figure will go up for preorder on February 17 on Mondo's website.Also being offered alongside the figure is a new 24" x 36" screenprint poster reproducing one of the most iconic splash images from Jim Lee's X-Men run. This image is specifically taken from 1992's X-Men #11 and is titled "We Ask The Stars 'Why?'" Mondo is also releasing an enamel pin featuring Beast's face.Will you be ordering any of these new X-Men collectibles? Let us know in the comments below. And to see more of Mondo's past X-Men releases, check out their Magneto figure, Gambit figure, and exclusive Wolverine figure. Jesse is a mild-mannered staff writer for IGN. Allow him to lend a machete to your intellectual thicket by following @jschedeen on BlueSky.
