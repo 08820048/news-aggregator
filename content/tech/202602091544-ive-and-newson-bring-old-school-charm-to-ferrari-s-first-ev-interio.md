@@ -1,0 +1,11 @@
+---
+title: "Ive and Newson bring old-school charm to Ferrari's first EV interior"
+source: "
+                    Jonathan M. Gitlin
+                "
+url: "https://arstechnica.com/cars/2026/02/ive-and-newson-bring-old-school-charm-to-ferraris-first-ev-interior/"
+published: "2026-02-09T15:44:33.000Z"
+category: "tech"
+summary: "Analogue dials, aluminum switches, and plenty of buttons for the Ferrari Luce."
+---
+Ferrari has published images of the interior of its forthcoming electric vehicle, which it designed with LoveFrom, the new firm of former Apple star Jony Ive and another legendary designer, Marc Newson. The Italian sports and racing car maker is taking a careful approach to revealing details about its first battery EV, signaling a depth of thought that goes well beyond simply swapping a V12, transmission, and fuel tank out for batteries and electric motors. Indeed, the interior of the new car—called the Ferrari Luce—bears little family resemblance to any recent Ferrari. Instead, LoveFrom appears to have channeled Ferrari interiors from the 1950s, ’60s, and ’70s, with a retro simplicity that combines clear round gauges with brushed aluminum. Forget the capacitive panels that so frustrated me in the Ferrari 296—here, there are physical buttons and rocker switches that seem free of the crash protection surrounds that Mini was forced to use. The steering wheel now resembles the iconic “Nardi” wheel that has graced so many older Ferraris. But here, the horn buttons have been integrated into the spokes, and multifunction pods hang off the horizontal spokes, allowing Ferrari to keep its “hands on the wheel” approach to ergonomics. Made from entirely CNC-milled recycled aluminum, the Luce’s wheel weighs 400 g less than Ferrari’s usual steering wheel. The binnacle is actually two displays, one in front of the other. Ferrari The binnacle that houses the main instrument display is actually two overlapping OLED screens. The analogue dials are displayed by the rear-most of the two, appearing through cutouts as if they were traditional dials from Veglia, Smiths, or Jaeger (or the clock on your iPhone). The infotainment screen is on a ball joint that allows it to be oriented toward the driver or passenger as necessary, an interesting feature that other automakers would do well to study (and perhaps copy).
