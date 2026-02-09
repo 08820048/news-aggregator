@@ -10,6 +10,7 @@ export type NewsItem = {
   published: string
   category: string
   summary: string
+  content: string
 }
 
 const CONTENT_DIR = path.join(process.cwd(), 'content')
@@ -30,7 +31,8 @@ const readMarkdown = (filePath: string, category: string): NewsItem | null => {
     url: String(data.url || ''),
     published: String(data.published),
     category,
-    summary: content.trim(),
+    summary: String(data.summary || ''),
+    content: content.trim(),
   }
 }
 

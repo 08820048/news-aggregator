@@ -21,6 +21,9 @@ jobs:
       - run: npm install
 
       - run: npm run fetch:news
+        env:
+          YOUDAO_APP_KEY: ${{ secrets.YOUDAO_APP_KEY }}
+          YOUDAO_APP_SECRET: ${{ secrets.YOUDAO_APP_SECRET }}
 
       - name: Commit updates
         run: |

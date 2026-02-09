@@ -20,7 +20,7 @@ const faviconUrl = (url: string) => {
   return `https://www.google.com/s2/favicons?domain=${domain}&sz=64`
 }
 
-export function NewsList({ items, locale }: { items: NewsItem[]; locale: string }) {
+export function NewsList({ items }: { items: NewsItem[] }) {
   const [sort, setSort] = useState<SortMode>('latest')
 
   const sorted = useMemo(() => {
@@ -52,6 +52,8 @@ export function NewsList({ items, locale }: { items: NewsItem[]; locale: string 
       <ul className="list">
         {sorted.map((item) => {
           const icon = faviconUrl(item.url)
+          const domain = getDomain(item.url)
+          const sourceLabel = item.source && item.source !== 'Unknown' ? item.source : domain || 'N/A'
           return (
             <li key={item.slug} className="list-item">
               <div className="meta">
@@ -59,11 +61,11 @@ export function NewsList({ items, locale }: { items: NewsItem[]; locale: string 
                   {icon ? (
                     <img src={icon} alt="" className="favicon" />
                   ) : null}
-                  <span>{item.source || 'N/A'}</span>
+                  <span>{sourceLabel}</span>
                 </div>
                 <time>{new Date(item.published).toLocaleString()}</time>
               </div>
-              <Link href={`/${locale}/${item.category}/${item.slug}`} className="title">
+              <Link href={`/${item.category}/${item.slug}`} className="title">
                 {item.title}
               </Link>
               <p className="summary">{item.summary}</p>

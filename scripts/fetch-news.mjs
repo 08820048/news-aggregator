@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs'
 import path from 'node:path'
+import crypto from 'node:crypto'
 import Parser from 'rss-parser'
 import { format } from 'date-fns'
 
@@ -13,6 +14,9 @@ const parser = new Parser({
 
 const ROOT = process.cwd()
 const CONTENT_DIR = path.join(ROOT, 'content')
+
+const YOUDAO_APP_KEY = process.env.YOUDAO_APP_KEY
+const YOUDAO_APP_SECRET = process.env.YOUDAO_APP_SECRET
 
 const CATEGORIES = {
   tech: [
@@ -56,11 +60,50 @@ const ensureDir = (dir) => {
   if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true })
 }
 
-const writeMarkdown = (category, item) => {
+const truncate = (q) => {
+  if (!q) return ''
+  const len = q.length
+  if (len <= 20) return q
+  return q.slice(0, 10) + len + q.slice(len - 10)
+}
+
+const youdaoTranslate = async (text) => {
+  if (!text) return ''
+  if (!YOUDAO_APP_KEY || !YOUDAO_APP_SECRET) return text
+
+  const url = 'https://openapi.youdao.com/api'
+  const salt = String(Math.floor(Math.random() * 100000))
+  const curtime = String(Math.floor(Date.now() / 1000))
+  const signStr = YOUDAO_APP_KEY + truncate(text) + salt + curtime + YOUDAO_APP_SECRET
+  const sign = crypto.createHash('sha256').update(signStr).digest('hex')
+
+  const body = new URLSearchParams({
+    q: text,
+    from: 'auto',
+    to: 'zh-CHS',
+    appKey: YOUDAO_APP_KEY,
+    salt,
+    sign,
+    signType: 'v3',
+    curtime,
+  })
+
+  const res = await fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body,
+  })
+
+  const data = await res.json().catch(() => null)
+  if (!data || !data.translation) return text
+  return Array.isArray(data.translation) ? data.translation.join('\n') : String(data.translation)
+}
+
+const writeMarkdown = async (category, item) => {
   const published = item.isoDate ? new Date(item.isoDate) : new Date()
   const stamp = format(published, 'yyyyMMddHHmm')
-  const title = item.title?.trim() || 'Untitled'
-  const slug = slugify(`${stamp}-${title}`) || `${stamp}-item`
+  const titleRaw = item.title?.trim() || 'Untitled'
+  const slug = slugify(`${stamp}-${titleRaw}`) || `${stamp}-item`
   const filename = `${slug}.md`
   const targetDir = path.join(CONTENT_DIR, category)
   ensureDir(targetDir)
@@ -68,9 +111,14 @@ const writeMarkdown = (category, item) => {
   const filePath = path.join(targetDir, filename)
   if (fs.existsSync(filePath)) return null
 
-  const summary = cleanText(item.contentSnippet || item.content || item.summary || '')
+  const summaryRaw = cleanText(item.contentSnippet || item.content || item.summary || '')
+  const contentRaw = cleanText(item.content || item['content:encoded'] || summaryRaw || '')
   const source = item.creator || item.author || item.source || item.itunes?.author || 'Unknown'
   const link = item.link || ''
+
+  const title = await youdaoTranslate(titleRaw)
+  const summary = await youdaoTranslate(summaryRaw)
+  const content = await youdaoTranslate(contentRaw)
 
   const frontmatter = [
     '---',
@@ -79,11 +127,12 @@ const writeMarkdown = (category, item) => {
     `url: "${String(link).replace(/"/g, '\\"')}"`,
     `published: "${published.toISOString()}"`,
     `category: "${category}"`,
+    `summary: "${summary.replace(/"/g, '\\"')}"`,
     '---',
     '',
   ].join('\n')
 
-  const body = summary ? `${summary}\n` : 'No summary available.\n'
+  const body = content ? `${content}\n` : '暂无正文内容。\n'
   fs.writeFileSync(filePath, frontmatter + body, 'utf-8')
   return filePath
 }
@@ -117,7 +166,7 @@ const fetchCategory = async (category, feeds) => {
   let count = 0
   for (const item of sorted) {
     if (count >= MAX_ITEMS_PER_CATEGORY) break
-    const written = writeMarkdown(category, item)
+    const written = await writeMarkdown(category, item)
     if (written) count += 1
   }
 
