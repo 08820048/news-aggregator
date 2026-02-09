@@ -1,0 +1,9 @@
+---
+title: "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads"
+source: "Lauren Forristal"
+url: "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/"
+published: "2026-02-08T16:18:16.000Z"
+category: "tech"
+summary: "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX."
+---
+From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.
