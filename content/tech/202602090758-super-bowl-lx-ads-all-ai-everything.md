@@ -1,0 +1,8 @@
+---
+title: "Super Bowl LX ads: all AI everything"
+source: "Verge Staff"
+url: "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game"
+published: "2026-02-08T23:58:02.000Z"
+category: "tech"
+---
+Super Bowl LX is nearly here, with the Seattle Seahawks taking on the New England Patriots. While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much like crypto was a few years ago. Last year’s Super Bowl featured a Google Gemini ad that fumbled a Gouda cheese stat, and this year’s game is already slated to include an ad for Anthropic’s AI platform that takes jabs at its competitors, namely OpenAI. AI-generated ads could make an appearance, too. Super Bowl LX is set to kick off at 6:30PM ET/3:30PM PT on Sunday, February 8th, and is being broadcast on NBC and Peacock. Ring advertised its neighborhood surveillance network. AI.com promises agents or something. Pokémon 30. Mr. Beast and Rainbolt pop up with Super Bowl ad contests. T-Mobile and Coinbase’s Super Bowl ads used the Backstreet Boys in very different ways. Pepsi snags the polar bear for an apparently AI-free ad. Anthropic’s Super Bowl ad has a change that made it less directly about OpenAI and ChatGPT. OpenAI’s Super Bowl ad claims “You can just build things” with Codex. Pixar previews Hoppers. SpaceX brings Starlink to the Super Bowl broadcast. A space crab made of rocks would die for Ryan Gosling in the final Project Hail Mary trailer. From Crypto.com to AI.com. Alexa Plus tries to kill Chris Hemsworth in Amazon’s Super Bowl ad. Sam Altman responds to Anthropic’s ‘funny’ Super Bowl ads Anthropic’s first Super Bowl ad dunks on ChatGPT. Don’t expect any Kalshi or Polymarket ads during the Super Bowl.
