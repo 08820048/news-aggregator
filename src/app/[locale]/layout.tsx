@@ -10,11 +10,12 @@ export const metadata: Metadata = {
 
 interface LayoutProps {
   children: React.ReactNode
-  params: Promise<{ locale: Locale }>
+  params: Promise<{ locale: string }>
 }
 
 export default async function LocaleLayout({ children, params }: LayoutProps) {
-  const { locale } = await params
+  const { locale: rawLocale } = await params
+  const locale = (rawLocale as Locale) ?? 'zh'
   const dict = getDict(locale)
 
   return (

@@ -4,11 +4,13 @@ import { getNewsItem, getCategories, type Category } from '@/lib/news'
 import { getDict, type Locale } from '@/lib/i18n'
 
 interface PageProps {
-  params: Promise<{ locale: Locale; category: Category; slug: string }>
+  params: Promise<{ locale: string; category: string; slug: string }>
 }
 
 export default async function DetailPage({ params }: PageProps) {
-  const { locale, category, slug } = await params
+  const { locale: rawLocale, category: rawCategory, slug } = await params
+  const locale = (rawLocale as Locale) ?? 'zh'
+  const category = rawCategory as Category
   const categories = getCategories()
   if (!categories.includes(category)) notFound()
 

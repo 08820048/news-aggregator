@@ -3,11 +3,12 @@ import { getLatestNews } from '@/lib/news'
 import { getDict, type Locale } from '@/lib/i18n'
 
 interface PageProps {
-  params: Promise<{ locale: Locale }>
+  params: Promise<{ locale: string }>
 }
 
 export default async function HomePage({ params }: PageProps) {
-  const { locale } = await params
+  const { locale: rawLocale } = await params
+  const locale = (rawLocale as Locale) ?? 'zh'
   const dict = getDict(locale)
   const items = getLatestNews().slice(0, 30)
 
