@@ -15,7 +15,7 @@ export type NewsItem = {
 const CONTENT_DIR = path.join(process.cwd(), 'content')
 
 export const getCategories = () => ['tech', 'ai', 'finance', 'gaming'] as const
-export type Category = (typeof getCategories)[number]
+export type Category = ReturnType<typeof getCategories>[number]
 
 const readMarkdown = (filePath: string, category: string): NewsItem | null => {
   const raw = fs.readFileSync(filePath, 'utf-8')
