@@ -17,9 +17,11 @@ export default async function CategoryPage({ params }: PageProps) {
   const dict = getDict(locale)
   const items = getNewsByCategory(category)
 
+  const categoryLabel = dict[category as keyof typeof dict] ?? category
+
   return (
     <section>
-      <h1>{dict[category] ?? category}</h1>
+      <h1>{categoryLabel}</h1>
       <div className="list">
         {items.map((item) => (
           <article key={item.slug} className="card">
