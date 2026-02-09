@@ -103,9 +103,48 @@ a {
 
 .meta {
   display: flex;
-  flex-direction: column;
-  gap: 4px;
+  justify-content: space-between;
+  gap: 12px;
   font-size: 12px;
+  color: var(--muted);
+  flex-wrap: wrap;
+}
+
+.source {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.favicon {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+}
+
+.sort {
+  display: flex;
+  gap: 10px;
+  margin: 12px 0 4px;
+}
+
+.sort button {
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: transparent;
+  color: var(--muted);
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.sort button.active {
+  border-color: var(--accent);
+  color: var(--foreground);
+}
+
+.summary {
+  font-size: 14px;
   color: var(--muted);
 }
 
