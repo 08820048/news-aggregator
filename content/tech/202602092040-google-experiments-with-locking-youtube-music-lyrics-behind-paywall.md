@@ -1,0 +1,11 @@
+---
+title: "Google experiments with locking YouTube Music lyrics behind paywall"
+source: "
+                    Ryan Whitwam
+                "
+url: "https://arstechnica.com/google/2026/02/google-locks-youtube-music-lyrics-behind-paywall/"
+published: "2026-02-09T20:40:13.000Z"
+category: "tech"
+summary: "After a lengthy test, YouTube Music is making lyrics a premium feature."
+---
+The app’s lyrics feature allows listeners to follow along as the song plays. However, only the first few lines are visible once free users in the test hit the lyric cut-off. After that, the lyrics are blurred. Users who want to keep seeing lyrics are advised to upgrade to a premium account, which costs $14 for both YouTube video and music or $11 for music only. The subscription also removes ads and adds features like downloads and higher-quality video streams. The new paywall in YouTube Music. Credit: /u/MrYeet22836 and /u/Vegetable_Common188 The new paywall in YouTube Music. Credit: /u/MrYeet22836 and /u/Vegetable_Common188 This change is not without precedent. Spotify began restricting access to lyrics for free users in 2024. However, the response was so ferociously negative that the company backtracked and restored lyric access to those on ad-supported accounts. YouTube Music doesn’t have the same reach as Spotify, which may help soften the social media shame. Many subscribers are also getting the premium service just because they’re paying for ad-free YouTube and may never know there’s been a change to lyric availability. As Google has ratcheted up restrictions on free YouTube accounts, the service has only made more money. In Google’s most recent earnings report, it reported $60 billion in YouTube revenue across both ads and subscriptions (both YouTube Premium and YouTube TV). That’s almost $10 billion more than last year. Lyrics in YouTube Music are provided by third parties that Google has to pay, so it’s not surprising that Google is looking for ways to cover the cost. It is, however, a little surprising that the company hasn’t just used AI to generate lyrics for free. Google has recently tested the patience of YouTube users with a spate of AI features, like unannounced AI upscaling, fake DJs, and comment summaries. This story was updated with Google’s response.
