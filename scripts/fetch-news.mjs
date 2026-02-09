@@ -3,6 +3,8 @@ import fs from 'node:fs'
 import path from 'node:path'
 import crypto from 'node:crypto'
 import Parser from 'rss-parser'
+import { JSDOM } from 'jsdom'
+import { Readability } from '@mozilla/readability'
 import { format } from 'date-fns'
 
 const parser = new Parser({
@@ -99,6 +101,25 @@ const youdaoTranslate = async (text) => {
   return Array.isArray(data.translation) ? data.translation.join('\n') : String(data.translation)
 }
 
+const fetchFullContent = async (url) => {
+  if (!url) return ''
+  try {
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; NewsAggregator/1.0)'
+      }
+    })
+    const html = await res.text()
+    const dom = new JSDOM(html, { url })
+    const reader = new Readability(dom.window.document)
+    const article = reader.parse()
+    return cleanText(article?.textContent || '')
+  } catch (err) {
+    console.error(`Failed to fetch full content: ${url}`, err.message)
+    return ''
+  }
+}
+
 const writeMarkdown = async (category, item) => {
   const published = item.isoDate ? new Date(item.isoDate) : new Date()
   const stamp = format(published, 'yyyyMMddHHmm')
@@ -116,9 +137,12 @@ const writeMarkdown = async (category, item) => {
   const source = item.creator || item.author || item.source || item.itunes?.author || 'Unknown'
   const link = item.link || ''
 
+  const fullContent = await fetchFullContent(link)
+  const baseContent = fullContent || contentRaw
+
   const title = await youdaoTranslate(titleRaw)
   const summary = await youdaoTranslate(summaryRaw)
-  const content = await youdaoTranslate(contentRaw)
+  const content = await youdaoTranslate(baseContent)
 
   const frontmatter = [
     '---',
