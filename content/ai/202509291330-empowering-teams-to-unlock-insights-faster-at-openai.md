@@ -1,0 +1,9 @@
+---
+title: "Empowering teams to unlock insights faster at OpenAI"
+source: "Unknown"
+url: "https://openai.com/index/openai-research-assistant"
+published: "2025-09-29T13:30:00.000Z"
+category: "ai"
+summary: "OpenAI’s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company."
+---
+OpenAI’s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company.
