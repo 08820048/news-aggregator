@@ -1,0 +1,29 @@
+---
+title: "Mixtape Preview: It’s All About The Music in the Idyllic ‘90s"
+source: "Ryan McCaffrey"
+url: "https://www.ign.com/articles/mixtape-preview-its-all-about-the-music-in-the-idyllic-90s"
+published: "2026-02-10T17:43:10.000Z"
+category: "gaming"
+summary: "After playing 30 minutes of Mixtape, I can clearly see the direction developer Beethoven & Dinosaur is looking to take with this ‘90s-set teenage adventure. The visuals are striking, its sense of nostalgia and warmth are unlike anything I've seen recently, and the needle drops definitely made me want to play more than what the demo allowed me."
+---
+![Nick Maillet Avatar](https://assets-prd.ignimgs.com/avatars/609e9e721cacdb08d444a068/IMG_1482-1757971923475.jpg?crop=1%3A1&width=21&format=jpg&auto=webp&quality=80)
+
+Updated
+
+: Feb 10, 2026 5:49pm UTC
+
+I'm sure I'm not alone in thinking that mixtapes (or Spotify playlists now) were an important part of those crucial, formative teenage years. I'm also sure that I'm definitely not alone in the shared experience of putting together the perfect playlist to share with my friends or a significant other. Simply put, those playlists tell a story. And while the ones from my teenage years may seem like nothing more than whatever cool metalcore bands I was into and in at the time, te memories created from those long lost CD-Rs and iTunes playlists still stick with me years later.
+
+The importance of music during that formative but extremely awkward time is how we expressed ourselves and built an identity. The subgenres and scenes were as important to me as anything during those teenage years playing in garage bands, getting sunburned at the Warped Tour, and sifting through thousands of MP3s on my beat-up laptop in order to build that week's lineup of songs.
+
+In video game form, Mixtape does – at least so far – an excellent job at invoking the feeling of needing that perfect soundtrack for day-to-day life. From the start of the demo, I was skating in a picturesque northwestern town during golden hour while listening to Devo’s “That’s Good”. The vibe check was passed immediately when the protagonist, Stacey, breaks the fourth wall and explains the importance of good headphones and a good playlist. Mixtape’s presentation is a hybrid of a traditional point-and-click adventure similar to Life is Strange, mixed with abrupt but natural fourth-wall breaks for exposition and what the characters are feeling in that moment. While this isn't a new thing, very few games have managed to pull it off like Mixtape does, and it has yet to overstay its welcome.
+
+Mixtape seems best described as a blend of a video game and a stylish TV show.“
+
+From the few chapters I've played, Mixtape seems best described as a blend of a video game and a stylish TV show. The camera work and intentionally low frame rate animation on the characters lend a charm to it, and the dialogue, while a bit campy, never took me out of the moment. Stacey, Slater, and Cassandra are very much your typical teenage archetypes in the best way possible. While they weren't annoying or overbearing like some rebellious teen-fronted games tend to be, the trio are definitely written in an unrealistic way that works perfectly for the story Mixtape is trying to tell. It's obvious that these three are meant to be stereotypical in a way that evokes a feeling of nostalgia from the player. There were a few moments where I found myself saying “been there before,” and for a story that's clearly trying to invoke a specific feeling of anemoia (nostalgia for a time that never existed) with the player, it nails that.
+
+Let's talk about Mixtape’s namesake. The music here, while not necessarily anything that would have landed on one of the thousands of CD-Rs I made as a teen, is outstanding. In the little bit of the campaign I played, the needle drops included a mix of songs ranging from Devo to Silverchair, which show the potential diversity of Mixtape's final soundtrack, and I'm glad the developers at Beethoven & Dinosaur didn't go with your run of the mill “safe” selection of hits from the ‘90s. It's obvious that the team is digging deep with the music selection in order to not only tell its story about music snobs hoping to craft the perfect mixtape in order to get a job as a music supervisor, but also tell the story about the final day of three teens' high school years.
+
+Of course, vibes and music aren't everything when it comes to video games, and the gameplay is where Mixtape started to feel a little flat. While there were a few moments in the demo that required a bit more interactivity than finding something highlighted on screen, such as escaping from the police in a shopping cart, throwing toilet paper at Stacey’s principals house, and positioning Stacey and Slater into various poses in a photo booth, the select chapters I played felt like they were missing the welcome bit of interactivity that other point-and-click adventures offer. While the best moments had a decent amount of gameplay, a few chapters felt like I was watching a (very polished) interactive show rather than playing a video game. That being said, Mixtape's gameplay isn't necessarily the selling point here, because every time I found myself thinking about it, something cool would happen on screen, the needle would drop, and I would be pulled right back into Stacey Rockford's story.
+
+After playing 30 minutes of Mixtape, I can clearly see the direction Beethoven & Dinosaur is looking to take with this ‘90s-set teenage adventure. The visuals are striking, its sense of nostalgia and warmth are unlike anything I've seen recently, and the needle drops definitely made me want to play more than what the demo allowed me. Is it going to be everyone's favorite thing? Probably not, but that's the fun of making the perfect mixtape, isn't it?
