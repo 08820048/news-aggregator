@@ -5,6 +5,7 @@ import crypto from 'node:crypto'
 import Parser from 'rss-parser'
 import { JSDOM } from 'jsdom'
 import { Readability } from '@mozilla/readability'
+import TurndownService from 'turndown'
 import { format } from 'date-fns'
 
 const parser = new Parser({
@@ -101,6 +102,12 @@ const youdaoTranslate = async (text) => {
   return Array.isArray(data.translation) ? data.translation.join('\n') : String(data.translation)
 }
 
+const turndown = new TurndownService({
+  headingStyle: 'atx',
+  codeBlockStyle: 'fenced',
+  bulletListMarker: '-',
+})
+
 const fetchFullContent = async (url) => {
   if (!url) return ''
   try {
@@ -113,7 +120,9 @@ const fetchFullContent = async (url) => {
     const dom = new JSDOM(html, { url })
     const reader = new Readability(dom.window.document)
     const article = reader.parse()
-    return cleanText(article?.textContent || '')
+    if (!article?.content) return ''
+    const markdown = turndown.turndown(article.content)
+    return markdown.trim()
   } catch (err) {
     console.error(`Failed to fetch full content: ${url}`, err.message)
     return ''
