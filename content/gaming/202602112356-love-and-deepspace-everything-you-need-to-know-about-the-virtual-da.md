@@ -1,0 +1,71 @@
+---
+title: "Love and Deepspace: Everything You Need to Know About the Virtual Dating Game"
+source: "Rachel Weber"
+url: "https://www.ign.com/articles/love-and-deepspace-everything-you-need-to-know-about-the-virtual-dating-game"
+published: "2026-02-11T23:56:36.000Z"
+category: "gaming"
+summary: "Everything You Need to Know About the Virtual Dating Game"
+---
+Love and Deepspace is a virtual boyfriend game (also known as an otome game) where you play as a character who fights monster aliens while five men fight for her love. It's available to download on iOS and Android and works on the old free-to-play, gacha mechanic. The ultimate aim is to build your relationships with one, two, or all of the men (we listen and we don't judge) by interacting with them, fighting alongside them, texting them, completing their storylines and even… playing with claw machines to collect plushies. It was developed by [Papergames](https://www.ign.com/games/producer/papergames), which is also the studio behind [Infinity Nikki](https://www.ign.com/articles/infinity-nikki-review).
+
+## **What's the plot of Love and Deepspace?**
+
+You know how it goes, a Deepspace Tunnel opens up and suddenly alien monsters are causing havoc. As the main character living in 2034, in the fictional Linkon City, it's your job to battle these alien monsters as part of an organisation called the Hunters Association. The Hunters all wield a special ability called an Evol and yours is Resonance, one that works alongside other Evol wielders' to boost their skills. Throw in a shady biotech company called EVER, an organized crime syndicate called Onychinus, the Farspace Fleet, medical experiments and secrets a plenty, and you've got the storyline that makes the average love story look like child's play.
+
+## **Who are the men of Love and Deepspace?**
+
+There are five potential love interests in Love and Deepspace. Each has a different personality and storyline, but the one thing they all have in common is being obsessed with you. You can choose to focus on just one or play the field, and while they are mentioned in each other's storylines, they don't interact directly. Each has a specific Evol (think superpower) and multiple storylines that take place in both the modern day and in different lifetimes.
+
+Light spoiler warnings ahead, although the non-linear way in which you unlock memories means piecing the storylines together is more of a puzzle than a straight path.
+
+-   **Xavier** - Fights alongside you as a Hunter, gentle and caring, is actually a time traveller from the future. His Evol is light.
+-   **Zayne** - A cardiac surgeon with a grumpy outer shell but a sweet toothed gooey middle. His Evol is ice.
+-   **Rafayel** - A sensitive, pouty artist who hates cats and is actually one of the last survivors of an ancient race called the Lemurians. His Evol is fire.
+-   **Sylus** - Powerful and strategic, with distinctive silver hair and red eyes, Sylus is the leader of the crime syndicate called Onychinus. His Evol is Energy.
+-   **Caleb** - The main character's adoptive brother, and a Farspace Fleet pilot. Protective and possessive, he was one thought dead, but returned as a Colonel in the Farspace Fleet. His Evol is Gravity.
+
+## **What are the mechanics in Love and Deepspace?**
+
+There are a whole bunch of mechanics in Love and Deepspace, and all of them contribute to your relationship with the different male characters.
+
+### Combat
+
+You take on different combat challenges in the storyline to progress, and regular activities like bounty hunts or Hunter training to earn rewards. You're always paired with one of the male characters, and your choice of special attacks will depend on their Evol. Players have the option to set combat to an auto mode where the battle plays out without your input.
+
+### Texts and phonecalls
+
+You'll receive texts from each of the men at various points, and you're giving a selection of dialogue options to reply with. As your relationship increases you'll also get phone calls from them to discuss various events or check in. You can also comment on their posts on a Facebook like feed, send them emojis, and poke them.
+
+### Physical Interactions
+
+You interact with each of the men in a setting called the Destiny Cafe. You can touch various parts of their body to elicit reactions, feel their heartbeat, or blow on your microphone.
+
+### Conversation
+
+In the Destiny cafe you can also prompt them to have different types of conversations with you. You can get them to introduce themselves to your family or friends (a great way to weird your parents out over lunch) or to suggest what you should have for breakfast. Again, the dialogue options are heavily guardrailed so this isn't going to head into AI sexbot territory. Sorry. You can also use the notebook function to ask them to set reminders for you, everything from important dates to tracking your period.
+
+### Quality Time
+
+Basically the world's most handsome Pomodoro timers. You can choose to Work, Workout, Study or Sleep for a set amount of time with any of the guys, and you can even do it in AR mode, so that you can reach new heights of comforting delusion by framing them in your real surroundings.
+
+### Dates
+
+With Love and Deepspace dates you can go with the guys to try and grab plush toys at a claw machine, play a game called Kitty Cards against them, and go to a photo studio to get video or snapshots with them, or of them. You can style them, change the poses and backgrounds, and they have way more patience than any real life love interest would. In this section you can also update a personal journal with stickers and notes and photos, listen to audio recordings starring them, or access 'Falling for You' videos and visual novels content telling the story of your relationship.
+
+### Home
+
+A recent addition, this mode brings a bit of The Sims to Love and Deepspace. You have a house to decorate with new rooms unlocking as you complete activities in the home, and each of the men can spend time with you there. It's kinda cute to see badass Sylus dusting bookshelves because you've told him to do chores. There's a gardening element too, where you can grow flowers that can be used in flower arranging without or without the boy's input, and new blooms can be unlocked by hybridizing the plants.
+
+[
+
+](https://assets-prd.ignimgs.com/2026/02/11/1-1-1770854296968.jpg)
+
+## **How do the gacha mechanics work in Love and Deepspace?**
+
+Like [Genshin Impact](https://www.ign.com/games/genshin-impact), you can buy or earn wishes to speed up your progress in Love and Deepspace, and there's a number of in-game currencies which can be earned or bought.
+
+Here the wishes represent memories with the men of Love and Deepspace, with different rarities and values attached to each. Five star memories, for instance, can be used to experience Each memory can be upgraded with Heartsand and crystals which can be earned by taking part in bounty hunts, or completing tasks and protocores, which are collected through combat.
+
+Some memories are only available during special events, though those events are repeated sporadically to allow you more than one chance to grab specific wishes. Previous events have included a Star Wars style Throne of Eros storyline and Mortality's Tenderness, which has a classical Chinese theme.
+
+_Rachel Weber is the Head of Editorial Development at IGN and an elder millennial. She's been a professional nerd since 2006 when she got her start on Official PlayStation Magazine in the UK, and has since worked for GamesIndustry.Biz, Rolling Stone and GamesRadar. She loves horror, horror movies, horror games, Red Dead Redemption 2, and her Love and Deepspace boyfriends._
