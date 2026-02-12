@@ -1,0 +1,41 @@
+---
+title: "Spider-Noir isn't Peter Parker in the upcoming Nicolas Cage show"
+source: "Samantha Nelson"
+url: "https://www.polygon.com/spider-noir-ben-reilly-marvel-comics-explainer/"
+published: "2026-02-12T16:48:34.000Z"
+category: "gaming"
+summary: "Nic Cage plays Ben Reilly rather than an alternate-universe Peter Parker. Here's who Spider-Noir is in the comics, and what's different in the show."
+---
+[_Spider-Man: Into the Spider-Verse_](https://www.polygon.com/2018/11/28/18105326/spider-man-into-the-spider-verse-review/) brought together [numerous alternate-universe versions](https://www.polygon.com/2018/7/21/17597350/spider-man-into-the-spider-verse-comic-con-2018-characters-peter-porker-peni-parker-noir-spider-ham/) of Marvel’s web-crawling superhero, including Miles Morales (Shameik Moore), Spider-Gwen (Hailee Steinfeld), and Spider-Man Noir (Nicolas Cage). While we’re still waiting for that story to conclude with [_Beyond the Spider-Verse_](https://www.polygon.com/animation-cartoons/550215/spider-man-beyond-the-spider-verse-first-look-images/), Cage’s brooding, black-and-white character is getting his own live-action spin-off series, [_Spider-Noir_](https://www.polygon.com/23592796/spider-man-noir-live-action-series-amazon/), which premieres on Prime Video on May 27.
+
+As a new trailer reveals, this [film noir](https://www.polygon.com/noirvember-streaming-what-to-watch-classics-neo-noir-recommendations/)\-flavored version of the character is actually a variant of [Ben Reilly](https://www.polygon.com/reviews/22712817/spider-man-75-review-marvel-ben-reilly/), even though the original comic depicted a dark, brooding alternate-reality Peter Parker instead. Even for Spidey fans steeped in the character’s comic book history, Noir's backstory may be a bit confusing at first. So with that in mind, here’s a guide to this 1930s vigilante and the comics that _Spider-Noir_ showrunners Oren Uziel and Steve Lightfoot are drawing on.
+
+    ![Spider-Man noir leaps from a building on the cover of Spider-Man Noir](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/91qiev9v0ul-_sl1500_.jpg?q=70&fit=crop&w=750&dpr=1)Image: Marvel Comics
+
+## Who is Spider-Noir in Marvel Comics?
+
+Between 2009 and 2010, Marvel Comics released the Marvel Noir miniseries, which presented new versions of characters like Iron Man, Daredevil, and Wolverine, all inspired by film noir and pulp fiction. The _Spider-Man Noir_ title introduced a version of Peter Parker living in New York in 1933.
+
+Things are tough during the Great Depression. The racketeer [Norman Osborn](https://www.polygon.com/22841570/spider-man-no-way-home-green-goblin-villains/) (aka the Goblin) effectively controls the city, working with corrupt cops, politicians, and industrialists. His enforcers include other Spider-Man villains like [Vulture](https://www.polygon.com/tom-holland-spider-man-homecoming-movie-tubi/), [Kraven](https://www.polygon.com/marvel/539850/kraven-hunter-movie-sony-spider-man-potion-comics-origin/), and [Chameleon](https://marvel.fandom.com/wiki/Dmitri_Smerdyakov_\(Earth-616\)), who in this world are all former carnies.
+
+When the Goblin’s goons kill [Uncle Ben](https://www.polygon.com/marvel/517917/spider-man-your-friendly-neighborhood-where-is-uncle-ben/), Peter dedicates his life to making the city better. He helps the unhoused at a shelter [Aunt May](https://www.polygon.com/2015/7/8/8915787/aunt-may-marisa-tomei-spider-man/) runs. He also starts working for [The Daily Bugle](https://www.polygon.com/2019/7/7/20683487/spider-man-far-from-home-spoilers-j-jonah-jameson-actor/) as a photojournalist — in a surprising twist, this world’s version of [J. Jonah Jameson](https://www.polygon.com/comics/2019/7/5/20681363/spider-man-j-jonah-jameson-movie-vs-comics-far-from-home-end-credits-easter-egg-cameo/) is an advocate for liberty and equality, rather than the sensationalist fearmonger of modern Spider-Man stories.
+
+    ![Spider-Noir (Nic Cage) wearing a black mask with white eyes and a fedora perches in front of stained glass in Spider-Noir](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/nore_still_4.jpg?q=49&fit=crop&w=825&dpr=2)Image: Prime Video
+
+Following a tip meant for his professional mentor, investigative reporter Ben Urich (a character who most recently appeared in [Netflix’s _Daredevil_](https://www.polygon.com/tv/534065/daredevil-born-again-netflix-recap-wilson-fisk-kingpin/)), Peter snoops on the Goblin’s enforcers as they steal a shipment of antiquities, which includes a box of mystic spiders. One of those spiders escapes and bites Peter, giving him the powers of Spider-Man. He uses these abilities to fight the Goblin with the help of Felicia Hardy, owner of [The Black Cat](https://www.polygon.com/2018/10/25/18015408/black-cat-catwoman-ripoff-spider-man-batman/) speakeasy.
+
+Uziel and Lightfoot are taking inspiration from these comics and other film noir tropes. Spider-Noir’s femme fatale will be Cat Hardy (Li Jun Li), a lounge singer. The hero will be investigating the New York mob boss [Silvermane](https://marvel.fandom.com/wiki/Silvio_Manfredi_\(Earth-616\)) (Brendan Gleeson), a character who’s been a Spider-Man antagonist since 1969, but unlike Norman Osborn, hasn’t appeared in a live-action adaptation before. Cage’s Spider-Noir also works closely with Robbie Robertson (Lamorne Morris), a journalist who’s appeared in comics since 1967, including the _Spider-Man Noir_ series. Robbie is usually portrayed as working for the Bugle, but for the show, he’s a freelance journalist always hunting for his next story.
+
+But by far the biggest difference between the show and the source material is that Uziel and Lightfoot changed the character's alter ego from Peter Parker to Ben Reilly, a character first introduced in [_Amazing Spider-Man #149_](https://marvel.fandom.com/wiki/Amazing_Spider-Man_Vol_1_149) in 1975.
+
+    ![A black and white image of a window on a brick building that says "B. Reilly Private Investigator"](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/nore_still_6_3000.jpg?q=49&fit=crop&w=825&dpr=2)Image: Prime Video
+
+## Who is Ben Reilly in Marvel Comics?
+
+Ben Reilly is a clone of Peter Parker created by Peter’s biology professor, Miles Warren, also known as Jackal because he spliced himself with jackal genes. Jackal made the clone fight Spider-Man, and Ben was seemingly killed in an explosion. However, the character returned in the ’90s and took the name Ben Reilly as a tribute to both Uncle Ben and Aunt May (her maiden name is Reilly). Ben became a hero in his own right, known as the Scarlet Spider, and even took on the mantle of Spider-Man for a while when Peter took a break to focus on fixing his personal life.
+
+It’s unlikely that _Spider-Noir_ will make Cage’s character a Peter Parker clone, but the trailer does seem to suggest this version of the hero also got his powers from some form of mad science. There are multiple scenes featuring creepy-looking doctors, and Ben is seen in what looks like a military hospital, and standing in uniform next to a tarantula in a jar. The film noir genre emerged in the wake of World War II, and many of its stories deal with veterans struggling to adjust to civilian life.
+
+It seems likely that _Spider-Noir_ will tap into the same themes by having Ben be a World War I veteran who was subjected to military experiments. The same experiments could have been what created the other superpowered people featured in the show, like Flint Marko/Sandman (Jack Huston) and an arsonist who can generate his own fire.
+
+In an interview with [Esquire](https://www.esquire.com/entertainment/tv/a70288166/spider-noir-spider-verse-color-transformation-explained-exclusive/), Uziel said he opted to make the show’s protagonist Ben Reilly instead of Peter Parker because Peter is synonymous with youthful optimism, and Uziel wanted a more classic noir hero who is haunted by his past. In another nod to the genre’s traditions, Ben will be a private investigator rather than a photographer. Producer Phil Lord said that Cage is playing the character as “a spider trying to cosplay as a human,” which I honestly cannot wait to see.
