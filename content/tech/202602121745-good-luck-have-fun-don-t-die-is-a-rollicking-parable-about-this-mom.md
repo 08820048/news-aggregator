@@ -1,0 +1,33 @@
+---
+title: "Good Luck, Have Fun, Don’t Die is a rollicking parable about this moment in tech"
+source: "Charles Pulliam-Moore"
+url: "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review"
+published: "2026-02-12T17:45:00.000Z"
+category: "tech"
+summary: "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and working on our devices. And even though we understand that we'd be better off with less screen time, our extremely online society doesn't exactly encourage that kind of healthy behavior. These are some of the familiar ideas at work in Good Luck, Have Fun, Don't Die, director Gore Verbinski's new sci-fi film about a man's desperate fight to save humanity from an apocalyptic future where m … Read the full story at The Verge."
+---
+We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it’s bad, but we still do it because it’s hard to resist when much of our time is spent living and working on our devices. And even though we understand that we’d be better off with less screen time, our extremely online society doesn’t exactly encourage that kind of healthy behavior.
+
+These are some of the familiar ideas at work in [_Good Luck,_ _Have Fun, Don’t Die_](https://www.theverge.com/entertainment/818994/good-luck-have-fun-dont-die-trailer)_,_ director Gore Verbinski’s new sci-fi film about a man’s desperate fight to [save humanity from an apocalyptic future](https://www.theverge.com/entertainment/858584/sam-rockwell-anti-ai-good-luck-have-fun-dont-die) where machines have taken over the world. Though the movie’s time-travelling, robot-fighting premise immediately calls the _Terminator_ and _Matrix_ franchises to mind, _Good Luck, Have Fun, Don’t Die_ is a much weirder and more whimsical exploration of our anxieties about artificial intelligence.
+
+At times, the film stumbles as it tries to comedically articulate all the ways in which tomorrow’s societal collapse can be traced back to our present day screen addictions. But as unhinged as _Good Luck_’s story becomes, it speaks directly to our present moment, constantly being bombarded with brain-smoothing content while being pushed to unthinkingly adopt new technology.
+
+Set largely in present day Los Angeles, _Good Luck_ follows an unnamed man claiming to be from the future (a surprisingly magnetic Sam Rockwell) as he holds up a diner and tries to convince its patrons to join him on a quest to prevent AI from becoming an unstoppable threat. In the time traveler’s reality, what’s left of humanity has gone into hiding. At first, no one in the diner puts much stock in the man’s ravings. But they all start taking him more seriously when he flings open his homemade time travel suit — which looks like a bunch of garbage he’s taped together — and tells them he’s wired himself with explosives.
+
+Though there is a madcap zaniness to the way _Good Luck, Have Fun, Don’t Die_ introduces its world-weary protagonist, the movie repeatedly shifts gears as it peeks into the lives of the people he hopes are the right individuals to recruit to his cause. The film feels like a C-tier horror when it flashes back to the day that teachers Janet (Zazie Beetz) and Mark (​​Michael Peña) have had while trapped in a school full of students who become hypnotized by a strange signal emanating from their phones. But the menacing vibes are much more grounded by relationship drama when we’re given a glimpse into the life of Ingrid (Haley Lu Richardson), a woman who struggles to keep a job because of her unusual allergy to Wi-Fi signals.
+
+Despite having made his trip into the past to that specific diner dozens of times, the man from the future isn’t entirely certain which combination of people is the right one. It’s only because he already knows so many details about them all that some of the people start to believe that he might be telling the truth. And while none of them are fully certain that the man can be trusted, Susan (Juno Temple) — a mother who has recently gone through a devastating loss — has a feeling that the things he’s saying tie directly into the personal challenges they’ve all been dealing with.
+
+[![Four woman and three men standing together in a semicircle looking down at something on the floor in confusion.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/GoodLuckHaveFunDontDie_Still-2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/GoodLuckHaveFunDontDie_Still-2.jpg?quality=90&strip=all&crop=0,0,100,100)
+
+Image: Briarcliff Entertainment
+
+Matthew Robinson’s script has a tendency to get a little overbusy, but the film’s _Rashomon_\-like approach to unveiling its larger story gives Verbinski — whose last film, [_A Cure For Wellness_](https://www.theverge.com/2017/2/8/14544772/a-cure-for-wellness-review-gore-verbinski-dane-dehaan)_,_ premiered nine years ago — ample space to play around with his directorial style. He often leans into a visual hyperactiveness that echoes the future man’s physical jitteriness and reflects the film’s ideas about the dangers of being hyperstimulated by technology. That energy works especially well during some of _Good Luck_’s more batshit action sequences involving creatures that look like indictments of gen AI slop. But the movie’s most effective scenes come when Verbinski slows his camera down to give us a good look at just how strange and dysfunctional this world already is in the present.
+
+Even when _Good Luck, Have Fun, Don’t Die_ is tripping over its own feet to weave its plots together, the movie is an inspired joyride that’s trying to say a little bit about everything that makes life in 2026 feel like we’re hurtling into an abyss. And in this moment when Hollywood is rushing to get everyone to embrace the gen AI agenda, it’s a relief to see someone tell us the sky is falling with urgency, even if he’s got a bomb strapped to his chest.
+
+_Good Luck, Have Fun, Don’t Die_ also stars Asim Chaudhry, Tom Taylor, Riccardo Drayton, Dino Fetscher, Anna Acton, Daniel Barnett, Dominique Maher, Adam Burton, and Georgia Goodman. The movie hits theaters on February 13th.
+
+**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.
+
+-   Charles Pulliam-Moore
