@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "fetch:news": "node scripts/fetch-news.mjs"
+    "fetch:news": "node scripts/fetch-news.mjs",
+    "check:domains": "node scripts/domain-health-check.mjs"
   },
   "dependencies": {
     "@mozilla/readability": "^0.6.0",
@@ -15,6 +16,7 @@
     "gray-matter": "^4.0.3",
     "jsdom": "^28.0.0",
     "next": "16.1.6",
+    "nodemailer": "^8.0.1",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "rss-parser": "^3.13.0",
