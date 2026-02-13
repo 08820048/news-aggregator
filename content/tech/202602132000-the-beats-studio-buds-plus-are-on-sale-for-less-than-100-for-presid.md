@@ -1,0 +1,27 @@
+---
+title: "The Beats Studio Buds Plus are on sale for less than $100 for Presidents Day"
+source: "Sheena Vasani"
+url: "https://www.theverge.com/gadgets/878951/beats-studio-buds-plus-earbuds-presidents-day-sale-deal"
+published: "2026-02-13T20:00:56.000Z"
+category: "tech"
+summary: "If you like how well AirPods work with iPhones but want something more colorful and flexible, the Beats Studio Buds Plus are a nice middle ground. They’re platform-agnostic and are on sale for $99.95 ($70 off) at Amazon, Best Buy, Target, and Walmart for Presidents Day. The deal includes the eye-catching translucent option and is just $10 shy of the buds’ best price to date. Beats Studio Buds Plus Where to Buy: $169.95 $99.95 at Amazon $169.95 $99.95 at Walmart $169.95 $99.99 at Best Buy Unlike Apple’s AirPods, the Beats Studio Buds Plus play well with both iOS and Android devices, which is why they’re among our favorite wireless earbuds. You don’t get every ecosystem perk, but you do get a lot of the essentials. Apple iPhone owners, for example, get hands-free Siri, Find My support, one-step pairing, and Control Center integration. You miss out on AirPods-exclusive features like automatic device switching and spatial audio head-tracking, but in exchange, Android users get native support for Google’s Find Hub platform, Fast Pair, and audio switching. Aside from software perks, the Beats Studio Buds Plus also sound excellent and deliver good noise cancellation that works well, even if not as impressively as the AirPods Pro. The tiny wireless earbuds are also among the most comfortable you can buy. Beats includes four swappable ear tips for a more secure fit. It’s a shame they lack wireless charging, but they can last up to 9 hours on a single charge, with up to 27 hours total with the case. Plus, they offer IPX4 water resistance, so they can handle sweat and light rain. Read our Beats Studio Buds Plus review."
+---
+[![Sheena Vasani](https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/SHEENA_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96)](https://www.theverge.com/authors/sheena-vasani)
+
+Sheena Vasani
+
+writes about tech news, reviews gadgets, and helps readers save money by highlighting deals and product recommendations for _The Verge_.
+
+If you like how well AirPods work with iPhones but want something more colorful and flexible, the **Beats Studio Buds Plus** are a nice middle ground. They’re platform-agnostic and are on sale for $99.95 ($70 off) at [Amazon](https://www.amazon.com/Beats-Cancelling-Compatibility-Microphone-Headphones/dp/B0BZK2Z2TC/?tag=theverge02-20), [Best Buy](https://bestbuy.7tiv.net/c/482924/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fbeats-studio-buds-true-wireless-noise-cancelling-earbuds-transparent%2FJJ8ZHR2C24), [Target](https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Fbeats-studio-buds-true-wireless-bluetooth-noise-cancelling-earbuds%2F-%2FA-89220711), and [Walmart](https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBeats-Studio-Buds-True-Wireless-Noise-Cancelling-Earbuds-w-AppleCare-Clear%2F2846002354%2F) for Presidents Day. The deal includes the eye-catching translucent option and is just $10 shy of the buds’ best price to date.
+
+[![A photo of Beats’ translucent Studio Buds Plus earbuds.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662267/DSCF0760_2.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400)](https://www.amazon.com/Beats-Cancelling-Compatibility-Microphone-Headphones/dp/B0BZK2Z2TC/?tag=theverge02-20)[![A photo of Beats’ translucent Studio Buds Plus earbuds.](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662267/DSCF0760_2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)](https://www.amazon.com/Beats-Cancelling-Compatibility-Microphone-Headphones/dp/B0BZK2Z2TC/?tag=theverge02-20)
+
+$100
+
+Unlike [Apple’s AirPods](https://www.theverge.com/headphone-review/777798/airpods-pro-3-review-active-noise-cancelling-live-translation-headphones), the Beats Studio Buds Plus play well with both iOS and Android devices, which is why they’re [among our favorite wireless earbuds](https://www.theverge.com/21309820/best-wireless-earbuds). You don’t get every ecosystem perk, but you do get a lot of the essentials. Apple iPhone owners, for example, get hands-free Siri, Find My support, one-step pairing, and Control Center integration. You miss out on AirPods-exclusive features like automatic device switching and spatial audio head-tracking, but in exchange, Android users get native support for Google’s Find Hub platform, Fast Pair, and audio switching.
+
+Aside from software perks, the Beats Studio Buds Plus also sound excellent and deliver good noise cancellation that works well, even if not as impressively as the AirPods Pro. The tiny wireless earbuds are also among the most comfortable you can buy. Beats includes four swappable ear tips for a more secure fit. It’s a shame they lack wireless charging, but they can last up to 9 hours on a single charge, with up to 27 hours total with the case. Plus, they offer IPX4 water resistance, so they can handle sweat and light rain.
+
+**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.
+
+-   Sheena Vasani
