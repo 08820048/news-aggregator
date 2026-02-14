@@ -1,0 +1,41 @@
+---
+title: "Airbnb plans to bake in AI features for search, discovery and support"
+source: "Ivan Mehta"
+url: "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/"
+published: "2026-02-14T02:40:42.000Z"
+category: "tech"
+summary: "Airbnb CEO Brian Chesky said the company wants to increase its use of large language models for customer discovery, support and engineering."
+---
+Airbnb has taken its time to launch AI features within the app, but CEO Brian Chesky on Friday said the company is now planning to bake in features powered by large language models that would help users search for listings, plan their trips, and aid hosts in managing their properties.
+
+Speaking at the company’s fourth-quarter conference call, Chesky said the company wants to increase its use of large language models for customer discovery, support and engineering.
+
+“We are building an AI-native experience where the app does not just search for you. It knows you. It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale,” he said.
+
+The company separately said it is testing a new feature that lets users search and ask questions about properties and locations using natural language queries.
+
+Currently, Airbnb offers an LLM-powered customer service bot, for some personalization, and communications. The new AI search feature is expected to “evolve into a more comprehensive and intuitive search experience that extends through the trip.”
+
+Questioned by analyst whether Airbnb would roll out sponsored property slots within AI search, Chesky said the company wants to get the design and user experience right first.
+
+“AI search is live to a very small percentage of traffic right now. We are doing a lot of experimentation. Over time, we are gonna be experimenting with making AI search more conversational, integrating it into more than the trip, and, eventually, we will be looking at sponsor listings as a result of that,” Chesky said, adding that Airbnb would consider designing an ad unit that fits the conversational search flow.
+
+Techcrunch event
+
+Boston, MA | June 23, 2026
+
+Chesky said Airbnb plans to tap the AI expertise of its new CTO, Ahmad Al-Dahle (he worked on Meta’s Llama models previously), to use its trove of identity and review data to make the app more useful.
+
+Airbnb claimed its [AI-powered customer support](https://techcrunch.com/2025/05/02/airbnb-is-quietly-rolling-out-an-ai-customer-service-bot-in-the-us/) bot, launched in North America last year, now handles a third of customer problems without needing any human intervention. Chesky noted there are plans to enable customers to call the AI bot for support, and expand language coverage to customer support as well.
+
+“A year from now, if we are successful, significantly more than 30% of tickets will be handled by a custom service agent, in many more languages, in all the languages where we have live agents. AI customer service will not only be chat, it will be voice,” he said.
+
+The company is also thinking about increasing AI usage internally. Airbnb said 80% of its engineers use AI tools, but the goal is to get to 100%.
+
+Airbnb reported better-than-expected revenue of $2.78 billion in the fourth quarter, up 12% from a year earlier.
+
+Ivan covers global consumer tech developments at TechCrunch. He is based out of India and has previously worked at publications including Huffington Post and The Next Web.
+
+You can contact or verify outreach from Ivan by emailing [im@ivanmehta.com](mailto:im@ivanmehta.com) or via encrypted message at ivan.42 on Signal.
+
+[View Bio](https://techcrunch.com/author/ivan-mehta/)
