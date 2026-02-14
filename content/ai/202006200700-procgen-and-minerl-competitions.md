@@ -1,0 +1,13 @@
+---
+title: "Procgen and MineRL Competitions"
+source: "Unknown"
+url: "https://openai.com/index/procgen-minerl-competitions"
+published: "2020-06-20T07:00:00.000Z"
+category: "ai"
+summary: "We’re excited to announce that OpenAI is co-organizing two NeurIPS 2020 competitions with AIcrowd, Carnegie Mellon University, and DeepMind, using Procgen Benchmark and MineRL."
+---
+To further catalyze research in this direction, we are co-organizing the [MineRL 2020 Competition⁠(opens in a new window)](https://www.aicrowd.com/challenges/neurips-2020-minerl-challenge) which aims to foster the development of algorithms which can efficiently leverage human demonstrations to drastically reduce the number of samples needed to solve complex, hierarchical, and sparse environments. To that end, participants will compete to develop systems which can obtain a diamond in [Minecraft⁠(opens in a new window)](http://minercraft.net/) from raw pixels using only 8,000,000 samples from the [MineRL simulator⁠(opens in a new window)](http://minerl.io/docs) and 4 days of training on a single GPU machine. Participants will be provided the MineRL-v0 dataset ([website⁠(opens in a new window)](http://minerl.io/dataset/), [paper⁠(opens in a new window)](https://arxiv.org/abs/1907.13440)), a large-scale collection of over 60 million frames of human demonstrations, enabling them to utilize expert trajectories to minimize their algorithm’s interactions with the Minecraft simulator.
+
+This competition is a follow-up to the [MineRL 2019 Competition⁠(opens in a new window)](https://www.aicrowd.com/challenges/neurips-2019-minerl-competition) in which the [top team’s agent⁠(opens in a new window)](https://arxiv.org/pdf/1912.08664v2.pdf) was able to [obtain an iron pickaxe⁠(opens in a new window)](https://www.youtube.com/watch?v=GHo8B4JMC38&feature=youtu.be) (the penultimate goal of the competition) under this extremely limited compute and simulator-interaction budget. Put in perspective, state-of-the-art standard reinforcement learning systems require hundreds of millions of environment interactions on large multi-GPU systems to achieve the same goal. This year, we anticipate competitors will push the state-of-the-art even further.
+
+To guarantee that competitors develop truly sample efficient algorithms, the MineRL competition organizers train the top team’s final round models from scratch with strict constraints on the hardware, compute, and simulator-interaction available. The MineRL 2020 Competition also features a novel measure to avoid hand engineering features and overfitting solutions to the domain. More details on the competition structure can be found [here⁠(opens in a new window)](https://www.aicrowd.com/challenges/neurips-2020-minerl-challenge).
