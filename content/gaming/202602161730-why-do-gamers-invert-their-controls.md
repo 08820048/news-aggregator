@@ -1,0 +1,57 @@
+---
+title: "Why Do Gamers Invert Their Controls?"
+source: "Matt Purslow"
+url: "https://www.ign.com/articles/why-do-gamers-invert-controls"
+published: "2026-02-16T17:30:00.000Z"
+category: "gaming"
+summary: "Why do some people invert Y? Is it because they played Microsoft Flight Simulator as a child? Or is it something even more fundamental than that?"
+---
+In terms of sheer numbers, inverters vs. non-inverters is the biggest schism in the games community. Whenever the subject comes up, it always leads to some petty argument about how you tilt your head when you look around in real life vs. "No, up means up, you _loser_, your head is not a tiny aeroplane."
+
+Look, maybe my head _is_ a tiny aeroplane, and my brain is the pilot. And that's before we get to the fact that inverters are at a massive disadvantage in these matters because “invert” rhymes with “pervert”.
+
+For one of these groups, it is merely a fact of life: whether nature or nurture, to those of us afflicted with the scourge of invertism – a stigma I have lived with for most of my life – pushing forward on a stick to look down comes just as naturally as walking or breathing.
+
+There’s a lot of misconceptions about inverters, perpetuated by people on either side of the divide. That people who invert are outliers, that it’s some kind of "skill issue", that it doesn’t make sense to invert Y if you aren’t also going to invert X. That it’s easy to switch with a bit of practice. That it all depends on what your first game system was. But, according to researchers Jennifer Corbett and Jaap Munneke, who [surveyed a big sample of gamers](https://www.theguardian.com/games/2020/dec/08/why-do-gamers-invert-their-controls-how-one-question-launched-a-thousand-volunteers) and subjected them to cognitive 3D spatial awareness testing, whether or not you played flight simulators as a child has absolutely no bearing whatsoever on your Y-axis praxis.
+
+Though this study has gone some way to disproving these commonly held myths, it stops short of providing any real answers about why some people invert, and why others do not. Largely, I suspect, because that’s rather like trying to explain the briefs or boxers divide. There’s an unknowable number of factors to consider re: why someone would have a preference, and it doesn’t matter anyway because… well, it’s just underwear. It only matters to the individual concerned. It’s not like one day they’re going to stop making boxers.
+
+[](https://assets-prd.ignimgs.com/2024/11/07/microsoftflightsimulator2024xboxgamepasstrailer-ign-blogroll-1731012956656.jpg)
+
+Flight sims are one of the only times a non-inverted player may choose to invert Y.
+
+Except, as the study sort of says if you [actually read it](https://www.theguardian.com/games/2025/sep/18/why-do-some-gamers-invert-their-controls-scientists-now-have-answers-but-theyre-not-what-you-think), it’s not just a personal preference. Well, it is, but it’s one that’s massively dictated by how your brain happens to be wired and how it handles spatial awareness. Although with practice and perseverance, some people have found that they can unlearn their default and switch over - usually this is from inverting to not inverting - it’s kind of half-way between a personal preference and an accessibility issue. It’s a bit of both. And understanding it may well be crucial for important things beyond the realm of gaming, such as telesurgery or drone operation. All kinds of applications where the operator’s spatial awareness is being distorted by a non-standard field of view, the lack of a third dimension, input lag, frame drops, and more besides.
+
+I dunno. I’m guessing. I’m not trying to get a research grant, so I’m not that invested in whether or not that’s a convincing pitch for how serious this issue is. What’s incredible about the study’s findings is that, and I’m quoting the researchers from an article in [The Guardian](https://www.theguardian.com/games/2025/sep/18/why-do-some-gamers-invert-their-controls-scientists-now-have-answers-but-theyre-not-what-you-think) here, “None of the reasons people gave us \[for inverting controls\] had anything to do with whether they actually inverted”. So, all of us are barking down the wrong tree, and it actually has more to do with how you process 3D space at a deep cognitive level.
+
+This absolutely tracks with my own, limited, tiny sample size research. I took a poll of IGN Entertainment staff recently and found that, firstly, of the 35 people who responded to my survey, only seven of us are inverters. And of those seven, beyond the inverting, there wasn’t a single unifying factor apart from the fact that we’re all over 30. But most people at the company are over 30, so that hardly feels like a significant marker.
+
+The one thing that seems to make you more likely to invert is whether or not you’re old enough to have been an active gamer in the late '90s or early 2000s.“
+
+I asked people to check which control scheme or device they first used, and it was a mix of control pad and joystick. Interestingly, no inverters mentioned mouse and keyboard, which may be significant: very few people seem to invert when using mouse look, which makes sense. I don’t, despite being a hard-wired inverter when it comes to anything with a stick. Essentially your crosshair just becomes a mouse pointer when you’re in the middle of a gunfight.
+
+Some non-inverters did say that they sometimes invert for vehicle controls. But Eurogamer’s Alex Donaldson said anyone who inverts in FPS games is a pervert. It’s just a big mixture of anecdotes and scant few unifying factors in either group. The one thing that seems to make you more likely to invert is age – whether or not you’re old enough to have been an active gamer in the late '90s or early 2000s, and that certainly makes a lot of sense because that would roughly cover the heyday of the PS2 and Nintendo 64 which, as noted by some of my colleagues, had a lot of popular games where the camera was inverted by default. As IGN’s deputy guides editor Casey DeFreitas writes:
+
+"I played way too many hours of both The Legend of Zelda: Ocarina of Time and Pokemon Snap on the Nintendo 64, and both of those games REQUIRED inverted vertical controls! You couldn't change it. I got used to it and then when I tried games that were default non-inverted, my aim was awful. I refuse to publish gameplay of mine if I can't invert the controls and have to aim, it looks like a baby grabbed the controller."
+
+Lots of really big games from that time – huge, genre-defining games – shipped with inverted look. Goldeneye 007, another N64 classic and a pioneering first person shooter on consoles, had an inverted camera. GTA 3, the original PS2 release, notoriously came configured for inverted look without any way to change it. And people just had to deal with it because otherwise there’d be no GTA for them.
+
+[](https://assets-prd.ignimgs.com/2026/02/16/timesplitters-1771257436604.jpg)
+
+PS2 launch title Timesplitters shipped with inverted controls turned on by default.
+
+Many would count Timesplitters on the PS2 as their first encounter with modern twin stick controls, and this shipped with inverted Y by default without any way to change it, forcing a lot of people to just get on with it. Now, I think that’s an important part of the story here: the fact that back in the day, configuration options in console games, being able to tailor an experience to your own preferences and brain wiring, simply wasn’t a thing you could rely on. Most of the time you just had to accept whatever the developers shipped it with.
+
+There was also no general consensus as to how 3D controls should work on a gamepad. It was the wild West. Conventions we take for granted now – left stick for movement and strafing, right stick for looking and turning – simply hadn’t been established, and it’s a bit difficult to pin down exactly when they were because these things tend to change slowly, like an abandoned chocolate bar melting on a dashboard.
+
+Timesplitters certainly didn’t invent the modern control scheme – other console FPSes had it as an option years before it. Even Goldeneye 007 had a twin stick mode utilising two of the N64’s ridiculous controllers. Alien Resurrection on the PS1 had it, and interestingly copped a lot of flak from critics at the time who considered it unwieldy and unplayably difficult.
+
+See, like all major technological and cultural innovations, it turns out a lot of people were stumbling around in the ball park of what became the accepted solution. Many people credit Halo: Combat Evolved with popularising the very concept of First Person Shooters on console (not inventing, but perfecting it), with its innovative sticky aiming that made the twin stick controls we still use today feel good and natural in the hands. And also pioneering the ingenious, diegetic method of determining the player’s inversion preference via the use of a tutorial that instructs you to look at specific lights and then simply asking you if the way the camera moved felt right or not, automatically inverting the controls if it didn't. It meant that both types of gamers were catered for in the most natural way possible. The rest is history.
+
+Halo eliminating any configuration friction and simply working in whichever way was natural for the individual player probably went a long way toward establishing non-inverted camera controls as society’s default. Instinctively, for the majority of people, many playing these games for the first time in their formative years, up means up. This intuitive piece of Halo’s tutorial wasn’t just a cute way of bypassing menus, it was solving an accessibility problem that was widespread at the time because there were no standards, no hard conventions, about how these things were expected to work... largely because gaming is an industry where a bunch of nerds and computer science poindexters are making entertainment products for normal people who own Sony Bravia TVs and sleep in a big bed with their partner.
+
+In the years since, platform holders have mandated the option of inverting Y alongside other toggles, and it’s basically not an issue any more unless you enjoy arguing about stupid shit with strangers on the internet. I can’t remember being negatively affected by my invertism since Beyond Good and Evil HD came out about 400,000 years ago. In fact, with every new generation, it becomes more of a standard practice to cater for as many preferences, impairments, or even disabilities as possible, with many huge mainstream games now including extensive options for fine-tuning everything from camera controls to high-contrast overlays for the severely colourblind.
+
+I suspect it’s more or less impossible to determine exactly why some people invert and some people don’t. What I do know is that inverting is wildly misunderstood by non inverters, while the reverse isn’t the case at all. I’m not remotely confused as to why Up means Up. On paper, that’s perfectly intuitive. Up means down, patently, is not. And in microcosm, it’s a perfect, low-key example of why diversity matters in game development: you can’t just cater to what is considered “normal”, otherwise you risk alienating huge swathes of your potential audience. And that’s a hard, dispassionate business case for just having some consideration for people who aren’t necessarily the default character in life.
+
+In the business, we call that subtext.
