@@ -1,0 +1,35 @@
+---
+title: "Fractal Analytics’ muted IPO debut signals persistent AI fears in India"
+source: "Jagmeet Singh"
+url: "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/"
+published: "2026-02-16T11:51:25.000Z"
+category: "tech"
+summary: "As India's first AI company to IPO, Fractal Analytics didn't have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors in the wake of a sell-off in Indian software stocks."
+---
+As India’s first AI company to IPO, [Fractal Analytics](https://fractal.ai/) didn’t have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors recovering from a major sell-off in Indian software stocks.
+
+Fractal listed at ₹876 per share on Monday, below its issue price of ₹900, and then slid further in afternoon trading. The stock closed at ₹873.70, down 7% from its issue price, lending the company a market capitalization of about ₹148.1 billion (around $1.6 billion).
+
+That price tag marks a step down from Fractal’s recent private-market highs. In July 2025, the company [raised about $170 million in a secondary sale](https://economictimes.indiatimes.com/tech/funding/ipo-bound-ai-company-fractal-bags-170-million-at-2-44-billion-valuation/articleshow/122455396.cms?from=mdr), at a valuation of $2.4 billion. It first crossed the $1 billion mark in January 2022 after raising $360 million from TPG, [becoming India’s first AI unicorn](https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/).
+
+Fractal’s IPO comes as India seeks to position itself as a key market and development hub for AI in a bid to attract investment amid increasing attention from some of the world’s most prominent AI companies. Firms such as [OpenAI](https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/) and [Anthropic](https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/) have been engaging more with the country’s government, enterprises, and developer ecosystem as they seek to tap the country’s scale, talent base, and growing appetite for AI tools and technology.
+
+That push is on display this week in New Delhi, where India is hosting the [AI Impact Summit](https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/), bringing together global technology leaders, policymakers and executives.
+
+Fractal’s subdued debut followed a sharp recalibration of its IPO. In early February, the company decided to price the offering conservatively after [its bankers advised it to](https://www.moneycontrol.com/news/business/startup/why-fractal-analytics-trimmed-its-ipo-size-by-42-ceo-srikanth-velamakanni-responds-13811413.html), cutting the IPO size [by more than 40%](https://www.reuters.com/world/india/indias-fractal-analytics-cuts-ipo-size-by-over-40-314-million-2026-02-03/) to ₹28.34 billion (about $312.5 million), from the original amount of ₹49 billion ($540.3 million).
+
+Founded in 2000, Fractal sells AI and data analytics software to large enterprises across financial services, retail and healthcare, and generates the bulk of its revenue from overseas markets, including the U.S. The company pivoted toward AI in 2022 after operating as a traditional data analytics firm for over 20 years.
+
+Techcrunch event
+
+Boston, MA | June 23, 2026
+
+Fractal touted a steadily growing business in its [IPO filing](https://fractal.ai/docs/Investor-Relations/Offer-Documents/Fractal-RHP.pdf), with revenue from operations [rising](https://fractal.ai/docs/Investor-Relations/Offer-Documents/Fractal-RHP.pdf) 26% to ₹27.65 billion (around $304.8 million) in the year ended March 2025 compared to a year earlier. It also swung to a net profit of ₹2.21 billion ($24.3 million) from a loss of ₹547 million ($6 million) the previous year.
+
+The company plans to use the IPO proceeds to repay borrowings at its U.S. subsidiary, invest in R&D, sales and marketing under its Fractal Alpha unit, expand office infrastructure in India, and pursue potential acquisitions.
+
+Jagmeet covers startups, tech policy-related updates, and all other major tech-centric developments from India for TechCrunch. He previously worked as a principal correspondent at NDTV.
+
+You can contact or verify outreach from Jagmeet by emailing [mail@journalistjagmeet.com](mailto:mail@journalistjagmeet.com).
+
+[View Bio](https://techcrunch.com/author/jagmeet-singh/)
