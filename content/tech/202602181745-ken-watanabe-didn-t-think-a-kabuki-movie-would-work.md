@@ -1,0 +1,27 @@
+---
+title: "Ken Watanabe didn’t think a kabuki movie would work"
+source: "Andrew Webster"
+url: "https://www.theverge.com/report/880620/ken-watanabe-interview-kokuho"
+published: "2026-02-18T17:45:00.000Z"
+category: "tech"
+summary: "A three-hour-long period drama about kabuki, a centuries-old form of Japanese theater, doesn't exactly sound like box office gold. But that's exactly what happened with Kokuho. Director Lee Sang-il's adaptation of the Shuichi Yoshida novel of the same name was a surprise hit last year, becoming Japan's top-grossing live-action film domestically. But star Ken Watanabe - a veteran actor known for Hollywood movies like Inception and Detective Pikachu - initially didn't think it was a good idea. He loved the novel, but worried that the art form wouldn't translate well to film. \"'Don't do that,'\" he remembers telling Sang-il when he first pitche … Read the full story at The Verge."
+---
+A three-hour-long period drama about kabuki, a centuries-old form of Japanese theater, doesn’t exactly sound like box office gold. But that’s exactly what happened with _Kokuho_. Director Lee Sang-il’s adaptation of the Shuichi Yoshida novel of the same name was a surprise hit last year, becoming Japan’s top-grossing live-action film domestically. But star Ken Watanabe — a veteran actor known for Hollywood movies like _Inception_ and _Detective Pikachu_ — initially didn’t think it was a good idea. He loved the novel, but worried that the art form wouldn’t translate well to film.
+
+“‘Don’t do that,’” he remembers telling Sang-il when he first pitched the idea. “Kabuki is a very strict culture in Japan, and it’s hard for a normal actor to play in a kabuki play.” Despite these reservations, it was a success, and now _Kokuho_ has the chance to reach a wider audience, releasing in theaters across the US on February 20th.
+
+The film follows the lives of two actors. There’s Kikuo Tachibana (Ryo Yoshizawa), the orphaned son of a yakuza boss who is taken on as an apprentice by legendary kabuki actor Hanjiro (Watanabe). He’s joined by Shunsuke Ōgaki (Ryusei Yokohama), Hanjiro’s son, who has been groomed from a young age to succeed his father. _Kokuho_ tracks their diverting careers over the course of 50 years, from 1964 to 2014, as each dedicates themselves to the demanding role known as onnagata, or male kabuki actors who play female roles. It’s a beautiful and at times devastating portrait of the lengths artists go to in search of greatness.
+
+It’s also a film that demanded a lot of its performers. Due to the highly specific and physically difficult movements required of an onnagata, _Kokuho_’s two leads spent around 18 months training to get things right. Watanabe’s character spends a comparatively small amount of time performing in the film, but even still, he says he trained for around four months to learn the moves and choreography. Things were only made more challenging by the heavy wigs, elaborate costumes, and long shoots. “All difficult things connect to joy,” he says of the preparation. “It’s all part of a process of getting somewhere. So I never really felt like it was painful or extremely difficult. However, I do complain on occasion. Just sometimes.”
+
+Watanabe’s character is a constant presence throughout the film, particularly early on. In the ’60s, he trains the budding kabuki stars (played by child actors Sōya Kurokawa and Keitatsu Koshiyama), who develop a budding rivalry, in part over his approval. “My role was to watch these two characters from being a child to becoming these great kabuki actors, so I was this watchful eye throughout their careers,” Watanabe explains. “The child actors worked really hard as well, so I got to see them grow up through the process of the film, which is a new experience for me.”
+
+However, while he was a mentor in the film, Watanabe says that, despite his storied career, he didn’t take on a similar role off-camera. “When I was young, I always felt that acting with others was like stepping into the same ring, and that our career and level of experience doesn’t matter,” he explains. “I still approach acting the same way. I don’t take the role of a teacher or someone who guides in real life, because we’re all equals stepping up into the same ring.”
+
+Watanabe is still unclear on just why _Kokuho_ was such a success. Maybe it has to do in part with how detailed the production is, not just in terms of the impressive kabuki costumes and performances, but also the period-appropriate sets, which change frequently as the story jumps ahead in time. Whatever the reason, he says that a few days after the film premiered in Japan, he tracked sentiments on social media, and “realized that young people love this movie. Then maybe a month later, we couldn’t believe the success.”
+
+Despite his initial reservations, working on _Kokuho_ has been a rewarding experience for Watanabe. Though he didn’t previously have experience with kabuki specifically, he got his start acting on stage, and in 2015 made his Broadway debut as the lead in _The King and I_. And he says that because of this, shooting _Kokuho_ was a nostalgic experience, describing the feeling as “kind of like déjà vu.” It was such a strong feeling, in fact, that seeing the movie for the first time hit him hard. “I couldn’t stop the tears seeing the final moment of this film,” he says.
+
+**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.
+
+-   Andrew Webster
