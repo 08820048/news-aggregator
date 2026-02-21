@@ -1,0 +1,65 @@
+---
+title: "Our Legends of Zelda: Celebrating Hyrule’s 40th Anniversary with Our Favorite Zelda Memories"
+source: "Logan Plant"
+url: "https://www.ign.com/articles/our-legends-of-zelda-celebrating-hyrules-40th-anniversary-with-our-favorite-zelda-memories"
+published: "2026-02-21T14:00:00.000Z"
+category: "gaming"
+summary: "Three stories from three Zelda superfans."
+---
+I would not be in this line of work without The Legend of Zelda. It’s my favorite franchise of all time – video game or otherwise – and it’s the series that will always draw me back into gaming and Nintendo, no matter what. My story is not unique; I know several IGN editors who feel the exact same way.
+
+It’s not a secret to anyone that Zelda is critically important to so many of us here: we’ve awarded [seven different Zelda games a 10/10](https://www.ign.com/playlist/igneditorial/lists/masterpieces) since IGN was founded in 1996 (the most of any franchise), we were one of very few outlets to recognize [Tears of the Kingdom as Game of the Year](https://www.ign.com/articles/ign-awards-2023-every-winner-announced) in a packed 2023, and we crowned Breath of the Wild as the greatest game ever made on our most recent [Top 100 Games of All Time list](https://www.ign.com/articles/the-best-100-video-games-of-all-time), compiled in 2021. It’s a series that’s constantly growing alongside us: how many franchises contain a game that’s essentially redefined a genre? You could argue Zelda would appear on that short list _at least_ twice.
+
+So as The Legend of Zelda celebrates its 40th anniversary this weekend, a few of us wanted to share our personal memories of this beloved franchise that we hold most dear. These are our legends of Zelda.
+
+## **Zelda II: The Adventure of Link - By Seth Macy**
+
+There aren't a lot of people whose first exposure to The Legend of Zelda franchise was The Adventure of Link. I'd go so far as to say, for most normal, well adjusted people, playing Zelda's NES sequel as their first foray into the series would turn them away from it forever. But not me. No. I was completely hooked.
+
+I rented Zelda 2 for a weekend and, when I went to school the following Monday, my thumbs hurt from playing for so long. And the thing is, I didn't really even understand what the hell was going on. I just fell in love with the setting, the weird way it transitioned from an overhead map to self-contained battles, and the massive castles filled with opportunities for Link to die. It set my young imagination on fire and I became obsessed with it from a stylistic and presentational point of view.
+
+### Legend of Zelda: The Complete Playlist
+
+Nintendo's Zelda series has gone from 2D to 3D, from D-Pads to sticks to touch screens to motion controls and back. Here are all of Link's (and Zelda's and Tingle's) adventures over the years. Log in to check off which ones you've played, and add others to your backlog.
+
+[See All](https://www.ign.com/playlist/igneditorial/lists/legend-of-zelda-the-complete-playlist "View All Games")
+
+I need to point out, at no point did I actually like the gameplay. It was, and remains, brutally difficult, practically impossible for a kid to complete over the course of a rental weekend. The Death Mountain section was where I hung it up many times out of sheer frustration. And even though I was so angry and defeated and saddened to be unable to get through to the end, I still could not resist renting it week after week. I pored through the tattered rental store copy of the manual, captivated by the art style – so distinctively Japanese and at the time, so new and exciting. I borrowed concepts for my own middle-school drawings and rudimentary pen and paper role-playing creations. I also didn't realize it at the time, but that top-down world view and the experience point grind had awakened in me a love for JRPGs I didn't even know existed at the time.
+
+It wasn't until 2018 I finally beat The Legend of Zelda: The Adventure of Link, playing through the version available on Nintendo Switch Online, and only because I spammed the hell out of save states. Still, even all these years later, my imagination roars to life when I look at those classic illustrations, and I get a weird inkling to start up another playthrough. Then I remember how brutally unfun it is and I play something else. But man. What a world changing experience it was when I was a kid.
+
+## **The Legend of Zelda: Link’s Awakening - By Brian Altano**
+
+I hated school. OK, maybe "hated" is too strong a word. I strongly disliked school and it probably didn't like me very much back. To give the place some credit, I loved cracking jokes with my friends before class started. I loved that the cafeteria sold warm, three-for-a-dollar Otis Spunkmeyer cookies. I loved every art class, the only class where the teacher didn't have to call my parents after and say "Brian is smart and creative, he just doesn't seem to care about this class." See, in 1993, I didn't want to be in school. All I wanted to do was play video games, talk about video games, read about video games, draw video game characters, and eat video game-themed breakfast cereals.
+
+A particular video game that I could not stop reading about (specifically in a Nintendo Power preview article that made frequent trips with me everywhere in my school backpack) was The Legend of Zelda: Link's Awakening, the first portable Zelda game ever made, which was making its way to the Nintendo Game Boy. The idea of a Zelda game that I could bring with me everywhere was absolutely mindblowing at the time. I would hop off the school bus every day to do chores, scrounge for coins in the couch cushions, and save money until I had enough to buy Link's Awakening.
+
+But if I’m being honest, the real cash cow was my daily lunch money. Every day I got three bucks for lunch, which back then was enough to buy a sad cafeteria meal and a drink, usually one of those hockey puck shaped breaded chicken patties smooshed between two wet buns with a canned ice tea made by some questionable bootleg brand like “Ol’ Orchard” or “Teaslees” to wash it down. But one day I realized that if I instead bought three Otis Spunkmeyer cookies, I'd A) still be sort of full, B) get to eat cookies for lunch like some sort of child king, and C) save two whole bucks a day to put towards The Legend of Zelda: Link's Awakening. I’d have the game in a few weeks without having to do much of anything for it. There were some downsides to this plan, obviously. For starters, I'd have to hide the money from my parents. I'd also have to find a way to buy the game without them knowing it. And lastly, (and I can confirm this as a father now) there’s a very real science fact that if a little kid eats nothing but sugary breakfast cereals and three chocolate chip cookies all day and then needs to focus on school work, that kid will instead bounce off of the walls like an insane little maniac. By now you’re probably figuring out why my teachers didn’t like me very much.
+
+A few weeks (and probably several detentions and cavities later) I had successfully saved enough money to buy my game. I walked down a highway in New Jersey to that magical, brown roofed, giraffe themed castle known as Toys ‘R’ Us and came home with my treasure tucked inside the big pocket of my winter jacket. To be fair, I paid every penny for it, but by the way I covertly and anxiously snuck it into my house you’d think I stole the thing. To this day, my parents never found out. Dad, if you’re reading this, a different Brian Altano at IGN wrote it, not the one who is your son. He would never steal lunch money to buy a video game. Weird coincidence that there’s two guys here named Brian Altano, right?
+
+Anyway, for the next several months, my Game Boy came with me everywhere, but especially to school. On the bus, I played Zelda. In between classes, I played Zelda. On the playground, I played Zelda. Strangely enough, having video games to play at school between the actual school parts of school helped me focus on my classes more. Instead of day dreaming about when I’d get to play video games next, I’d walk into class feeling fresh after taking down another Zelda dungeon, and then I’d do everything the teacher needed me to do until I could play video games again. My grades started improving and my parents stopped getting as many disappointed phone calls from my teachers. This also coincided with me not eating chocolate chip cookies for lunch anymore, which also definitely helped.
+
+So thank you to Link’s Awakening for being my first portable Zelda game, one of my favorite games ever made, and a game that rescued my academic career and also almost made me fail out of school. Thank you to Otis Spunkmeyer and Geoffrey Giraffe who went on to get married to each other, maybe. Apologies to my teachers and my parents and to the other Brian Altano here who is now in huge trouble with my dad. And happy birthday to The Legend of Zelda, a franchise that I’ll always be there for on day one, to purchase a brand new game with actual money that is no longer earned by eating chocolate chip cookies for lunch.
+
+## **The Zelda Timeline - By Logan Plant**
+
+_Spoilers for The Legend of Zelda: The Wind Waker._
+
+Hyrule's history has been passed down countless times from one generation to the next. In that same tradition, I didn't discover my love for Zelda on my own: I inherited it. Just like every child with pointy ears who gets wrapped up in the never-ending battle for Hyrule, this story begins before my time. My dad played The Legend of Zelda at a friend’s house when he and my mom were in college, which led to them eventually saving to buy an NES of their own, just so they could bomb every last wall in that original 8-bit Hyrule.
+
+Fast-forward roughly a decade to when I entered the picture, born the same year as The Legend of Zelda: Ocarina of Time’s launch on N64. My mom tells me I’d sit on her lap and watch my dad explore a new Hyrule, this time in 3D. Like our favorite childhood bedtime stories, I have no recollection of witnessing Link’s journey to stop Ganondorf. I’ve just always known it. This universe of talking trees and evil pigs and boys without fairies carved a home in my mind during my earliest days and hasn’t budged since.
+
+Which is why it should come as no surprise that my first vivid memory comes from Hyrule, too. I’m four now, and my older sister and I are watching my dad fight the final boss of The Wind Waker. The very first thing I remember is Toon Link leaping into the air and plunging the Master Sword straight into Ganondorf’s skull. I was shocked: it was far and away the most violent, gruesome thing I’d ever seen. I recall walking into the living room to tell my mom what had happened, but then everything goes fuzzy again and all I’m left with is the everlasting image of Ganondorf turning to stone.
+
+No matter where I’ve gone, I’ve taken my love for Zelda with me. Breath of the Wild came out when I was in college, and I spent launch night marathoning it on the enormous, blurry TV in the dormitory lounge as my floormates passed by and watched for a bit on their way out to the evening’s events. Once the hall was empty, and the motion-activated overhead lights went dark, there was nothing left but me and the peaceful glow of the Great Plateau. I was confused when my friends returned just a few moments later. “You’re back already?” I asked, only to learn that four hours had glided by in what felt like minutes. That was the first of dozens of long nights with Breath of the Wild, and later, Tears of the Kingdom, which still managed to hijack my sleep schedule years after the days of going to college parties were long gone. Time changes all things, but Zelda has never seemed to mind.
+
+### Logan's Top 10 Zelda Games
+
+Only the best version of each game is included.
+
+[See All](https://www.ign.com/playlist/MrHurgy/lists/logans-top-10-zelda-games "View All Games")
+
+Zelda tells us a tale about an endless cycle of good rising up to ward off evil, and as we eagerly await its next chapter, I can’t help but wonder where I’ll be when a new 3D entry finally arrives. Maybe I’ll have a child of my own by then, and they’ll watch me take my first steps into whatever wild world Nintendo offers us next. Maybe their first memory will be something creepy or strange in a Zelda game years from now. I like to think they’ll play a new Zelda while off at college, homesick for their childhood but equally giddy to be experiencing a brand new take on Hyrule for themselves. And hopefully, they’ll always call their parents and siblings to talk about Zelda, just like I do to this day. That's a cycle I wouldn't mind repeating for generations to come.
+
+_Logan Plant is the host of Nintendo Voice Chat and IGN's Database Manager & Playlist Editor. The Legend of Zelda is his favorite video game franchise of all time, and he is patiently awaiting the day Nintendo announces a brand new F-Zero. You can find new episodes of NVC every Friday on the IGN Games YouTube channel, Apple Podcasts, Spotify, or your favorite podcast app._
