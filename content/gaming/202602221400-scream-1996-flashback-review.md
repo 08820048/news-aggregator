@@ -1,0 +1,51 @@
+---
+title: "Scream (1996) Flashback Review"
+source: "Scott Collura"
+url: "https://www.ign.com/articles/scream-1996-flashback-review-wes-craven-neve-campbell"
+published: "2026-02-22T14:00:00.000Z"
+category: "gaming"
+summary: "Scream (1996) Flashback Review: The Wes Craven classic's place in not just horror movie history, but pop culture in general is undeniable."
+---
+_It recently occurred to us that IGN’s only been around_ [_for 30 years_](https://www.ign.com/articles/welcome-to-ign30-a-note-from-peer)_. Movies, on the other hand, have been around for a lot longer than that, and so many of them have never been reviewed by IGN. So in the interest of remedying that, frankly, horrific oversight, here comes our first Flashback Review._
+
+_We’re starting with director Wes Craven’s genre-revitalizing, franchise-spawning, meta teen-slasher,_ [_Scream_](https://www.ign.com/movies/scream-1996)_._
+
+Scream was released in 1996, making it 30 years old today, the age over which [we’re supposed to stop trusting people](https://buttonmuseum.org/buttons/dont-trust-anyone-over-thirty). As one of the most influential horror films of all time, with more ink spilled online about it than blood spilled on screen, it’s a strange thing for the movie to not have an official score here at IGN. As an exercise, it’s just as strange to go back and review a film with the kind of legacy Scream enjoys today. So, for at least this first part, I’m just going to pretend that it’s 1996.
+
+Bill Clinton just won the election for his second term in office, Toni Braxton’s “Un-Break My Heart” is at the top of the charts and Wes Craven kind of needs a win. He’s coming off of Vampire in Brooklyn which was and, frankly always will be, considered a big ol’ flop. [New Nightmare](https://www.ign.com/movies/wes-cravens-new-nightmare) was just before that, and showed Craven’s willingness to break the fourth wall, or at minimum it showed an understanding that it needed to be broken. It’s telling that contemporary reviews of that film largely considered it a self-reflective breath of fresh air in a tired franchise. By and large in the mid ’90s, the bloom was to some degree off the horror movie rose.
+
+So here comes Scream, a meta-commentary on the entire genre. It’s doing all the things we loved about slasher movies in the ’70s and ’80s and _also_ making fun of them, but also it’s _made by_ the guy that made most of those tropes famous in the first place with films like [Last House on the Left](https://www.ign.com/movies/the-last-house-on-the-left-1972/articles), [The Hills Have Eyes](https://www.ign.com/movies/the-hills-have-eyes-1977) and, most iconically, [A Nightmare on Elm Street](https://www.ign.com/movies/a-nightmare-on-elm-street-1984). All this adds up to Scream having its cake and eating it too. And it all starts with 13 of the best opening minutes a horror fan could ask for.
+
+There’s an argument to be made that puts the opening sequence of Scream up there with the best in film history, not just horror. It would have been a legendary short film if there hadn’t been a whole movie attached to the back of it. It all at once played the hits (preying on youthful fears of being home alone and getting a call from a stranger) and modernized the discourse (quizzing Drew Barrymore’s panicked Casey Becker with a gotcha question about Jason Voorhees’ mom).
+
+The camera work is brilliant as well, floating around the house, subtly tilted and stalking Casey with a slow, controlled steadicam. It pushes into a close-up to punctuate the more frightened beats of her performance instead of always cutting to those close-ups. The edit is just as deliberate, patiently waiting for the right moment to attack, exactly like the actual killer is doing outside. Barrymore plays her fear with a bit of disbelief, her panic with a little anger, while Roger L. Jackson, as the voice on the phone, shifts gears from playful and sexy to deranged and dangerous as he toys with her.
+
+And then she dies.
+
+After being front and center in the marketing, that Drew Barrymore doesn’t make it out of the first scene is wild, but it’s just part of Craven and Williamson’s scheme. “
+
+After being front and center in the marketing, that Drew Barrymore doesn’t make it out of the first scene is wild, but it’s just part of Craven and writer Kevin Williamson’s scheme. This opening creates a world that both loves the same movies we do, while deftly crafting a thrilling environment where anybody could be killed next.
+
+Being denied one of the most recognizable faces from the poster for the subsequent runtime, the rest of the film is carried by an ensemble. TV stars Neve Campbell and Courteney Cox head up a group of young actors with plenty to prove on the big screen, but David Arquette’s Deputy Dewey might be the key to the whole thing. While most of the cast capably play their roles as “best friend” or “red herring” or “geeky off-to-the-side guy,” Dewey is a meek older brother, in over his head as a police officer trying desperately to be taken seriously (you could even say he’s trying to play against type). In a movie where subversion of expectations is the whole point, Arquette’s fledgling lawman embodies that theme better than anybody else on screen.
+
+He also speaks to the true and lasting brilliance of this movie, if I can flash-forward back to the present day. The balance of comedy, horror and self-awareness created by Craven and Williamson is Scream’s real gift to cinema. It gave us a film that’s a blast to watch, yes, but that formula hides all manner of sins in a way that keeps the movie from feeling dated. Cordless landline phones and Blockbuster videos are quintessentially ’90s, but they don’t make the movie any less relevant 30 years later. Now, had the filmmakers not doused Scream with a self-referential bucket of meta corn syrup, the movie would have fallen into the same traps that had the genre gasping for its last breaths in the mid-’90s, and been more dated than any number of VHS tapes or Tori Spelling references could manage.
+
+There are dangling logic threads to pull on, like how did one of the two killers sneak into the principal’s office to murder Henry Winkler? Ditto for Ghostface suddenly appearing in a garage that we’ve seen every corner of. And how is at least one of them not covered in beer for the rest of the night after being hit in the face and crotch with full bottles at glass-shattering force? Why is that garage door opener so damn powerful, anyway!?
+
+Most of these questions only arise in repeat viewings. It isn’t until you know the ending and watch it again that you might even ask things like that, nor would you even bother with those questions if you’re charmed by the rest of the film. Ghostface is behind that door because that’s an effective jumpscare for us, the audience, not because it makes any sort of logistical sense in the space and time of Woodsboro. But thanks to the simple fact that these tropes are spelled out and on the nose, Scream gets away with it because that’s precisely the thing it’s making fun of.
+
+Perhaps the most obvious beneficiary of this is Skeet Ulrich’s Billy. As one half of the movie’s central romantic pair, we meet him as he sneaks into Sidney’s room to guilt her into having sex. He holds it against her throughout the film, gaslighting her in moments of real distress and ultimately manipulating her into sleeping with him by the end. The guy is a dirtbag and, with 30 years and who knows how many repeat viewings later, it’s a damn good thing he turned out to be the killer.
+
+[![null](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://assets-prd.ignimgs.com/2026/02/19/scream-1996-1771464137913.jpg)
+
+Courteney Cox, Jamie Kennedy and Neve Campbell.
+
+But the tone of Scream, the meta-awareness created by Craven and Williamson, is responsible for smoothing that part of the story over to the point that we still talk so lovingly about this movie. This plot would ultimately be pretty forgettable if Scream didn’t have “yeah, that’s what we’re making fun of” to fall back on.
+
+In fact, the whodunnit aspect of the film is probably its weakest element. The red herrings get presented and tossed away right on schedule, characters get killed off in a predictable order (Drew Barrymore’s early exit notwithstanding) and all the tropes that ought to be in a thriller are dutifully present. Ultimately, one could argue that’s a feature, not a bug, and probably be right considering the way each of those tropes is undermined. However, the story of Sidney’s mom and infidelity and the anger a high school boy feels about it (and if you don’t remember what I’m talking about here, that’s exactly my point) is very much _not_ what’s so iconic about the movie.
+
+And that’s the idea behind doing these Flashback Reviews as well. How was the movie received in its original context and how much has time changed its perception? In Scream’s case, with six sequels and three seasons of a TV show out there still slashing, the Scream clones of the late ’90s hot-teen slasher spree, and an entire franchise built around the film’s spoof, it’s hard to understate the impact this movie has had on the zeitgeist. Where meta-slashers are concerned, they did it first and they did it best. Craven and Williamson may well have pulled the ladder up behind them after Scream.
+
+### Verdict
+
+Scream’s place in not just horror movie history, but pop culture in general is undeniable, so it’s getting an 8. It came out swinging with maybe the best 13 minutes worth of cold-open terror the inside of a movie theater has ever seen, then stuck around for another jump-scare filled hour and a half. While playing with the trope he made famous, Wes Craven crafted a lighter, more self-reflective tone for Kevin Williamson’s script to shine a light on everything we love (and everything we think is kind of silly) about slasher movies. While some moments play the hits without the added commentary and feel like they belong in one of the more tired entries in the genre Scream ultimately revitalized, three decades of Scream and countless clones, spoofs and wannabes later, it’s still clear why this film changed the landscape for scary movies.
