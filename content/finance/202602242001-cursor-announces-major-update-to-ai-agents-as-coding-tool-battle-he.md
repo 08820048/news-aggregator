@@ -1,0 +1,50 @@
+---
+title: "Cursor announces major update to AI agents as coding tool battle heats up"
+source: "Unknown"
+url: "https://www.cnbc.com/2026/02/24/cursor-announces-major-update-as-ai-coding-agent-battle-heats-up.html"
+published: "2026-02-24T20:01:41.000Z"
+category: "finance"
+summary: "Cursor announced updates to its AI coding agents as the startup works to fend off competition from rivals"
+---
+The Cursor logo arranged on a smartphone in New Hyde Park, New York, Nov. 20, 2025.
+
+Gabby Jones | Bloomberg | Getty Images
+
+[Cursor](https://www.cnbc.com/2025/11/13/cursor-ai-startup-funding-round-valuation.html) announced updates to its [artificial intelligence](https://www.cnbc.com/ai-artificial-intelligence/) coding agents on Tuesday as the startup works to fend off increasingly stiff competition from rivals like [Anthropic](https://www.cnbc.com/2026/02/24/anthropic-claude-cowork-office-worker.html), [OpenAI](https://www.cnbc.com/2026/02/23/open-ai-consulting-accenture-boston-capgemini-mckinsey-frontier.html) and [Microsoft](https://www.cnbc.com/quotes/MSFT/). 
+
+The AI startup has to stay on the cutting edge to win new users and market share, and the company told CNBC that its updated agents push its capabilities to the next level. The startup's valuation has ballooned to $29.3 billion, and it said in November that it had crossed $1 billion in annualized revenue. Cursor was relatively early to the AI coding market, but other players have been quick to launch competing offerings.
+
+AI agents are tools that can complete tasks on behalf of a user, and they have exploded in popularity over the last year as model capabilities have improved. Some of the earliest adopters have been software developers, who are using agents from companies like Cursor to generate, edit and review code. 
+
+Cursor's updated agents can test their own changes and record their work through videos, logs and screenshots, the company said. Users can trigger the agents from the web, Cursor's desktop app, on a mobile device, through the messaging platform Slack or on Microsoft's GitHub.
+
+The agents can also run in parallel with full development environments on their own virtual machines, which are cloud-based computers that behave just like a physical one. This means agents won't have to compete for resources locally on a developer's laptop or waste time onboarding, Cursor said.
+
+"Instead of having one to three things that you're doing at once that are running at the same time, you can have 10 or 20 of these things running," ​​Alexi Robbins, co-head of engineering for asynchronous agents Cursor, told CNBC in an interview. "You can have really high throughput with this."
+
+## Read more CNBC tech news
+
+-   [Waymo opens robotaxi service to 'select riders' in Houston, Dallas, San Antonio and Orlando](https://www.cnbc.com/2026/02/24/waymo-opens-robotaxi-service-to-select-riders-in-4-more-us-cities.html)
+-   [Meta strikes AI chip deal with AMD days after committing to deploy millions of Nvidia GPUs](https://www.cnbc.com/2026/02/24/meta-to-use-6gw-of-amd-gpus-days-after-expanded-nvidia-ai-chip-deal.html)
+-   [Uber acquiring parking app SpotHero as it moves beyond ride-hailing and food delivery](https://www.cnbc.com/2026/02/23/uber-acquiring-spothero.html)
+-   [Tesla sues California DMV to reverse ruling that company engaged in false advertising on FSD](https://www.cnbc.com/2026/02/23/tesla-sues-california-dmv-to-reverse-false-advertising-ruling-on-fsd.html)
+
+As of February, Anthropic's Claude Code has grown to over [$2.5 billion](https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html) in run-rate revenue, and OpenAI's Codex has surpassed more than [1.5 million](https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html) weekly active users. Microsoft CEO Satya Nadella said in October that its tool, GitHub Copilot, had more than 26 million users. 
+
+Cursor was founded in 2022, and it amassed a cult following after launching the initial version of its AI coding product the following year.
+
+Developers can hand off more complex tasks to Cursor's updated agents, and those agents can test and iterate on those features until they are complete. Cursor said this will allow developers to spend less time editing files and parsing through code and more time focusing on questions of taste and judgement.
+
+"We think of this less like a new feature and more like, 'This is what it's going to look like working with agents,'" said Jonas Nelle, Cursor's other co-head of engineering for asynchronous agents. "They're not just writing software, writing code, they're sort of becoming full software developers."
+
+Cursor has been testing the agents internally, and Nelle said it has already been a "big transformation" for the company. 
+
+Roughly 35% of Cursor's pull requests, where a developer proposes a change to the codebase, are now generated by agents that are operating on their own virtual machines, Cursor said. 
+
+"You as an individual can do so much more by working with these agents," Nelle said. "This is another step change in that progression."
+
+**WATCH:** [Cursor CEO Michael Truell: We’re seeing success with our AI age, not just demand](https://www.cnbc.com/video/2025/11/13/cursor-ceo-michael-truell-were-seeing-success-with-our-ai-age-not-just-demand.html)
+
+![Cursor CEO Michael Truell: We're seeing success with our AI age, not just demand](https://image.cnbcfm.com/api/v1/image/108225768-17630699581763069956-42537921147-1080pnbcnews.jpg?v=1763069958&w=750&h=422&vtcrop=y)
+
+watch now
