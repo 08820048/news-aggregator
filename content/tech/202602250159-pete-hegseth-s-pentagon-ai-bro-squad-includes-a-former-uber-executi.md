@@ -1,0 +1,82 @@
+---
+title: "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire"
+source: "Tina Nguyen"
+url: "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg"
+published: "2026-02-25T01:59:00.000Z"
+category: "tech"
+summary: "U.S. Secretary of Defense Pete Hegseth (L) walks with Emil Michael (R), Under Secretary of Defense (Research & Engineering, while touring an exhibit of Multi-Domain Autonomous systems at the Pentagon July 16, 2025 in Arlington, Virginia. | Win McNamee/Getty Images. Hello and welcome to Regulator, a newsletter for Verge subscribers covering the broligarchs, the influencers, and the (potentially conscious) artificial intelligence models scrambling for power in Washington. If you're not a subscriber yet, assert your humanity against the will of the machines by signing up here. Very important news: Do you want to tell me stuff and see it printed in Regulator? Well, now you can, because we have a new tip line! Send all commentary, cool information, and ~secrets~ to tina.nguyen+tips@theverge.com. The Pentagon's private-sector A-Team This morning, in advance of a meeting between Defense Secretary Pete Heg … Read the full story at The Verge."
+---
+_Hello and welcome to_ Regulator_, a newsletter for_ Verge _subscribers covering the broligarchs, the influencers, and_ [_the (potentially conscious) artificial intelligence models_](https://futurism.com/artificial-intelligence/anthropic-ceo-unsure-claude-conscious) _scrambling for power in Washington. If you’re not a subscriber yet, assert your humanity against the will of the machines by_ [_signing up here_](https://www.theverge.com/subscribe)_._
+
+_**Very important news:** Do you want to tell me stuff and see it printed in Regulator? Well, now you can, because we have a new tip line! Send all commentary, cool information, and ~secrets~ to [**tina.nguyen+tips@theverge.com**](mailto:tina.nguyen+tips@theverge.com)**.**_
+
+## **The Pentagon’s private-sector A-Team**
+
+This morning, in advance of a meeting between Defense Secretary **Pete Hegseth** and Anthropic CEO **Dario Amodei**, my colleague Hayden Field and I published a story about the [Pentagon’s hardball contract renegotiations with Anthropic](https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlBpN0hvVFdLZ1EiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzg4MzQ1Ni9hbnRocm9waWMtcGVudGFnb24tZGVwYXJ0bWVudC1vZi1kZWZlbnNlLW5lZ290aWF0aW9ucyIsImV4cCI6MTc3MjM5MTM0MiwiaWF0IjoxNzcxOTU5MzQyfQ.s2NqFxszNtx-skaTwGJ5bsGCvX8nkpt4w_oCuE_CHt4&utm_medium=gift-link). The stakes are higher than it should reasonably be, with the Pentagon continuing to designate Anthropic a “supply-chain risk” if the company doesn’t comply with their demands about their acceptable use policy.
+
+In a post-meeting readout, Axios reported that [Hegseth brought several other senior Defense officials](https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario) to the meeting in an attempt to show that the Pentagon was taking the dispute “seriously.” But in a post-DOGE Trump administration run by broligarchs, it’s always worthwhile to check the attendees’ bios. Some of them were normal senior officials who’d spent their careers in government and military work, but the others have somewhat unusual backgrounds:
+
+-   Pentagon CTO **Emil Michael**, who we reported has been spearheading negotiations with Anthropic. Michael may be familiar to longtime _Verge_ readers and followers of Silicon Valley corporate drama as the former second-in-command at Uber when Travis Kalanick was CEO. Michael was pushed out in 2017 after an investigation found that he, and several other top executives that [called themselves the “A-Team,”](https://www.nytimes.com/2017/06/12/technology/uber-travis-kalanick-emil-michael.html) perpetuated a culture of sexual harassment at the company.
+    -   For anyone curious about his history on surveillance: [During a 2014 dinner with several journalists](https://www.buzzfeednews.com/article/bensmith/uber-executive-suggests-digging-up-dirt-on-journalists), Michael suggested that Uber hire opposition researchers to gather personal “dirt” on reporters publishing unfavorable news, suggesting that he’d wanted to target one female reporter who had recently criticized the company for its culture of misogyny. This was also around the time that Uber drew controversy for [an internal tool known as “God Mode,”](https://www.buzzfeednews.com/article/johanabhuiyan/uber-is-investigating-its-top-new-york-executive-for-privacy) which employees used to track the movements of its users, including one _BuzzFeed_ journalist who was writing about an Uber executive.
+-   Deputy Secretary **Steve Feinberg**, the founder of the private equity firm Cerberus Capital Management, which manages roughly $65 billion in assets and specializes in “distressed properties.” Feinberg, who’s widely blamed for [the death of the auto manufacturer Chrysler](https://www.nytimes.com/2009/08/09/business/09cerb.html), was also an early supporter of Donald Trump, donating to his 2016 presidential campaign and serving on the president’s intelligence advisory board in 2018. [During his 2025 Senate confirmation hearing](https://www.bloomberg.com/news/articles/2025-03-14/cerberus-prepares-for-life-after-feinberg-as-founder-heads-to-dc), Feinberg touted Cerberus’ investments in several companies involved in national security, saying he had “significant experience with the Pentagon as a contractor and understand\[s\] how it functions and is organized.”
+    -   At the time, [Democrats raised concerns](https://www.warren.senate.gov/newsroom/press-releases/ahead-of-confirmation-hearing-warren-lays-out-concerns-with-deputy-defense-secretary-nominee-stephen-feinberg) that Feinberg would have conflicts of interest due to Cerberus’ numerous investments in defense companies such as DynCorp. (That year, [DynCorp settled a lawsuit with the Department of Justice](https://www.justice.gov/opa/pr/dyncorp-agrees-pay-21-million-resolve-false-claims-act-lawsuit-alleging-inflated-costs-state) over allegations that it had “knowingly inflated subcontractor charges under a State Department contract to train Iraqi police forces.”)
+    -   In 2023, while Feinberg was still at Cerberus, [the firm launched Cerberus Ventures](https://pitchbook.com/news/articles/cerberus-ventures-raised-74m-for-its-inaugural-vc-funds-first-close), a venture capital arm that invests in early-stage companies that address national security issues in critical infrastructure.
+-   Hegseth’s chief spokesperson, **Sean Parnell**, an Army veteran who, in 2021, attempted to run for an open Senate seat in Pennsylvania. While he won Trump’s endorsement in the heated Republican primary, he was forced to drop out in November after his ex-wife made [several allegations of serious physical and psychological abuse](https://edition.cnn.com/2021/11/22/politics/sean-parnell-suspends-senate-campaign) during a custody hearing. She was afforded full legal custody. (**Dr. Mehmet Oz**, now serving in the Trump administration, subsequently won the nomination.)
+
+Feinberg and Michael’s presence should draw eyeballs. Yes, they both have some amount of defense industry experience: Michael was a White House fellow during the Obama administration, and spent two years as a special assistant to Defense Secretary Robert Gates at the Pentagon, which isn’t nothing. Feinberg has clearly spent time with defense contracts. But one must fully appreciate the rapacious business mindset that private sector types love to bring into the government — especially with high-stakes negotiations such as this. Parnell’s presence, meanwhile, makes sense within the context of “being the spokesman for Pete Hegseth.”
+
+## **The single-supplier shuffle**
+
+One topic Hayden and I didn’t get to explore more was the “single-supplier vulnerability” issue, but it’s turning into a crucial factor in negotiations.
+
+In 2024, the Biden administration released [a national security memorandum on the use of artificial intelligence](https://www.mayerbrown.com/en/insights/publications/2024/10/biden-administration-issues-first-ever-national-security-memorandum-on-artificial-intelligence), which laid out several directives regarding the protection of the supply chain. Among them was a directive for the Department of Defense to maintain contracts with at least two frontier AI labs that were cleared to handle classified information, in order to prevent a scenario where one compromised vendor could take down an entire IT system. But as early as the summer of 2025, I’m told, the Trump administration was trying to address that vulnerability. While they had signed separate contracts with Anthropic, Google, xAI, and OpenAI, only Anthropic’s model was cleared for classified use when Hegseth published his memo outlining his new AI policy in January.
+
+This has placed the Pentagon in a tight situation: Even if they successfully cut out Anthropic and go through the arduous process of making every defense contractor remove Claude from their workflows, they would risk being out of compliance with the Department’s own guidelines, to say nothing of common sense. (Avoiding single-supplier vulnerability is a [very basic practice in the tech industry](https://riskledger.com/resources/concentration-risk-101).)
+
+It certainly provides more context to the Pentagon’s decision last night to [suddenly grant xAI’s Grok access to classified systems](https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok), even though Grok is widely considered the least capable of the available models. While [_The New York Times_ reported](https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html) that Google is also close to signing a deal allowing the Pentagon to use Gemini for classified work, defense insiders view Gemini as a quality rival to Claude, while xAi’s Grok “is not considered as advanced or as reliable as Anthropic’s.” OpenAI is not close to a deal, as the company reportedly believes that it must improve ChatGPT’s safety features before deploying it on classified networks.
+
+So let’s do the math. You have four AI models, and you’re required to work with two of them. Your choices are:
+
+1) A company with a pretty good AI model and increasingly flexible morals
+
+2) A company with the _best_ AI model, but which refuses to let you use it for autonomously killing people without human input
+
+3) A company whose AI model isn’t secure enough to deploy yet
+
+4) A company whose AI has racist hallucinations and generates child porn, and that you don’t consider “advanced \[or\] reliable”
+
+If you can’t contract with companies 2 and 3, you’re stuck with companies 1 and 4, which even Defense officials admit is not optimal from a national security perspective. “The only reason we’re still talking to these people \[Anthropic\] is we need them and we need them now. The problem for these guys is they are that good,” [a Defense official told _Axios_ ahead of the meeting](https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario).
+
+## **Loomering the dip**
+
+The latest Clarity Act negotiations between finance and crypto last week inadvertently turned into the latest episode of recurring segment I’m now calling: “Why is **Laura Loomer** tweeting about obscure deep-cut tech issues as if they are MAGA loyalty tests?”
+
+Last Thursday, a small group of powerful crypto and finance players met at the White House to continue hashing out draft language over stablecoin yields. Coinbase, which sparked these negotiations after it withdrew support from Clarity over stablecoin yields, was in attendance. Prior to the meeting, however, [Loomer tweeted a classic banger](https://link.theverge.com/click/699e4a771bca6ef17b07ea52/aHR0cHM6Ly94LmNvbS9MYXVyYUxvb21lci9zdGF0dXMvMjAyNDI4Mzg4NDg2NzY5MDkyND91ZWlkPTg1YTFjYmY3YTBmNTk5OTExZWMyZTI1MDUxNTY5MDZh/67bcc5c1d6a525e79807a1fcBc0474097) that demonstrated the tactics she uses to wield influence over Trump: Cast the target as someone who once supported Trump’s enemies and is therefore disloyal.
+
+[![Screenshot via @LauraLoomer/X.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Screenshot-2026-02-24-at-7.48.57%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Screenshot-2026-02-24-at-7.48.57%E2%80%AFPM.png?quality=90&strip=all&crop=0,0,100,100)
+
+Screenshot via @LauraLoomer/X.
+
+Ironically, Coinbase has turned into one of the biggest branded boosters of the Trump administration, donating money to his pet initiatives and [even having their logo splashed all over last year’s military parade](https://link.theverge.com/click/699e4a771bca6ef17b07ea52/aHR0cHM6Ly9mb3J0dW5lLmNvbS9jcnlwdG8vMjAyNS8wNi8xNi9jb2luYmFzZS1mYWNlcy1jcnlwdG8tYmFja2xhc2gtb3Zlci1zcG9uc29yaW5nLW1pbGl0YXJ5LXBhcmFkZS1pbi1kLWMvP3VlaWQ9ODVhMWNiZjdhMGY1OTk5MTFlYzJlMjUwNTE1NjkwNmE/67bcc5c1d6a525e79807a1fcBcb5ee3c3).
+
+[Though Loomer tweeted a similar sentiment about Coinbase last June](https://link.theverge.com/click/699e4a771bca6ef17b07ea52/aHR0cHM6Ly94LmNvbS9MYXVyYUxvb21lci9zdGF0dXMvMTkzMzIwNDE1MzE2MzAwNjM1OD91ZWlkPTg1YTFjYmY3YTBmNTk5OTExZWMyZTI1MDUxNTY5MDZh/67bcc5c1d6a525e79807a1fcBccf2f99c), it seems to have had no impact on whether Coinbase has access to Trump, and likely won’t for a while: I’m told that CEO **Brian Armstrong** was at Mar-a-Lago the day before Loomer tweeted, attending a World Liberty Financial event.
+
+## **A wild Trumpworld character has appeared!**
+
+If you followed the saga of **Logan Paul** auctioning off his _Pokémon_ card collection, you may be aware that one of those cards [sold for a record-setting $16.5 million last week](https://www.cnn.com/2026/02/16/americas/pokemon-card-logan-paul-record-auction-intl-hnk). But who’s that _Pokémon_ purchaser? It’s **AJ Scaramucci**, the son of the one and only **Anthony Scaramucci**, the New York financier and former Trump ally who famously served as Trump’s White House Communications Director in 2017 for 10 days.
+
+AJ is the founder of Solari Capital, which [invested $100 million in a Bitcoin mining platform run by **Eric Trump**](https://fortune.com/2025/11/15/aj-scaramucci-anthony-scaramucci-solari-capital-american-bitcoin-trump-crypto-empire/). He also now owns the Pikachu Illustrator card, one of only 39 cards in existence and in Grade 10 condition, as well as the diamond chain and carrying case that Paul wore to display the card when [he appeared at _WrestleMania 38_](https://www.youtube.com/shorts/V59AyvY-hTs). Scaramucci told reporters that [he purchased the card as part of his upcoming “planetary treasure hunt,”](https://people.com/logan-paul-sells-pokemon-card-at-auction-for-record-usd16m-throws-in-diamond-necklace-as-bonus-11907464) adding that he also hoped to purchase a _T. rex_ skull and the Declaration of Independence. ([He later posted on X](https://x.com/jedimooch/status/2023888485401457021) that he hoped to place the card in the Nintendo Museum in Kyoto and cement it as “the ‘Mona Lisa’ of the Pokemon franchise.”)
+
+[![Screenshot via @jedimooch/X.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Screenshot-2026-02-24-at-7.57.59%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Screenshot-2026-02-24-at-7.57.59%E2%80%AFPM.png?quality=90&strip=all&crop=0,0,100,100)
+
+Screenshot via @jedimooch/X.
+
+## **And now, Recess**.
+
+We can’t believe that a court has to tell you this, [much less the Southern District of New York](https://link.theverge.com/click/699e4a771bca6ef17b07ea52/aHR0cHM6Ly93d3cudGhvbXBzb25oaW5lLmNvbS9pbnNpZ2h0cy9zZG55LXJ1bGVzLWFpLWNvbW11bmljYXRpb25zLW5vdC1wcml2aWxlZ2VkLz91ZWlkPTg1YTFjYmY3YTBmNTk5OTExZWMyZTI1MDUxNTY5MDZh/67bcc5c1d6a525e79807a1fcB224af9f6): If you put correspondence between you and your lawyer into a publicly available AI platform, it is no longer protected by attorney-client privilege and becomes subject to discovery!!!!
+
+In any case, have a pleasant State of the Union watch party (if anyone does that anymore) and see you next week.
+
+**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.
+
+-   Tina Nguyen
