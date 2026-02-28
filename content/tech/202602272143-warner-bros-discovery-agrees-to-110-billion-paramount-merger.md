@@ -1,0 +1,23 @@
+---
+title: "Warner Bros. Discovery agrees to $110 billion Paramount merger"
+source: "Emma Roth"
+url: "https://www.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement"
+published: "2026-02-27T21:43:37.000Z"
+category: "tech"
+summary: "Warner Bros. Discovery and Paramount Skydance's merger agreement is now official. On Friday, the two companies announced plans to merge into a massive media company that will fold WBD's studio, linear channels, streaming service, and gaming segment into Paramount. Though WBD initially signed onto an $83 billion agreement to merge part of Warner Bros. with Netflix, Paramount persisted with a hostile takeover bid, followed by a series of offers. That persistence paid off, as WBD determined that Paramount's \"best and final\" offer is \"superior\" to Netflix's deal. On Thursday, Netflix declined to match Paramount's bid, calling it \"no longer fina … Read the full story at The Verge."
+---
+Warner Bros. Discovery and Paramount Skydance’s merger agreement is now official. On Friday, the two companies [announced plans](https://www.prnewswire.com/news-releases/paramount-to-acquire-warner-bros-discovery-to-form-next-generation-global-media-and-entertainment-company-302699998.html?tc=eml_cleartime) to merge into a massive media company that will fold WBD’s studio, linear channels, streaming service, and gaming segment into Paramount.
+
+Though WBD initially signed onto an [$83 billion agreement](https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout) to merge part of Warner Bros. with Netflix, Paramount persisted [with a hostile takeover bid](https://www.theverge.com/news/839813/paramount-skydance-warner-bros-discovery-hostile-takeover-bid), followed by a series of offers. That persistence paid off, as WBD determined that Paramount’s “best and final” offer is “superior” to Netflix’s deal. On Thursday, Netflix [declined to match Paramount’s bid](https://www.theverge.com/streaming/885753/netflix-exit-warner-bros-discovery-deal-paramount), calling it “no longer financially attractive.”
+
+Paramount and WBD say the board of directors of both companies has signed off on the deal. The companies expect it to close in the third quarter of 2026, subject to regulatory and shareholder approval. Under the agreement, Paramount will acquire WBD in a deal valued at $110 billion. Paramount has also agreed to cover the $7 billion regulatory termination fee and the $2.8 billion breakup fee owed to Netflix, which it has already paid, [according to _Bloomberg_](https://www.bloomberg.com/news/articles/2026-02-27/paramount-is-said-to-have-paid-2-8-billion-netflix-breakup-fee?taid=69a1f76a7abc6e0001a5df07&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter).
+
+“Together, Paramount and WBD will deliver greater choice for consumers through its leading streaming platforms with an exceptional intellectual property portfolio that has produced popular franchises such as _Game of Thrones, Mission Impossible, Harry Potter, Top Gun, the DC Universe and SpongeBob SquarePants_,” the companies say in the press release.
+
+If approved, the deal would transform Paramount into an entertainment behemoth. Skydance only just completed its [acquisition of Paramount last August](https://www.theverge.com/tv/756298/paramount-plus-skydance-merger-complete-david-ellison), putting [David Ellison, the son of Oracle co-founder](https://www.theverge.com/entertainment/845532/larry-ellison-paramount-wb-netflix-takeover-oracle) and President Donald Trump ally Larry Ellison, into the CEO role. Ellison has made a number of changes at the Paramount-owned CBS News, including installing _The Free Press_ [founder Bari Weiss as editor-in-chief](https://www.theverge.com/business/793525/bari-weiss-cbs-news-glass-cliff). These changes have raised concerns among staff members at CNN, [according to _Variety_](https://variety.com/2026/tv/news/cnn-staffers-fear-warner-bros-paramount-hurt-journalism-1236674738/).
+
+Lawmakers and regulators are skeptical about the Paramount-WBD merger. “A handful of Trump-aligned billionaires are trying to seize control of what you watch and charge you whatever price they want,” Sen. Elizabeth Warren (D-MA) said in a statement. California Attorney General Rob Bonta [also warned](https://x.com/AGRobBonta/status/2027220360433946983?s=20) that the agreement isn’t a “done deal,” and that the state’s Department of Justice will be “vigorous” in its review of the merger.
+
+**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.
+
+-   Emma Roth
