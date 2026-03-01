@@ -1,0 +1,63 @@
+---
+title: "The trap Anthropic built for itself"
+source: "Connie Loizos"
+url: "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/"
+published: "2026-03-01T00:08:58.000Z"
+category: "tech"
+summary: "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them."
+---
+Friday afternoon, just as this interview was getting underway, a news alert flashed across my computer screen: the Trump administration was severing ties with Anthropic, the San Francisco AI company founded in 2021 by Dario Amodei. Defense Secretary Pete Hegseth had invoked a [national security law](https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/) to blacklist the company from doing business with the Pentagon after Amodei refused to allow Anthropic’s tech to be used for mass surveillance of U.S. citizens or for autonomous armed drones that could select and kill targets without human input.
+
+It was a jaw-dropping sequence. Anthropic stands to lose a contract worth up to $200 million and will be barred from working with other defense contractors after President Trump posted on Truth Social directing every federal agency to “immediately cease all use of Anthropic technology.” (Anthropic has since said it will [challenge the Pentagon in court](https://www.anthropic.com/news/statement-comments-secretary-war).)
+
+Max Tegmark has spent the better part of a decade warning that the race to build ever-more-powerful AI systems is outpacing the world’s ability to govern them. The MIT physicist founded the [Future of Life Institute](https://futureoflife.org/) in 2014 and helped organize an [open letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) — ultimately signed by more than 33,000 people, including Elon Musk — calling for a pause in advanced AI development.
+
+His view of the Anthropic crisis is unsparing: the company, like its rivals, has sown the seeds of its own predicament. Tegmark’s argument doesn’t begin with the Pentagon but with a decision made years earlier — a choice, shared across the industry, to resist binding regulation. Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Anthropic this week even dropped the [central tenet of its own safety pledge](https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2) — its promise not to release increasingly powerful AI systems until the company was confident they wouldn’t cause harm.
+
+Now, in the absence of rules, there’s not a lot to protect these players, says Tegmark. Here’s more from that interview, edited for length and clarity. You can hear the full conversation this coming week on TechCrunch’s [StrictlyVC Download](https://open.spotify.com/show/76SeToo8Rxj8hRTE0iQwWZ) podcast.
+
+**When you saw this news just now about Anthropic, what was your first reaction?**
+
+The road to hell is paved with good intentions. It’s so interesting to think back a decade ago, when people were so excited about how we were going to make artificial intelligence to cure cancer, to grow the prosperity in America and make America strong. And here we are now where the U.S. government is pissed off at this company for not wanting AI to be used for domestic mass surveillance of Americans, and also not wanting to have killer robots that can autonomously — without any human input at all — decide who gets killed.
+
+Techcrunch event
+
+San Francisco, CA | October 13-15, 2026
+
+**Anthropic has staked its entire identity on being a safety-first AI company, and yet it was collaborating with defense and intelligence agencies \[dating back to at least 2024\]. Do you think that’s at all contradictory?**
+
+It is contradictory. If I can give a little cynical take on this — yes, Anthropic has been very good at marketing themselves as all about safety. But if you actually look at the facts rather than the claims, what you see is that Anthropic, OpenAI, Google DeepMind and xAI have all talked a lot about how they care about safety. None of them has come out supporting binding safety regulation the way we have in other industries. And all four of these companies have now broken their own promises. First we had Google — this big slogan, ‘Don’t be evil.’ Then they dropped that. Then they dropped another longer commitment that basically said they promised not to do harm with AI. They dropped that so they could sell AI for surveillance and weapons. OpenAI just dropped the word safety from their mission statement. xAI shut down their whole safety team. And now Anthropic, earlier in the week, dropped their most important safety commitment — the promise not to release powerful AI systems until they were sure they weren’t going to cause harm.
+
+**How did companies that made such prominent safety commitments end up in this position?**
+
+All of these companies, especially OpenAI and Google DeepMind but to some extent also Anthropic, have persistently lobbied against regulation of AI, saying, ‘Just trust us, we’re going to regulate ourselves.’ And they’ve successfully lobbied. So we right now have less regulation on AI systems in America than on sandwiches. You know, if you want to open a sandwich shop and the health inspector finds 15 rats in the kitchen, he won’t let you sell any sandwiches until you fix it. But if you say, ‘Don’t worry, I’m not going to sell sandwiches, I’m going to sell AI girlfriends for 11-year-olds, and they’ve been linked to suicides in the past, and then I’m going to release something called superintelligence which might overthrow the U.S. government, but I have a good feeling about mine’ — the inspector has to say, ‘Fine, go ahead, just don’t sell sandwiches.’
+
+**There’s food safety regulation and no AI regulation.**
+
+And this, I feel, all of these companies really share the blame for. Because if they had taken all these promises that they made back in the day for how they were going to be so safe and goody-goody, and gotten together, and then gone to the government and said, ‘Please take our voluntary commitments and turn them into U.S. law that binds even our most sloppy competitors’ — this would have happened instead. We’re in a complete regulatory vacuum. And we know what happens when there’s a complete corporate amnesty: you get [thalidomide](https://www.smithsonianmag.com/science-nature/woman-who-stood-between-america-and-epidemic-birth-defects-180963165/), you get tobacco companies pushing cigarettes on kids, you get asbestos causing lung cancer. So it’s sort of ironic that their own resistance to having laws saying what’s okay and not okay to do with AI is now coming back and biting them.
+
+There is no law right now against building AI to kill Americans, so the government can just suddenly ask for it. If the companies themselves had earlier come out and said, ‘We want this law,’ they wouldn’t be in this pickle. They really shot themselves in the foot.
+
+**The companies’ counter-argument is always the race with China — if American companies don’t do this, Beijing will. Does that argument hold?**
+
+Let’s analyze that. The most common talking point from the lobbyists for the AI companies — they’re now better funded and more numerous than the lobbyists from the fossil fuel industry, the pharma industry and the military-industrial complex combined — is that whenever anyone proposes any kind of regulation, they say, ‘But China.’ So let’s look at that. China is in the process of banning AI girlfriends outright. Not just age limits — they’re looking at banning [all anthropomorphic AI](https://www.cnbc.com/2025/12/29/china-ai-chatbot-rules-emotional-influence-suicide-gambling-zai-minimax-talkie-xingye-zhipu.html). Why? Not because they want to please America but because they feel this is screwing up Chinese youth and making China weak. Obviously, it’s making American youth weak, too.
+
+And when people say we have to race to build superintelligence so we can win against China — when we don’t actually know how to control superintelligence, so that the default outcome is that humanity loses control of Earth to alien machines — guess what? The Chinese Communist Party really likes control. Who in their right mind thinks that Xi Jinping is going to tolerate some Chinese AI company building something that overthrows the Chinese government? No way. It’s clearly really bad for the American government too if it gets overthrown in a coup by the first American company to build superintelligence. This is a national security threat.
+
+**That’s compelling framing — superintelligence as a national security threat, not an asset. Do you see that view gaining traction in Washington?**
+
+I think if people in the national security community listen to Dario Amodei describe his vision — he’s given a famous speech where he says we’ll soon have a [country of geniuses in a data center](https://www.instagram.com/bloombergtv/reel/DU7pjUciTlB/?hl=gu) — they might start thinking: wait, did Dario just use the word ‘country’? Maybe I should put that country of geniuses in a data center on the same threat list I’m keeping tabs on, because that sounds threatening to the U.S. government. And I think fairly soon, enough people in the U.S. national security community are going to realize that uncontrollable superintelligence is a threat, not a tool. This is totally analogous to the Cold War. There was a race for dominance — economic and military — against the Soviet Union. We Americans won that one without ever engaging in the second race, which was to see who could put the most nuclear craters in the other superpower. People realized that was just suicide. No one wins. The same logic applies here.
+
+**What does all of this mean for the pace of AI development more broadly? How close do you think we are to the systems you’re describing?**
+
+Six years ago, almost every expert in AI I knew predicted we were decades away from having AI that could master language and knowledge at human level — maybe 2040, maybe 2050. They were all wrong, because we already have that now. We’ve seen AI progress quite rapidly from high school level to college level to PhD level to university professor level in some areas. Last year, AI won the gold medal at the International Mathematics Olympiad, which is about as difficult as human tasks get. I [wrote a paper](https://arxiv.org/pdf/2510.18212) together with [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), [Dan Hendrycks](https://en.wikipedia.org/wiki/Dan_Hendrycks), and other top AI researchers just a few months ago giving a rigorous definition of AGI. According to this, GPT-4 was 27% of the way there. GPT-5 was 57% of the way there. So we’re not there yet, but going from 27% to 57% that quickly suggests it might not be that long.
+
+When I lectured to my students yesterday at MIT, I told them that even if it takes four years, that means when they graduate, they might not be able to get any jobs anymore. It’s certainly not too soon to start preparing for it.
+
+**Anthropic is now blacklisted. I’m curious to see what happens next — will the other AI giants stand with them and say, we won’t do this either? Or does someone like xAI raise their hand and say, Anthropic didn’t want that contract, we’ll take it?** **\[Editor’s note: Hours after the interview, OpenAI announced its [own deal](https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/) with the Pentagon.\]**
+
+Last night, Sam Altman came out and said he stands with Anthropic and has the same red lines. I admire him for the courage of saying that. Google, as of when we started this interview, had said nothing. If they just stay quiet, I think that’s incredibly embarrassing for them as a company, and a lot of their staff will feel the same. We haven’t heard anything from xAI yet either. So it’ll be interesting to see. Basically, there’s this moment where everybody has to show their true colors.
+
+**Is there a version of this where the outcome is actually good?**
+
+Yes, and this is why I’m actually optimistic in a strange way. There’s such an obvious alternative here. If we just start treating AI companies like any other companies — drop the corporate amnesty — they would clearly have to do something like a clinical trial before they released something this powerful, and demonstrate to independent experts that they know how to control it. Then we get a golden age with all the good stuff from AI, without the existential angst. That’s not the path we’re on right now. But it could be.
