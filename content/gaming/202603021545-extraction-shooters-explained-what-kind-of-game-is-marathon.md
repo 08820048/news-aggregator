@@ -1,0 +1,105 @@
+---
+title: "Extraction Shooters Explained – What Kind of Game is Marathon?"
+source: "Matt Purslow"
+url: "https://www.ign.com/articles/extraction-shooters-explained"
+published: "2026-03-02T15:45:00.000Z"
+category: "gaming"
+summary: "What kind of game is Marathon? We explain the extraction shooter genre, from its rules and objectives to its history and must-play titles."
+---
+The extraction shooter genre has officially exploded. For years it was synonymous with a couple of games, most notably [Escape from Tarkov](https://www.ign.com/games/escape-from-tarkov), but it's now more varied and beginner-friendly than ever. [Arc Raiders](https://www.ign.com/games/arc-raiders) has sucked in first-timers, and I'm tentatively excited by what I've played of Bungie's [Marathon](https://www.ign.com/games/marathon) ahead of its full launch this week.
+
+But if you've never played an extraction shooter before, the genre can seem intimidating and opaque. What does that confusing name mean? What exactly _is_ an extraction shooter? And what are the best ones to play right now? That's what we're here to explore.
+
+## What is an Extraction Shooter?
+
+[](https://assets-prd.ignimgs.com/2026/03/02/marathon-1772463185669.jpg)
+
+Marathon, from Destiny and Halo developer Bungie, is the latest extraction shooter. | Image credit: Bungie
+
+Every extraction shooter is different, but the basic loop goes something like this: You load into a map, either solo or in a team. You explore, find loot, locate quest items and, usually, fight enemies. Those enemies might be fellow players, AI-controlled bots, or a mix of the two, which is why you'll often see the genre characterized as PvPvE – player vs player vs environment. There are, however, pure PvE games, and even single player-only extraction shooters.
+
+When you're finished fighting, exploring and questing you reach the bit that lends the genre its name: the extraction. Your goal is to leave – extract – at designated locations before you die _and_ before the clock runs out.
+
+One of the defining traits of the genre is that if you die you lose the gear you're carrying forever (except for the little you've stuffed in a designated safe pocket). This gives rise to the dreaded "gear fear": the better the loadout you take into a round, the more value you lose when you die. Do you dare risk that incredible shotgun you looted from a dead body last run, or do you keep it safe in your item stash? Cheap or even free loadouts may feel weak, but let you join a run without investing much.
+
+Stealth often plays at least a small part in an extraction shooter because noise alerts nearby enemies and players. This isn't Team Deathmatch, and pure aggression is a good way to die. Catching an opponent unawares is always a sound strategy.
+
+Extraction shooters encourage progress outside of matches, too. You will complete NPC quests for rewards, earn XP, level up your character, unlock cosmetics, and perhaps improve a home base (sometimes, this is all hidden in an impenetrable web of menus that you simply have to learn to navigate). And, of course, the more you play the better equipment you'll find, which you can then take back into matches. That's a form of progress in its own right.
+
+The genre and its tenets have been led by Escape from Tarkov, the original, quintessential, hardcore extraction shooter. But as it expands, so its appeal broadens, and developers are now bending the rules in interesting ways (Witchfire, for example, is a promising singleplayer extraction shooter with magic spells and roguelike elements).
+
+I, for one, can't wait to see how the genre develops.
+
+## The History of Extraction Shooters
+
+[](https://assets-prd.ignimgs.com/2026/03/02/the-division-1772463257717.jpg)
+
+The Division's Dark Zone is the earliest example of an extraction shooter. | Image credit: Ubisoft
+
+Escape from Tarkov, which launched in beta in 2017 and celebrated its full 1.0 release in 2025, was the first pure standalone extraction shooter.
+
+Battle royale games that preceded it, such as PUBG, certainly influenced the genre: they too dropped players into a large map filled with finite loot. But the rules of Tarkov felt immediately unique. Its only direct companion at the time was a specific area in Ubisoft's 2016 multiplayer shooter, [The Division](https://www.ign.com/games/tom-clancys-the-division). In an otherwise PvE game this location, called the Dark Zone, allowed you to go "rogue" and attack other players. The Dark Zone was full of tough bosses and top-tier gear, and the only way to keep it permanently was to extract by sending up a flare at designated spots on the map, calling in a chopper.
+
+The Dark Zone lacked many of the pillars of the genre as we know it – if you died, you only lost the gear you found during the run, rather than what you went in with – but I still remember how tense and thrilling it felt, especially after I'd squeezed all I could out of The Division's main open world.
+
+Tarkov launched its alpha soon after and had already been in development by several years at that point, so it's hard to draw too strong a connection between the two games or to claim that one influenced the other. It's more likely that two development teams simply had similar ideas at similar times.
+
+Escape from Tarkov was, and remains, a complex, hardcore shooter. A dedicated military simulator where each gun only takes specific magazines, and each magazine takes specific bullets; a satisfying inventory management game of stacking backpacks within backpacks; a punishing tactical shooter where one bullet can end your round. It felt _different_, and players sunk hundreds of hours into it.
+
+But we had to wait until 2019 for the genre's second big breakout. Hunt: Showdown, as it was then called, is very different to Tarkov, and not just because of its 19th-century bayou setting. The same core principles applied – load in, fight, loot, and extract – but rounds revolve around powerful edritch bosses that you need to defeatand escape with their bounty. It remains a brilliant game with a dedicated dev team who update it regularly.
+
+Then followed six years of both feast and famine. Feast in that other developers, seeing the success of the big two, flooded the genre with new ideas. Famine in that so many of those projects failed, littering the timeline with bodies. Tom Clancy's The Division Heartland, The Cycle: Frontier, Hyenas, Level Zero: Extraction – all promising games that withered, for one reason or another.
+
+Some games have of course survived, many of them sustained by Early Access periods on Steam. The magic-infused [Witchfire](https://www.ign.com/games/witchfire) and the PvE shooter [The Forever Winter](https://www.ign.com/games/the-forever-winter) are still ticking along, while free-to-play shooters [Delta Force](https://www.ign.com/games/delta-force) and [Arena Breakout: Infinite](https://www.ign.com/games/arena-breakout-infinite) have found their own audiences.
+
+It wasn't until 2025's Arc Raiders that interest in the genre exploded.
+
+Arc Raiders feels more accessible, and more friendly, than Tarkov. Inventory management and questing is simplified, while a culture of collaboration between players has emerged organically. Through proximity chat you can make friends with people you meet, and it's entirely possible to play for hours without finding a hostile player. But it retains the brutality of the genre thanks to tough robot enemies – the screech of a Rocketeer makes me sweat – and unforgiving PvP, particularly in duos and trios modes. It's received meaty updates since it launched in October 2025, with plenty more maps and map conditions planned.
+
+That brings us to Marathon. The earliest playable version failed to impress and [plunged the studio into a plagiarism row](https://www.ign.com/articles/fans-discuss-marathon-developer-bungies-future-after-yet-another-plagiarism-row-rocks-studio-make-no-mistake-this-is-an-existential-struggle-for-bungie-at-this-point) – but following a delay and an art revamp, interest remains high. Its tantalising promise is combining Bungie's sublime first-person gunplay with the inherent tension of an extraction shooter. Could it become one of the pillars of the genre alongside Arc Raiders, Tarkov, and Hunt: Showdown?
+
+## Essential Extraction Shooters
+
+## **Escape from Tarkov**
+
+[
+
+](https://assets-prd.ignimgs.com/2026/03/02/escape-from-tarkov-1772462954547.jpg)
+
+Punishing, fiddly, and oh-so-rewarding when you finally get the hang of it, [Escape from Tarkov](https://www.ign.com/games/escape-from-tarkov) is the beating, brutal heart of the genre. Every system feels layers deep, from the absurd level of gun customization to individual limb damage to the simple art of crouching: you can control exactly how low you stoop by scrolling your mouse wheel, adjusting perfectly to cover (Tarkov is PC-only, but a console version is in the works). Hell, Tarkov has multiple types of blind fire, and its audio changes based on what military headset your character is wearing – that's the level of detail we're talking about.
+
+Safe to say it's not for everyone. Its menus – where you'll upgrade your hideout and buy gear on a player-led flea market – are labyrinths, its maps mazes. As a new player you accept confusion. Consulting guides is a must and even then, you'll still need to play tens of hours before you feel like you've got your first flimsy foothold in its systems.
+
+But there's no denying the surge of adrenaline it gives you when you stake out an enemy, wait for the perfect moment, and pull the trigger. Firefights are over in a lethal flash, and the heart-pounding joy of searching an enemy's body, salivating over their gear while panicking about nearby enemies, is still the purest version of the genre.
+
+## Arc Raiders
+
+[
+
+](https://assets-prd.ignimgs.com/2026/03/02/arc-raiders-1772462998001.jpg)
+
+Venturing "topside" from [Arc Raiders](https://www.ign.com/games/arc-raiders)' underground city can feel intimidating: you can, and will, die often, both to other players and to the lethal Arc robots that roam the surface. But plentiful loot, a longer time-to-kill, and a decent number of pacifist players make this relatively beginner-friendly. In duos and trios mode, most squads will shoot on sight, but in solos a smart "aggression-based matchmaking" throws you into runs with friendly players. I've met people in Arc Raiders that I still chat to, months later.
+
+An abundance of quests, base upgrades and weekly "trials" – challenges such as dealing damage to a specific enemy type – provide direction, so you're never stuck for something to do, and an abundance of rotating conditions, such as hurricanes and electromagnetic storms transform how each map plays. Away from its egregious generative AI voice barks, it's my go-to extraction shooter.
+
+## **Hunt: Showdown 1896**
+
+[
+
+](https://assets-prd.ignimgs.com/2026/03/02/hunt-showdown-1772463054027.jpg)
+
+[Hunt: Showdown 1896](https://www.ign.com/games/hunt-showdown-1896) is a grimy, swampy FPS where monsters lurk in the Louisiana Bayou. Its revolvers and shotguns feel old and mechanical – rounds move slowly, muddily, and tension hangs thick in the air. What sets it apart, other than its theme, are the nightmare bosses in its core game mode, Bounty Hunt.
+
+Players join each round with a contract to kill these bosses, and must find clues on the map to reveal their lairs. The resulting battles are protracted and painful, and even if you beat these brutes you still have to banish them to win the valuable bounty. The banishment ritual is painfully long, giving time for other players to blast you away and poach the bounty for themselves. Successfully extracting with the bounty nets you money and lots of experience.
+
+Between rounds you're recruiting and leveling up your hunters (death is permanent after they reach a certain level), buying new equipment, and upgrading your loadouts. If you want a break from bounty hunting then the faster solo-only Soul Survivor mode is more like a battle royale, and rewards you with gear if you win.
+
+## **Escape from Duckov**
+
+[
+
+](https://assets-prd.ignimgs.com/2026/03/02/escape-from-duckov-1772463127366.jpg)
+
+[Escape from Duckov](https://www.ign.com/games/escape-from-duckov) is a top-down extraction shooter that's far less frivolous than its rip-off name and waddling characters suggest. You won't find PvP here – it's single player only – but you _will_ find almost everything else you expect from the genre. Deep weapon customization, tough enemies, loot-dense maps, dangerous night raids, base-building, crafting, long-term quests: it's all here, it's just slightly less punishing and instantly more welcoming than other games.
+
+The art style is wonderful and playful, but the actual combat is solid, too. You'll need to dip behind cover, swivel your crosshair and plan your movements carefully to avoid being overwhelmed by waves of angry birds. It's cheap on Steam and a fantastic introduction to the genre if you're feeling unsure.
