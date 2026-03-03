@@ -1,0 +1,82 @@
+---
+title: "I was on an Emirates flight to Dubai that turned around twice because of Iranian missiles"
+source: "Unknown"
+url: "https://www.cnbc.com/2026/03/03/emirates-flight-dubai-iran-missile-strikes.html"
+published: "2026-03-03T17:41:09.000Z"
+category: "finance"
+summary: "CNBC's Emma Graham flew home to the UAE on an Emirates flight that turned around just 30 minutes from Dubai because of an Iran missile threat."
+---
+A very empty Dubai Airport immigration
+
+Emma Graham, CNBC
+
+I flew from Mumbai to [Dubai](https://www.cnbc.com/id/10000544) on an Emirates repatriation flight, one of several running over the last 24 hours and one of the first flights back into the country since the [U.S. and Israel struck Iran](https://www.cnbc.com/2026/03/03/us-iran-war-live-updates.html) over the weekend.
+
+[Most flights](https://www.cnbc.com/2026/03/01/travel-iran-attack-middle-east-flights.html) to and from the UAE have been grounded, resulting in hundreds of cancellations, thousands stranded both in and outside the Middle East, and global travel disruption as the strikes in Iran escalated into a wider regional conflict.
+
+On Monday, [Emirates and Etihad announced](https://www.cnbc.com/2026/03/02/middle-east-flights.html) a small number of flights to and from Dubai: repatriation flights for Emirati nationals and residents, and others to evacuate tourists stranded in the country.
+
+With around just 30 minutes left of the 3.5-hour journey from Mumbai to Dubai, the captain of the Emirates flight — an Airbus A380, which was only about half full — informed passengers we would have to [turn around](https://www.flightradar24.com/data/flights/ek501#3e91b971) due to missiles fired by [Iran](https://www.cnbc.com/id/10000297) on the UAE.
+
+## Read more U.S.-Iran war news
+
+-   [U.S.-Iran war: Follow CNBC's live coverage](https://www.cnbc.com/2026/03/03/us-iran-war-live-updates.html)
+-   [What's next for global markets as oil surges and stocks plunge on Middle East conflict](https://www.cnbc.com/2026/03/03/us-iran-israel-war-stock-market-bonds-bitcoin-sell-off-sp500.html)
+-   [What's really got the U.S. stock market worried about this latest geopolitical conflict](https://www.cnbc.com/2026/03/03/whats-really-got-the-us-stock-market-worried-about-this-latest-war.html)
+-   [I was on an Emirates flight to Dubai that turned around because of Iranian missiles](https://www.cnbc.com/2026/03/03/emirates-flight-dubai-iran-missile-strikes.html)
+-   [Google employees call for military limits on AI amid Iran strikes, Anthropic fallout](https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html)
+-   [Natural gas prices soar as Middle East war raises global supply fears](https://www.cnbc.com/2026/03/03/middle-east-war-gas-energy-lng-drone-qatar-strait-hormuz-price-shock.html)
+-   [Oil surges for second day, Brent tops $83 after Iran orders Strait of Hormuz closure](https://www.cnbc.com/2026/03/03/crude-oil-prices-today-iran-war.html)
+-   [Oil supertanker rates hit record as insurers drop war risk protection in the Middle East](https://www.cnbc.com/2026/03/03/middle-east-crisis-iran-us-shipping-oil-tankers-strait-of-hormuz.html)
+-   [The Strait of Hormuz is facing a blockade. These countries will be most impacted](https://www.cnbc.com/2026/03/03/strait-of-hormuz-closure-which-countries-will-be-hit-the-most.html)
+-   [Europe — told of Iran strikes just 'minutes' before they started — struggles to be heard](https://www.cnbc.com/2026/03/03/europe-iran-trump-us-israel-strikes-eu-merz-starmer.html)
+
+Immigration at Dubai Airport on March 3
+
+Emma Graham, CNBC
+
+About 15 minutes later, the captain told passengers that the airspace had reopened, and we had clearance to land in Dubai, where we arrived at an almost empty airport.
+
+The arrivals board was blank, but a small number of passengers appeared to be departing on repatriation flights back to the U.K.
+
+Arrivals board, Dubai Airport
+
+When the war began, I was on holiday in Goa, India with my partner and due to fly back on Sunday, but our direct flight home to the UAE was cancelled. My bosses suggested I go to CNBC's bureau in Singapore to wait out the conflict and work from there. We headed to the airport in Goa on Monday night to catch our flight via Mumbai to Singapore.
+
+When we reached Mumbai's airport, we checked the departures board for our Singapore leg and saw an Emirates flight departing for Dubai at 2:20 am. I had been in touch with Emirates, Etihad and Dubai Airports all weekend for my reporting, but was shocked to see a flight. We went to the Emirates desk to find out more.
+
+Mumbai Airport arrivals board
+
+Emma Graham, CNBC
+
+To my surprise, they told us we could book flights if we were UAE residents or nationals. They asked us to book on the spot, via the airline's app, and show our Emirates ID, a national ID card for residents across the country.
+
+We stood at the desk, contemplating whether to fly back into an active war. I consulted CNBC's security team and together, we decided it would be best to go home. My team had been on the ground for days reporting and working from the UAE, and I couldn't refuse the chance to go back. My partner and I agreed that we may not get the chance again anytime soon.
+
+We boarded the very quiet flight and spoke with other passengers, a mix of Emiratis and expats residing in Dubai. Many of them had tried in recent days to board flights to Saudi Arabia or Oman, hoping to cross back into the UAE from there.
+
+I was told taxi drivers in Muscat were charging passengers wanting to cross the border over 3,000 dirhams, which is just over $800, for the four-and-a-half-hour drive. Most people on board said they were excited to get home, but the mood on the flight was tense.
+
+The flight took off and we fell asleep. It was the middle of the night and I'd been working for the last three days on breaking news. Thirty minutes from landing, the captain woke us all up to say that UAE airspace had closed and that the plane had to turn back to Mumbai. We were so close.
+
+Our journey home on EK 501 BOM-DXB
+
+Emma Graham, CNBC
+
+There was a mix of silence and shock. I was next to a British woman who said her two young children were in Dubai. She looked at me with despair at the news that she wouldn't see her family.
+
+Through the flight's Wifi, I learned from my team, who was [tracking my flight](https://www.flightradar24.com/data/flights/ek501#3e91b971), that a barrage of missiles had been fired towards the UAE. They reported hearing multiple loud explosions, which the UAE government has confirmed were the country's air defenses intercepting missiles from Iran. I was stunned, and started to make plans to revert to my original plan: Singapore.
+
+About 15 minutes later, the captain's voice returned. He said, to our great surprise, that we had clearance to land in Dubai and that we are just around an hour away. The entire flight clapped and cheered. I looked at my partner. We both thought: Are we really flying back into the range of ballistic missiles?
+
+As we approached Dubai, I saw the familiar sight of the Persian Gulf out my window, tankers dotted around the UAE coast like small stars full of petroleum.
+
+Dubai Airport's Terminal 3 taxi rank
+
+Emma Graham, CNBC
+
+The crew told me that we were being escorted back into UAE airspace by two fighter jets. I could not see any out of my window from my view in the middle seat and, after we landed, Emirates would not confirm it to me on record, saying only the flight was "rerouted in line with air traffic control instructions" and "landed safely in Dubai with a one-hour delay."
+
+When we landed, it was just after 6 a.m. on Tuesday. The emptiness was an eerie reminder of how the country felt during Covid-19. I flew a lot then and remember being in and out of a very empty Dubai Airport. The arrivals board was blank, the baggage claims were still, and the taxi ranks were empty.
+
+It felt good to be home, even though it felt like sheer luck and I'd expected to be unable to return for weeks**.** For me, for now, the UAE feels safe.
