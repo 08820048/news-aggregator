@@ -1,0 +1,51 @@
+---
+title: "Gold price jumps on Middle East turmoil. What to know before investing"
+source: "Unknown"
+url: "https://www.cnbc.com/2026/03/02/gold-price-jumps-on-middle-east-turmoil-what-to-know-before-investing.html"
+published: "2026-03-02T21:38:39.000Z"
+category: "finance"
+summary: "Although gold is generally viewed as a safe-haven investment during turbulent times, it's important to know what you're investing in before jumping in."
+---
+Frame Studio | Moment | Getty Images
+
+With [the Middle East war](https://www.cnbc.com/2026/03/02/us-iran-live-updates-trump-oil-gold.html) rattling global markets, [gold](https://www.cnbc.com/quotes/XAU=/) is once again drawing attention as a potential safe-haven investment.
+
+The precious metal is generally viewed as a diversifier and store of value in turbulent times. However, it's important to know what you're investing in, and why, before jumping in.
+
+"Gold may be one of the ways to invest against the geopolitical shock, but certainly there are others," such as [global energy and defense stocks](https://www.cnbc.com/2026/03/02/global-markets-after-iran-strikes-oil-surges-airlines-sink-bonds-defy-safe-haven-playbook.html), said certified financial planner Barry Glassman, founder and president of Glassman Wealth Services in Vienna, Virginia, and a member of the [CNBC Financial Advisor Council](https://www.cnbc.com/advisor-council/). "It'll be interesting to see which parts of portfolios hold up during this volatility."
+
+## Gold prices have been on a run-up
+
+Gold's price has jumped in recent days due to the escalating conflict in the Middle East sparked by the joint [U.S.-Israeli military strikes on Iran](https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html), which were met with retaliatory attacks on Israel and other U.S. allies around the Gulf region. The price for a troy ounce of gold shot above $5,400 overnight before settling back in the $5,300 range by Monday afternoon.
+
+While down from its record high of $5,594 on Jan. 29, experts say gold's price may still have upside potential this year. Analysts at J.P. Morgan said in a new research note that "conflict-driven surges in gold come and go, though geopolitical risks broadly are likely to stay on the boil," which partly contributes to their forecast of gold reaching $6,300 by the end of 2026.
+
+"The market tends to give you clues on what might be good asset classes to hold during downturns and global uncertainty," said certified financial planner Patrick Huey, owner and principal advisor with Victory Independent Planning in Naples, Florida. "As long as we still see global upheaval, I think gold will continue to do well."
+
+Already this year, gold is up roughly 23%. In 2025, it jumped about 64%. That compares to the [S&P 500'](https://www.cnbc.com/quotes/.SPX/)s gain of 16.4% last year. The surge in price has been attributed to a variety of factors, including increasing demand from both central banks and individual investors.
+
+## How to incorporate gold in your portfolio
+
+It's important to know there's no guarantee that you'll make money if you invest in gold, Huey said. "Gold has had long periods where it's done absolutely nothing, and long periods when it's been very volatile," he said. "And you can certainly lose money in gold."
+
+Many financial advisors recommend keeping your [alternative investments](https://www.cnbc.com/video/2025/10/14/inside-the-alternative-investments-boom-hereas-what-you-need-to-know.html) — which include gold — to a small share of your portfolio. Huey said he keeps alternatives to 5% to 10% in client portfolios.
+
+Many investors have chosen to invest in gold through [exchange-traded funds](https://www.cnbc.com/2026/01/02/etf-fees.html) rather than buying physical gold, which they need to store. With ETFs, investors can gain exposure to the precious metal without owning physical gold. Like all ETFs, they trade throughout the day like stocks. Most are passively managed, meaning they track an index and its performance, for better or worse.
+
+## Gold ETFs may come with different tax treatment
+
+There are a few different types of ETFs that give you gold exposure, and it's worth knowing the [tax treatment](https://www.cnbc.com/2025/11/16/gold-capital-gains-taxes.html) of them.
+
+Some ETFs invest directly in gold bullion, such as [SPDR Gold Shares (GLD)](https://www.cnbc.com/quotes/GLD/). Each ETF share represents a certain amount of that physical gold.
+
+If you invest in one of the ETFs through a taxable brokerage account, be aware that any profit when you sell may be taxed differently than gains on other investments like stocks and bonds, Huey said.
+
+Short-term capital gains — profits on assets held for a year or less — face [ordinary income tax rates](https://www.cnbc.com/2025/10/09/2026-federal-tax-brackets.html), which range from 10% to 37%. However, even if you hold on to your gold ETF for more than a year, typical [long-term capital gains tax rates](https://www.cnbc.com/2025/10/14/capital-gains-taxes-2026.html) — 0%, 15% or 20%, depending on your income — do not apply, Huey said.
+
+Instead, the IRS treats gold as a collectible, which comes with a maximum tax rate of 28%. That holds true even if you invest in gold through an ETF. Investors with incomes in higher tax brackets end up paying that rate.
+
+Alternatively, you can buy ETFs that invest in gold futures contracts, such as Invesco DB Gold Fund (DGL).
+
+These funds use derivatives instead of holding physical gold, which results in a different tax treatment, Huey said. Generally speaking, gains on these ETFs are subject to the IRS's so-called 60/40 rule: Whatever long-term gains tax you're subject to will apply to 60% of the gain, and ordinary tax rates will apply to 40% of it, no matter how long you've held the ETF.
+
+Another way to invest in gold via ETFs is through those that invest in [gold-mining companies](https://www.cnbc.com/video/2025/11/04/josh-browns-best-stocks-in-the-market-spotlight-on-gold-miners.html), such as [VanEck Gold Miners ETF (GDX)](https://www.cnbc.com/quotes/GDX/). Any profits earned with these ETFs would be taxed at normal short- and long-term rates.
