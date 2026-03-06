@@ -1,0 +1,17 @@
+---
+title: "MS exec: Microsoft's next console will play \"Xbox and PC games\""
+source: "
+                    Kyle Orland
+                "
+url: "https://arstechnica.com/gaming/2026/03/ms-exec-microsofts-next-console-will-play-xbox-and-pc-games/"
+published: "2026-03-05T21:39:43.000Z"
+category: "tech"
+summary: "Project Helix is set to open the closed-console ecosystem, but the details will matter."
+---
+Last summer, we here at Ars made the argument that the company’s next Xbox console should give up the walled garden approach and [just run Windows already](https://arstechnica.com/gaming/2025/06/why-microsofts-next-xbox-should-just-run-windows-already/). Now, [newly named](https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/) Microsoft Executive Vice President for Gaming Asha Sharma has strongly hinted that this is indeed the direction Microsoft is going, saying its next-generation console will “play your Xbox and PC games.”
+
+In [a social media post Thursday afternoon](https://x.com/asha_shar/status/2029645713962156149), Sharma said that “our commitment to the return of Xbox” would include a new console codenamed Project Helix that “will lead in performance and play your Xbox and PC games.” Sharma said she would be discussing that commitment and that console itself with developers and partners at her first Game Developers Conference next week.
+
+Sharma’s statement leaves a little wiggle room for Project Helix to be something other than a full-fledged Windows-based living room gaming box. The coming console’s access to PC games could be limited to [Microsoft’s existing streaming solution via PC Game Pass](https://www.microsoft.com/en-us/windows/learning-center/how-to-stream-games-using-pc-game-pass), for instance, or to games designed for [Microsoft’s own Xbox-branded PC SDK](https://learn.microsoft.com/en-us/gaming/gdk/docs/gdk-dev/get-started/overviews/sdk-and-tools?view=gdk-2510) and [the PC Xbox app](https://www.xbox.com/en-US/apps/xbox-app-on-pc).
+
+Still, a plain reading of Sharma’s statement suggests that Microsoft is getting ready to open up its next console to a complete Windows installation, with the ability to play tens of thousands of existing PC games. That doesn’t come as a complete shock, considering that Microsoft already used the Xbox name for [last year’s Windows-based ROG Xbox Ally](https://arstechnica.com/gaming/2025/10/rog-xbox-ally-x-the-ars-technica-review/) (and its somewhat console-esque [full-screen “Xbox Experience”](https://arstechnica.com/gaming/2025/06/full-screen-xbox-handheld-ui-is-coming-to-all-windows-pcs-starting-next-year/)). Microsoft has also been slowly [reducing the number of games that are fully exclusive to Xbox consoles](https://arstechnica.com/gaming/2024/02/microsoft-says-its-taking-four-unnamed-xbox-games-to-the-other-consoles/), lowering the value of a walled-off console platform (Sony, meanwhile, [pulled back this week](https://arstechnica.com/gaming/2026/03/sony-wont-bring-any-more-single-player-playstation-games-to-pc/) from [its recent trend](https://arstechnica.com/gaming/2020/08/sony-says-it-will-explore-more-pc-ports-for-playstation-titles/) of releasing first-party titles on PC as well). Meanwhile, [Valve’s coming Steam Machine](https://arstechnica.com/gaming/2025/11/valves-steam-machine-looks-like-a-console-but-dont-expect-it-to-be-priced-like-one/) is threatening to bring Windows-free PC gaming to living rooms everywhere in the near future.
