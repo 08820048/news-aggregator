@@ -1,0 +1,43 @@
+---
+title: "Meet your new phone away from phone"
+source: "Allison Johnson"
+url: "https://www.theverge.com/tech/889756/mwc-2026-unihertz-light-phone-clicks"
+published: "2026-03-06T12:00:00.000Z"
+category: "tech"
+summary: "BlackBerries are so back. Unihertz's booth at MWC was a little out of the way, but those who did find it all seemed to want to pick up the Titan Elite 2. Sure, the cosmic orange color attracted attention, and the QWERTY keyboard reminded one showgoer of his old BlackBerry. But once I picked it up, I could see why it was so popular. It's slim, light, and pocketable, and the physical keys just beg to be pressed. I felt unencumbered, which I can't say about the phone I'm currently using. I didn't want to put it down, and based on the steady stream of visitors I saw at the booth, I wasn't alone. As usual, MWC offered a bunch of odd and delightful ideas about phones that … Read the full story at The Verge."
+---
+Unihertz’s booth at MWC was a little out of the way, but those who did find it all seemed to want to pick up [the Titan Elite 2](https://www.theverge.com/tech/888101/unihertz-titan-2-elite-qwerty-keyboard). Sure, the cosmic orange color attracted attention, and the QWERTY keyboard reminded one showgoer of his old BlackBerry. But once I picked it up, I could see why it was so popular. It’s slim, light, and pocketable, and the physical keys just beg to be pressed. I felt unencumbered, which I can’t say about the phone I’m currently using. I didn’t want to put it down, and based on the steady stream of visitors I saw at the booth, I wasn’t alone.
+
+As usual, MWC offered a bunch of odd and delightful ideas about phones that aren’t just slabs of glass and aluminum. This year, I saw [a phone with an electric igniter](https://www.engadget.com/mobile/smartphones/oukitel-wp630-mwc-2026-smartphone-igniter-101046023.html) (it wasn’t working either time I tried to see it in action), a phone with [a DJI Osmo-looking gimbal cam attached](https://www.theverge.com/gadgets/887140/honor-robot-phone-mwc-release-date-specs), even phones for pets. Will any of these ideas prove to be winners in the long run? Probably not, but it’s nice to imagine something different.
+
+In between the oddball phones, another trend emerged in places like the Unihertz booth: phones that aren’t your main phone. This isn’t a brand-new idea, but the concept of a simplified device that provides a better typing experience, or gives you a little vacation from your regular phone’s constant nagging, seems to be gaining momentum.
+
+In almost every case, these are phones that _could_ be your main phone, and Unihertz in particular has plenty of fans [using the company’s existing devices](https://www.reddit.com/r/dumbphones/comments/1hl9bo9/i_finally_found_my_perfect_dumbphone_the_unihertz/) this way. The Titan Elite 2 runs Android 16, and Unihertz [promises OS upgrades up to Android 20](https://www.unihertz.com/pages/new). Watching vertical videos on the squarish 4-inch screen isn’t going to be the best experience, but there’s nothing to stop you from doing it. But the Elite 2 might be most appealing as a device when you don’t plan on watching a lot of TikTok videos — maybe if you want to actively discourage yourself from doing so, even.
+
+There are a few overlapping intentions behind the secondary phone concept, but they have one principle in common: creating some space between you and your main phone. If you want to spend less time on weekends scrolling and more time reading a book, you can put your regular phone away and use a secondary phone for texting and calling, while keeping it clear of social media apps. Better yet, it’s okay for secondary phones to be kinda crappy. If it’s a terrible experience scrolling TikTok on your secondary phone, then you might be less tempted to do it.
+
+[![The Titan 2 Elite (left) and the Titan 2 (right) can be your sometimes phone.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DSC02911_processed.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DSC02911_processed.jpg?quality=90&strip=all&crop=0,0,100,100)
+
+_The Titan 2 Elite (left) and the Titan 2 (right) can be your sometimes phone._
+
+The Titan Elite 2 will probably remind QWERTY phone fans of the [Clicks Communicator](https://www.theverge.com/tech/851298/clicks-communicator-phone-blackberry-keyboard), which debuted earlier this year at CES. The concept is almost identical, though the two devices offer different typing experiences: The Unihertz keys are squared off and situated right next to each other, shoulder to shoulder, and the Clicks keys are separated and oval in shape. Clicks explicitly advertises the Communicator’s potential as a second device, one that’s better optimized for typing emails and messages rather than scrolling social media. Like the Elite 2, it’s a full-featured Android phone (complete with a headphone jack and microSD slot!), so it could be your daily driver.
+
+[The Light Phone III](https://www.theverge.com/reviews/637178/light-phone-iii-review-minimalist-smartphone) is a very different device from the Communicator and the Titan 2 Elite. Texting, calling, and a few connected functions like calendar and navigation are basically all it can do. At the show, I spoke to Light’s cofounder and CEO, Kaiwei Tang, who’s been focused on creating minimalist phones for the past decade. He says that 50 percent of Light’s customer base uses the phone as a primary device, while the other half treats it as a complement to their full-featured smartphone. Tang sees the demand growing, too. “The last 10 years we grew every year, even though we have zero marketing budget,” he says.
+
+Is the answer to “I want a break from my phone” really… another phone?
+
+But there’s a massive elephant in this room: Is the answer to “I want a break from my phone” really… another phone? Is there a day when that thing is a pair of glasses, or a smartwatch, or some earbuds you control with voice? Tang sees the appeal of a screen-free device, but doesn’t think it’s realistic in the short term. “I love voice UI,” he says. “I think that could be the future, but we’re just not there yet.” We still need discreet methods of input, he argues. A little screen you carry around seems to be the method we all landed on.
+
+Another approach is to make the minimalist phone part of your main phone. This has obvious drawbacks; if it’s a focus mode or an app, there’s almost certainly an easy way for you to turn it off quickly and slide back into social media-scrolling habits. Fairphone’s [latest device](https://www.theverge.com/phones/762755/fairphone-6-review-no-longer-compromise) has an interesting take on the idea: a physical switch on the side of the phone that triggers a customizable “moment,” with access only to the apps you’ve specified — and only certain people who can interrupt you. The physical slider adds just a little more friction than turning a focus mode on and off in quick settings.
+
+[![Fairphone 3 showing essential screen](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DSC02871_processed.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DSC02871_processed.jpg?quality=90&strip=all&crop=0,0,100,100)
+
+This growing interest in minimal phones comes at an unfortunate time, though. You’ll have heard about the RAM crisis, and just [how bad it is for phone makers](https://www.theverge.com/tech/888354/smartphone-manufacturer-ram-xiaomi-light-tcl). It’s all but inevitable that phone prices will rise, and when _one_ phone costs more, you’d probably think long and hard about buying two. The situation is no doubt making it harder on the smaller brands trying to break into the market with something new, and it doesn’t appear to be improving anytime soon.
+
+Still, folks at the companies I talked to this week didn’t seem deterred. For Tang, it’s his customers that keep him going. “I’m hopeful because my customers are mostly young,” he says. “My generation — we’re ruined,” he adds with a laugh. “The next generation, I feel like they have better sense managing, or making decisions that change what tools they use.” If he can muster up some optimism given the challenges facing his business, then I think it’s fair to keep hoping for more good things to come — whatever weird shape they might take.
+
+_Photography by Allison Johnson / The Verge_
+
+**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.
+
+-   Allison Johnson
