@@ -1,0 +1,33 @@
+---
+title: "At Fate's End is the best game at GDC 2026"
+source: "Giovanni Colantonio"
+url: "https://www.polygon.com/at-fates-end-preview-spiritfarer/"
+published: "2026-03-11T18:30:17.000Z"
+category: "gaming"
+summary: "At Fate's End, a Metroidvania from the Spiritfarer studio, is the best game we saw at GDC 2026. Read our preview for more."
+---
+Sometimes a game is so exceptional that it leaves you willing to play whatever the developers behind it make next. That’s how I felt in 2020 when I played [_Spiritfarer_](https://www.polygon.com/reviews/2020/8/18/21373518/spiritfarer-review-release-date-switch-pc-ps4-xbox-one-thunder-lotus/), an emotional indie created by Thunder Lotus Games. The story about ferrying spirits into the afterlife impacted me deeply enough that I decided to keep close tabs on the studio from then on. When its next game, the multiplayer-focused _33 Immortals_, wasn’t what I was expecting, I wondered if _Spiritfarer_ would just be a one-off kind of success. That thought only continued when I saw the trailer for its next game, _[At Fate’s End](https://www.polygon.com/gaming/604557/at-fates-end-new-game-spiritfarer-developers/)_. The 2D action game looked stylish enough, but at a glance, I just wasn’t convinced that it would be as distinct and memorable as _Spiritfarer_ was. Boy, was I wrong.
+
+Thunder Lotus finally lifted the lid on _At Fate’s End_ at this year’s [Game Developers Conference](https://www.polygon.com/gdc-2026-news-previews-interviews-demos/) with the game’s first playable demo — a 40-minute snippet that revealed the project is anything but a typical action game. It’s an emotionally resonant story about family baggage that gets surprisingly experimental with its approach to a familiar genre. _At Fate’s End_ was the definition of a showstealer at GDC, and that’s great news for those who have been waiting for a true match for _Spiritfarer_’s energy.
+
+On its surface, [_At Fate’s End_ looks like a pretty typical Metroidvania](https://www.polygon.com/gaming/615990/at-fates-end-preview-thunder-lotus-games-interview/). It’s a 2D action-adventure game with a lore-filled fantasy setting, tons of traversal abilities to unlock, and intense clashes against sword-swinging bosses. The easy comparisons to other games stop there.
+
+    ![Two swordfighters face off in a hallway in At Fate's End](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/ss_4eacbd3b3bbf96382bf639e3f38dc8ad4e6861ac-1920x1080.jpg?q=49&fit=crop&w=825&dpr=2)Image: Thunder Lotus
+
+The story centers around Shan, a member of the Hemlock family who returns to her hometown after her mother’s death. She’s on track to inherit the throne and become the Princess of Swords, but her brothers and sisters are not thrilled about that. Thus kicks off a succession drama about bitter siblings fighting over the throne, all while unpacking their own insecurities. It’s the same kind of human storytelling wrapped in fantasy that made _Spiritfarer_ so special.
+
+Very little of my demo was spent fighting enemies or poking around winding mazes in search of secrets. (Though I did a little bit of both.) Instead, I mostly spent my time in a castle trying to figure out what the hell was wrong with Shan’s sister, Camilla. She was tasked with taking care of their home, but she let it fall into disarray while Shan was away. That flows through _At Fate’s End_’s unique investigation system. To progress the story, Shan needs to solve mysteries by interacting with points of interest in the world. Those grant her clues, placed into my inventory as cards. Solving a mystery is a matter of finding all the right clues and placing them into a chart correctly, thus unlocking the next story beat. It’s an unexpected deduction element that puts a focus on environmental storytelling over action.
+
+There is still traditional combat, as I learned when I finally figured out what was bugging Camilla and was forced to fight her. We began sparring as expected, with Shan carefully dodging telegraphed slashes and lightning strikes, but something changed after the first damage phase. The duel halted as we both began arguing mid-fight in a dialogue sequence. For a moment, we argued over Camilla’s feeling of insecurity. The dialogue choices I made didn’t just advance the conversation; they could deal damage to either Camilla or I. I was still very much in the heat of battle, but in a mental war instead of a physical one. The fight bounced back and forth between those two states for a few phases until I defeated Camilla — not through murder, but reconciliation.
+
+    ![The main At Fate's End character fights a bunch of electric bees](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/ss_3f9e7bccb0817dca70e62049039f183f3f5c13f4-1920x1080.jpg?q=49&fit=crop&w=825&dpr=2)Image: Thunder Lotus
+
+That’s where _At Fate’s End_ really left its mark on me. Thunder Lotus is deconstructing the concept of a video game boss fight, turning it into a more theatrical act built around big emotions. That completely changes the feel of what could otherwise land as a fairly standard fantasy adventure game. I’m not looking forward to playing more for the easy rush of beating a hard boss; I’m eager to broker peace between Shan and her siblings instead. That’s the kind of dynamic that helped me fall in love with _Spiritfarer_, which so cleverly used life sim systems to fuel a story about passing on to the other side.
+
+The traditional Metroidvania elements are still there. Shan still gets traversal abilities, like double jumps, in the form of tarot cards that have a different, equippable maneuver on either side. There’s also a skill tree to provide some consistent progression, though it’s cleverly structured as a “family tree” where you inherit new perks from your ancestors. And I found some moments where I could interact with well-hidden symbols in the environment to find currency caches. The typical action-adventure hooks are there for those who want them, but nothing feels obligatory. Each feature seems to be acting in service of the story Thunder Lotus wants to tell.
+
+Just about everyone I talked to at GDC who tried the demo said it was their “game of the show” so far, and I’m inclined to agree. Thunder Lotus seems to have something special on its hands that captures the elements that made Spiritfarer so unique and bottles them into a very different kind of game. If it can pull that together in the final game, I imagine I won’t doubt Thunder Lotus so easily again.
+
+* * *
+
+_At Fate's End_ will be released in 2026 for PlayStation 5, Windows PC, Xbox One, and Xbox Series X.
