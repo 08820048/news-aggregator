@@ -1,0 +1,15 @@
+---
+title: "US intervention in oil futures would be ‘biblical disaster’, CME warns"
+source: "Unknown"
+url: "https://www.ft.com/content/823657f2-4f8b-4325-88db-fbbdba6c9e17"
+published: "2026-03-12T19:54:14.000Z"
+category: "finance"
+summary: "Terry Duffy says any attempt by the government to lower prices using derivatives market would erode confidence"
+---
+## Why have I been blocked?
+
+This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+
+## What can I do to resolve this?
+
+You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
