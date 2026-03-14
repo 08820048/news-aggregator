@@ -1,0 +1,145 @@
+---
+title: "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others"
+source: "Lauren Forristal"
+url: "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/"
+published: "2026-03-14T13:00:00.000Z"
+category: "tech"
+summary: "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT."
+---
+OpenAI [offers](https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/) app integrations in ChatGPT to allow you to connect your accounts directly to ChatGPT and ask the assistant to do things for you. For instance, with a [Spotify integration](https://techcrunch.com/2025/10/10/you-can-now-connect-your-spotify-account-to-chatgpt-heres-how-to-do-it/), you can tell it to create personalized playlists that will show up right in your Spotify app.
+
+To get started, make sure you’re logged into ChatGPT. Then type the name of the app you want to use at the start of your prompt, and ChatGPT will guide you through signing in and connecting your account.
+
+If you want to set everything up at once, head over to the Settings menu, then click on Apps and Connectors. You can browse through the available apps, pick the ones you like, and it’ll take you to the sign-in page for each one. 
+
+However, it’s important to note that connecting your account means you’re sharing your app data with ChatGPT. Make sure to review the permissions you’re giving when you’re linking your accounts. For example, if you connect your Spotify account, ChatGPT can see your playlists, listening history, and other personal information. (Sharing this info helps personalize the experience, but if you have privacy concerns, consider whether you’re comfortable with this level of access before connecting.)
+
+You can also disconnect any app whenever you want, right from the Settings menu.
+
+## Available apps
+
+![](https://techcrunch.com/wp-content/uploads/2025/12/Apps-in-chatgpt.jpeg?w=680)
+
+**Image Credits:**OpenAI
+
+## Angi
+
+[Angi](https://ir.angi.com/news-releases/news-release-details/angi-launches-angi-app-chatgpt) is one of the most recent companies to launch an in-app experience within ChatGPT. The online home service marketplace gives users a way to ask home improvement questions directly in the AI chatbot and request to be matched with an Angi professional in one place. Users can ask about house projects and repair guidance, then request a quote and be directed to Angi, where they can continue the experience with its own AI assistant.  
+
+## Booking.com  
+
+![](https://techcrunch.com/wp-content/uploads/2025/10/Booking_OpenAI.png.jpeg?w=680)
+
+**Image Credits:**OpenAI
+
+This integration with the online travel giant is designed to help travelers, especially first-time visitors in need of suggestions for where to stay.
+
+Techcrunch event
+
+San Francisco, CA | October 13-15, 2026
+
+Once you link your Booking.com account, you can ask ChatGPT to find hotels in your preferred city based on your dates and budget. You can also specify how many people are coming and whether you want the hotel near public transport. ChatGPT aims to make this process more intuitive than searching directly on the Booking.com site. Plus, you can be more specific, like searching for options “with breakfast included.” 
+
+When you find a hotel you like, just open the Booking.com listing to complete your reservation.
+
+## Canva
+
+![](https://techcrunch.com/wp-content/uploads/2025/10/Canva-ChatGPT.jpeg?w=680)
+
+**Image Credits:**Canva
+
+[Canva in ChatGPT](https://www.canva.com/newsroom/news/deep-research-integration-mcp-server/) is a helpful tool for graphic designers and anyone else who needs to generate visual content quickly. Whether it’s for a social media post, a poster, or a slide deck for a presentation, this may be a good way to help kickstart your project and brainstorm ideas. 
+
+Once you connect your Canva account, you can ask ChatGPT to design something like “a 16:9 slide deck about our Q4 roadmap” or “a fun poster for a dog-walking business.” You can include specifics such as the fonts you prefer, color schemes, formats (like Instagram posts or stories), and exact dimensions. 
+
+AI-generated designs are seldom perfect, with occasional distorted images or spelling mistakes. However, some users may find this better than starting from scratch, and they can jump into Canva at any time to tweak their design and make it look just how they want.
+
+## Coursera
+
+![](https://techcrunch.com/wp-content/uploads/2025/10/Demo_Desktop_Oct6_V4-1.gif?w=680)
+
+**Image Credits:**Coursera
+
+[Coursera’s integration](https://blog.coursera.org/making-coursera-learning-more-accessible-worldwide-through-an-app-in-chatgpt/) is designed to help you quickly discover the best online courses for your skill level. For instance, you can then tell ChatGPT to find an “intermediate-level course on Python.” You can then tell the chatbot to compare course options by rating, duration, and cost before enrolling. ChatGPT can also provide a quick rundown of what exactly each course covers.
+
+## DoorDash
+
+![](https://techcrunch.com/wp-content/uploads/2025/10/DoorDashChatGPT.jpeg?w=680)
+
+**Image Credits:**DoorDash
+
+DoorDash [introduced](https://about.doordash.com/en-us/news/openai) its ChatGPT integration in December 2025, which aims to save time on meal planning and grocery shopping. Users can ask the chatbot for a meal plan and instantly add all ingredients to their DoorDash cart, then review and check out.
+
+​Currently, this feature is available only to users in the U.S., with participating grocery retailers, including Kroger, Safeway, Fairway Market, Wegmans, and more.
+
+## Expedia
+
+![](https://techcrunch.com/wp-content/uploads/2025/10/ExpediaChatgpt.png?w=615)
+
+**Image Credits:**Expedia
+
+ChatGPT can display hotel options and flights via [Expedia](https://www.expedia.com/product/expedia-in-chatgpt/) without leaving chat. Whether you’re looking for a quick escape or a longer trip, it can find flights that fit your travel dates, budget, and number of travelers. You can narrow things down by saying stuff like “Only show 4-star hotels.” Once you see something you like, go to Expedia to finalize everything and book your trip.
+
+## Figma
+
+![](https://techcrunch.com/wp-content/uploads/2025/10/FigmaChatgpt.jpeg?w=680)
+
+**Image Credits:**Figma
+
+To use [Figma in ChatGPT](https://www.figma.com/blog/turn-your-chatgpt-brainstorms-into-figjam-diagrams/), you can ask it to generate diagrams, flow charts, and more. This is helpful for turning your ideas and brainstorming sessions into something more tangible. It may also be useful for visualizing complex concepts or workflows.
+
+You can also upload files and ask the chatbot to generate a product roadmap for your team. This roadmap can include milestones, deliverables, and deadlines, helping your team stay organized and focused on their goals.
+
+## Quizlet
+
+Quizlet recently [launched](https://www.prnewswire.com/news-releases/quizlet-launches-as-native-app-in-chatgpt-to-transform-ai-powered-learning-302710329.html?tc=eml_cleartime) a native app within ChatGPT, allowing students to convert AI conversations, notes, or documents into study materials and flashcard sets. Plus, users can now enter an active practicing mode in ChatGPT, where they can access Quizlet’s library of millions of study sets.
+
+## Spotify
+
+![](https://techcrunch.com/wp-content/uploads/2025/10/spotify-integration.jpg?w=680)
+
+**Image Credits:**Spotify
+
+One of the most helpful aspects of using Spotify in ChatGPT is the ability to quickly create playlists and listen to new recommended songs tailored to your specific tastes. You can ask it to create a playlist based on your current mood, or just a playlist that only includes tracks by your favorite band. 
+
+It can also suggest new artists, playlists, audiobooks, and podcast episodes. Additionally, ChatGPT can perform actions on your behalf, including adding and removing items from your Spotify library. 
+
+## Target
+
+![](https://techcrunch.com/wp-content/uploads/2025/10/target-chatgpt-openai-experience.png?w=680)
+
+**Image Credits:**Target
+
+Retail giant Target strategically launched a beta version of its [ChatGPT integration](https://corporate.target.com/news-features/article/2025/11/target-chatgpt) before Black Friday. This feature allows shoppers to ask the chatbot for gift suggestions and quickly create a shopping basket with multiple items without leaving ChatGPT. For example, users can request ideas for a movie night, and the chatbot will provide a curated selection of available Target items. Shoppers can add these items to their cart and make a purchase using their Target account. They can then choose from same-day “Drive Up,” in-store pickup, or standard shipping.
+
+## Uber
+
+If you’re planning a trip, the Uber integration makes it easy to find ride options, which is especially useful if you’re in a new country. You can set up your trip in the ChatGPT app, then complete the ride request and payment in the Uber app.
+
+Currently, it’s only available in the U.S., and it doesn’t let you book rides in advance; only on-demand rides are available. You can choose from options like UberX, UberXL, Comfort, and Black.
+
+There’s also an Uber Eats integration for U.S. users, so you can check out local restaurants and menu items within ChatGPT, then finish paying in the Uber Eats app.
+
+## Wix
+
+![](https://techcrunch.com/wp-content/uploads/2025/12/Wix-ChatGPT.jpeg?w=680)
+
+**Image Credits:**Wix
+
+In March 2026, website builder [Wix](https://www.wix.com/press-room/home/post/wix-launches-app-in-chatgpt-expanding-website-creation-to-one-of-the-world-s-leading-conversational) launched its integration, allowing users to prompt ChatGPT to create a functional website with just a text or voice prompt. Users can describe the capabilities they want the website to have, how it should look, and other desired features. Additionally, existing Wix users can manage their business within ChatGPT, which can handle scheduling, payments, SEO, accessibility, performance, security, and more.
+
+## Zillow
+
+![](https://techcrunch.com/wp-content/uploads/2025/10/01__The_Zillow_App_in_Chatgpt.jpg?w=680)
+
+**Image Credits:**Zillow
+
+If you’re looking for a new home, [Zillow in ChatGPT](https://www.zillowgroup.com/news/zillow-becomes-first-real-estate-app-in-chatgpt/) could make the search experience more straightforward. Using a simple text prompt, you can find homes that meet your criteria and apply filters to narrow the results. Whether you’re looking for a specific price range, number of bedrooms, or particular neighborhoods, you can specify these details in your prompt, making the search process much more efficient and tailored to your needs. 
+
+## What’s next?
+
+Alongside the announcement that OpenAI would bring apps into ChatGPT, the company also said it plans to welcome additional partners soon, including OpenTable, [PayPal](https://techcrunch.com/2025/10/28/paypal-partners-with-openai-to-let-users-pay-for-their-shopping-within-chatgpt/), and [Walmart](https://techcrunch.com/2025/10/14/youll-soon-be-able-to-shop-walmart-from-chatgpt/). These will launch in 2026. 
+
+The rollout of ChatGPT’s app integrations is currently limited to the U.S. and Canada. Users in Europe and the U.K. are excluded for now.
+
+_This story has been updated to include newly launched integrations._
