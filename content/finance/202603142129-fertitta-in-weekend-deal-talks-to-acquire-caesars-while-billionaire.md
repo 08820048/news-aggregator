@@ -1,0 +1,67 @@
+---
+title: "Fertitta in weekend deal talks to acquire Caesars, while billionaire Carl Icahn waits in the wings"
+source: "Unknown"
+url: "https://www.cnbc.com/2026/03/14/fertitta-caesars-talks-casino-acquisition.html"
+published: "2026-03-14T21:29:38.000Z"
+category: "finance"
+summary: "The deal, if it gets done, would not be finalized until early April and is not expected to close until 2027."
+---
+Caesars Palace Las Vegas Hotel and Casino located along the Las Vegas Strip in Las Vegas, Nevada
+
+Robert Alexander | Getty Images
+
+Tilman Fertitta's Fertitta Entertainment is actively negotiating a deal to acquire [Caesars Entertainment](https://www.cnbc.com/quotes/CZR/), according to sources close to the situation.
+
+The deal terms currently stand at $32 per share, with an equity value of $6.5 billion and an enterprise value of $31.5 billion, given Caesars' substantial debt, the sources said.
+
+The deal, if it gets done, would not be finalized until early April and is not expected to close until 2027. The talks are taking place within a 45-day exclusive window, according to the sources.
+
+The talks are happening this weekend at Fertitta's headquarters, the Post Oak Hotel in Houston.
+
+To satisfy ethics requirements in becoming the U.S. Ambassador to Italy in 2025, Fertitta stepped down as CEO of the company that includes Landry's, the Houston Rockets, and the Golden Nugget casino in Las Vegas.
+
+"As a matter of policy, we do not comment on market rumors or speculation," Caesars said in a statement. Fertitta did not respond to CNBC's request for comment.
+
+On Wednesday, [The Wall Street Journal reported](https://www.wsj.com/business/deals/tilman-fertitta-in-talks-to-buy-caesars-for-7-billion-after-topping-bid-from-icahn-119907e0) billionaire [Carl Icahn](https://www.cnbc.com/carl-icahn/) made a bid of $33 per share and was topped by Fertitta's bid of $34 per share.
+
+Sources on both sides of the negotiations told CNBC they suspect Icahn is trying to drive up the deal price to increase the value of his own stake in Caesars. According to FactSet, Icahn owns 1.2% of outstanding shares, although one source said his overall holdings in Caesars total some 18 million shares, including derivatives.
+
+Representatives for Icahn declined to comment.
+
+Carl Icahn speaking at Delivering Alpha in New York on Sept. 13, 2016.
+
+David A. Grogan | CNBC
+
+Sources familiar with the situation say Icahn truly wants to buy Caesars and first made a friendly bid in January, offering $28.50 per share and assuring current management would remain in place. Icahn's current offer stands at $33 per share, subject to due diligence, should Fertitta walk away, sources said.
+
+Icahn is interested in joining forces with a large digital gaming company, potentially combining Caesars digital gambling business with theirs, sources also told CNBC.
+
+Fertitta subsequently came in with a counteroffer for Caesars and secured a window of exclusivity for negotiations, effectively declining Icahn's offers.
+
+Icahn had increased his position in Caesars in 2024, sending the casino shares surging 11% on May 31, 2024, to close at $36. He has also placed two directors on the company's board**.**
+
+Caesars shares have been under pressure since October 2021, when they hit a post-pandemic high of $119 following El Dorado's July 2020 acquisition of Caesars for roughly $18 billion.
+
+"The math is just too good to ignore," says a source close to the situation, citing the suppressed share price and a casino business that has about $1 billion in free cash flow annually and does $4 billion in EBITDA.
+
+While talks continue this weekend, there are no signs that a deal is imminent and any agreement would be sure to face regulatory and shareholder scrutiny. Investors have looked skeptically at the company's digital business, which includes sports betting and online casino games, that is now profitable for Caesars.
+
+The sudden success of prediction platforms like Kalshi, Polymarket, [Robinhood](https://www.cnbc.com/quotes/HOOD/), Crypto.com and others is also largely viewed as a competitive threat to sportsbooks.
+
+Though Caesars CEO Tom Reeg has previously expressed a willingness to consider spinning off the digital business, he has recently said that it's less appealing, given the valuations of competing sportsbooks.
+
+FanDuel parent [Flutter](https://www.cnbc.com/quotes/FLUT/) has seen its shares plummet by more than 60% over the past six months. [DraftKings](https://www.cnbc.com/quotes/DKNG/) shares are down over 40%.
+
+There are also questions about how regulators would factor in Tilman Fertitta's individual holdings in other gambling companies.
+
+He is the largest shareholder in [Wynn Resorts](https://www.cnbc.com/quotes/WYNN/), with more than 12% of outstanding shares, according to FactSet. SEC filings since the beginning of 2026 show Fertitta has listed more than 4 million call options on his shares.
+
+Following his sale of Golden Nugget Online Gaming to DraftKings, he also became a significant shareholder in the sports betting company.
+
+[VICI,](https://www.cnbc.com/quotes/VICI/) a gaming REIT born out of Caesars' bankruptcy in 2017, is the owner of Caesars Palace and Harrah's on the Las Vegas Strip, along with about 20 other regional properties. VICI will have the opportunity to review the purchase, but, contrary to published reports, it doesn't have a vote in who acquires Caesars.
+
+VICI was involved in financing El Dorado's acquisition of Caesars.
+
+VICI CEO Ed Pitoniak told CNBC, "We have a productive and collaborative history of working with our partners to improve their business."
+
+_Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment._
