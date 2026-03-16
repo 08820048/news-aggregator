@@ -1,0 +1,25 @@
+---
+title: "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM"
+source: "Emma Roth"
+url: "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk"
+published: "2026-03-16T21:44:11.000Z"
+category: "tech"
+summary: "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post. The proposed class action lawsuit, filed on Monday, accuses Musk and other xAI leaders of knowing that Grok would produce AI-generated child sexual abuse material (CSAM) when launching its \"spicy mode\" last year. The plaintiffs include two minors and an adult who was underage when the events in the lawsuit took place. One of the victims, identified as \"Jane Doe 1,\" alleges that last December, she learned that explicit, AI-generated images of … Read the full story at The Verge."
+---
+Three Tennessee teens are suing Elon Musk’s xAI over claims that the company’s Grok AI chatbot generated sexualized images and videos of themselves as minors, [as reported earlier by _The Washington Post_](https://www.washingtonpost.com/technology/2026/03/16/teens-sue-musk-xai-grok/). The [proposed class action lawsuit](https://www.documentcloud.org/documents/27881588-xai-grok-sexual-exploitation-lawsuit/), filed on Monday, accuses Musk and other xAI leaders of knowing that Grok would produce AI-generated child sexual abuse material (CSAM) when [launching its “spicy mode” last year](https://www.theverge.com/news/718795/xai-grok-imagine-video-generator-spicy-mode).
+
+The plaintiffs include two minors and an adult who was underage when the events in the lawsuit took place. One of the victims, identified as “Jane Doe 1,” alleges that last December, she learned that explicit, AI-generated images of herself and at least 18 other minors were available on Discord. “At least five of these files, one video and four images, depicted her actual face and body in settings with which she was familiar, but morphed into sexually explicit poses,” the lawsuit claims.
+
+The perpetrator, who has since been arrested, allegedly used Jane Doe 1’s AI-generated CSAM “as a bartering tool in Telegram group chats with hundreds of other users, trading her CSAM files for sexually explicit content of other minors.” The lawsuit claims the perpetrator generated the explicit images of Jane Doe 1 and the two other victims using Grok. It also alleges that xAI “failed to test the safety of the features it developed” and that Grok is “defective in design.”
+
+Musk and xAI became the subject of intense scrutiny after [Grok flooded X with explicit](https://www.theverge.com/report/718975/xai-grok-imagine-taylor-swifty-deepfake-nudes) images of [adults and minors](https://www.theverge.com/ai-artificial-intelligence/855832/grok-undressing-children-csam-law-x-elon-musk). The incident sparked [a nationwide call for the Federal Trade Commission to investigate](https://www.theverge.com/x-ai/759554/consumer-safety-groups-are-demanding-an-ftc-investigation-into-groks-spicy-mode-elon-musk-grok-imagine-xai) Grok, a probe [from the European Union](https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation), and a warning from [UK Prime Minister Keir Starmer](https://www.theverge.com/news/859107/uk-prime-minister-x-ai-grok-deepfakes). The Senate also passed a bill in January that would [allow victims of nonconsensual deepfakes](https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok) to sue the people who created the image, while the Take It Down Act, which President Donald Trump signed into law in 2025, [will criminalize the distribution of nonconsensual, AI-generated deepfakes](https://www.theverge.com/news/661230/trump-signs-take-it-down-act-ai-deepfakes) when it goes into effect in May.
+
+Though X has [tried making it harder for users](https://www.theverge.com/news/862372/x-grok-ai-policy-update-deepfake-bikini-poses) to edit images with Grok, _The Verge_ has found that it’s still possible to [manipulate images uploaded to the platform](https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle). X has maintained that “anyone using or prompting Grok to make illegal content will suffer the same consequences as if they upload illegal content.” X didn’t immediately respond to _The Verge_’s request for comment.
+
+“These are children whose school photographs and family pictures were turned into child sexual abuse material by a billion-dollar company’s AI tool and then traded among predators,” One of the victims’ lawyers, Annika K. Martin of Lieff Cabraser, said in a statement. “We intend to hold xAI accountable for every child they harmed in this way.”
+
+The lawsuit seeks damages for victims impacted by Grok’s “illegal images.” It also asks the court to prevent xAI from generating and spreading alleged AI-generated CSAM.
+
+**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.
+
+-   Emma Roth
