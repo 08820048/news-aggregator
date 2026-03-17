@@ -1,0 +1,39 @@
+---
+title: "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect"
+source: "Rebecca Szkutak"
+url: "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/"
+published: "2026-03-16T17:51:46.000Z"
+category: "tech"
+summary: "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI."
+---
+![NVIDIA CEO Jensen Huang](https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761844.jpg?w=1024)
+
+**Image Credits:**Justin Sullivan / Getty Images
+
+10:51 AM PDT · March 16, 2026
+
+Nvidia kicks off its annual GTC developer conference in San Jose, California, on Monday with CEO Jensen Huang’s keynote scheduled for 11 a.m. PT / 2 p.m. ET.
+
+GTC — which stands for GPU Technology Conference — is Nvidia’s flagship annual event, running from March 16 to March 19. The chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang’s keynote will focus on Nvidia’s role in the future of computing and AI. You can watch the two-hour address in person at the [SAP Center](https://www.nvidia.com/gtc/travel-and-venue/?regcode=pa-srch-goog-225-ret-rsa-en-us-3-l1&ncid=pa-srch-goog-225-ret-rsa-en-us-3-l1) or [livestream the talk](https://www.nvidia.com/gtc/session-catalog/sessions/gtc26-s81595/) on the event’s website. The [YouTube livestream](https://www.youtube.com/watch?v=jw_o0xr8MWU) is embedded below.
+
+The broader four-day event is focused on what’s coming next for AI across industries, including healthcare, robotics, and autonomous vehicles.
+
+On the software side, it’s rumored that Nvidia will release an open source platform for enterprise AI agents, dubbed [NemoClaw](https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/), as originally reported by Wired. The platform would give businesses a structured way to build and deploy AI agents (software that can carry out multistep tasks autonomously) and would position Nvidia to mirror [similar offerings](https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/) from companies like OpenAI.
+
+On the hardware side, the company is also rumored to be releasing a [new chip designed to accelerate the AI inference process](https://www.wsj.com/tech/ai/nvidia-plans-new-chip-to-speed-ai-processing-shake-up-computing-market-51c9b86e?gaa_at=eafs&gaa_n=AWEtsqcYJ47ghXmn21P9noggkzc7Lf9AGD5LY5lN1pA88UCHNLRr9gEyM4IYabSt388%3D&gaa_ts=69b3482a&gaa_sig=SIlkPPI88HK4x7DoSyZupX3-Ud_eQRPLoIgCotU-tIPuilZGsU9nu8NpSEEdhp26iFhiZdim-Kjd1rQZ2uiM2A%3D%3D) — the process by which an AI model applies what it has learned to generate responses or make decisions, as distinct from the initial training process, which requires far more computing power. Faster, cheaper inference is widely seen as one of the last bottlenecks to scaling AI applications broadly. The chip would represent Nvidia’s latest bid to dominate not just the training market, where it already commands an estimated 80% share, but the inference market as well, where competition from custom chips built by Google, Amazon, and others is fast intensifying.
+
+There will also be a range of partnership announcements and demonstrations showcasing Nvidia’s AI capabilities across industries.
+
+Kevin Cook, a senior equity strategist at Zacks Investment Research, told TechCrunch that attendees should also expect to learn what the company plans to do with its relationship with Groq, the inference company Nvidia reportedly paid $20 billion late last year [to license its technology](https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/). There’s a lot of curiosity around this tie-up, given that Jonathan Ross, Groq’s founder; Sunny Madra, Groq’s president; and other members of the Groq team agreed to join Nvidia to help advance and scale that licensed tech.
+
+Techcrunch event
+
+San Francisco, CA | October 13-15, 2026
+
+Topics
+
+Becca is a senior writer at TechCrunch that covers venture capital trends and startups. She previously covered the same beat for Forbes and the Venture Capital Journal.
+
+You can contact or verify outreach from Becca by emailing [rebecca.szkutak@techcrunch.com](mailto:rebecca.szkutak@techcrunch.com).
+
+[View Bio](https://techcrunch.com/author/rebecca-szkutak/)
