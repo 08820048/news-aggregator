@@ -1,0 +1,57 @@
+---
+title: "David Sacks’ big Iran warning gets big time ignored"
+source: "Tina Nguyen"
+url: "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket"
+published: "2026-03-18T18:44:21.000Z"
+category: "tech"
+summary: "Sec. Scott Bessent, President Donald Trump, and David Sacks during The White House Digital Assets Summit in Washington, DC, on Friday, March 7, 2025. | Chris Kleponis/CNP/Bloomberg via Getty Images Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just because it would be really, really cool if you do that. We can apparently see how many non-subscribers have opened this email, and why should Palantir get all the \"spying on people\" fun? Do you have cool events to highlight, tips to toss over, and secrets to spill? Send everything to tina.nguyen+tips@theverge.com. Or, if you're truly tech-pilled … Read the full story at The Verge."
+---
+_Hello and welcome to_ Regulator_, a newsletter for_ Verge _subscribers about the politics of technology and the technology of politics — now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you’re not a_ Verge _subscriber yet, you should sign up_ [_right here_](https://www.theverge.com/subscribe])_, and not just because it would be really, really cool if you do that. We can apparently see how many non-subscribers have opened this email, and why should Palantir get all the “spying on people” fun?_
+
+_Do you have cool events to highlight, tips to toss over, and secrets to spill? Send everything to_ [**_tina.nguyen+tips@theverge.com_**](mailto:tina.nguyen+tips@theverge.com)**_._** _Or, if you’re truly tech-pilled, send me a message on LinkedIn._
+
+Surprisingly, artificial intelligence does not take the highest political priority during a war — much less an ill-conceived war with Iran that’s paralyzed the energy markets, destabilized America’s relationships with the Middle East and Europe, and alienated members of President **Donald Trump’s** diehard MAGA coalition. (Just yesterday, **Joe Kent**, election denier and onetime Trump-endorsed congressional candidate, [announced that he was stepping down](https://www.instagram.com/p/DV_Pv6Zgow7/) as the director of the National Counterterrorism Center in protest of the Iran war.) But the effect it’ll have on the tech and AI industry — and industry in general — is so dire that **David Sacks**, billionaire and the AI and crypto czar shaping the Trump administration’s tech policies, did something politically risky: He publicly suggested that Donald Trump find some way to get out of the Iran war.
+
+[Last Friday on his podcast _All In_](https://youtu.be/HiVej9_fvl8?si=QrnJLtkju70jg8A1), Sacks and his crew laid out several alarmingly realistic scenarios based on recent developments: Iran indicated it was willing to attack oil and gas depots in neighboring countries, destroy desalination plants crucial for supplying water to over 100 million people (which Sacks described as a “humanitarian crisis” that would render the Middle East uninhabitable), and bombard Israel until it either relented or decided to use a nuclear weapon. The Democrats would probably win the midterms. But also, and arguably worse, World War III was possible. “This would be a really good time to take stock of where we are and try, I think, to seek an off-ramp,” he told his co-hosts. “And look, if escalation doesn’t lead anywhere good, then you have to think about, well, how do you de-escalate? And de-escalation, I think, involves reaching some sort of ceasefire agreement or some sort of negotiated settlement with Iran.”
+
+Whatever advice Sacks may have tried to offer has fallen on deaf ears. On top of the US military’s continued assault on Iranian oil infrastructure, over the past few days, Trump said he was open to [putting US troops on the ground in Iran](https://www.nytimes.com/2026/03/17/us/politics/trump-nato-iran-strait-of-hormuz.html), said that NATO countries hesitant to support him [were making a “foolish” decision](https://www.reuters.com/world/middle-east/nato-countries-dont-want-get-involved-iran-operation-trump-says-2026-03-17/), and just because, added that [he was thinking of invading Cuba next](https://www.nytimes.com/2026/03/16/world/americas/trump-cuba-president-diaz-canel.html). Trump also told reporters this week that Sacks had not spoken to him about the war, either. Whether that’s true or not, Trump often defaults to this explanation when trying to diminish a critic. And the sources I speak to around the White House — especially the ones familiar with Trump’s MO — are pessimistic that Sacks will have any shot at getting the president to listen to him.
+
+## Regulator
+
+A weekly newsletter unpacking the collision of Big Tech and the White House.
+
+Email (required)
+
+A David Sacks hater may note that the billionaire has hit the boundaries of his perceived influence on Trump. At the same time, every single one of Trump’s former allies — especially the ones who don’t work for him — have hit that limit, too. The MAGA anti-war isolationists have been completely betrayed. The titans of industry who care about the markets are at the mercy of Trump’s whims. Heck, Trump has turned around and embraced the _neoconservatives_ who used to despise him, but are now the only people on the right clamoring for regime change in Iran. (If you want to get a sense of how his administration underlings are enabling Trump, [I was literally at the Pentagon last week](https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth) for a vibe check.)
+
+Out of the Trump oligarch classes, the technologists may suffer the longest term effects. Unlike the MAGA base, who’d supported Trump for intangible ideological reasons, Big Tech’s got a deeply financial incentive to stay allied with the president. So much of their current advantages rely on their direct relationships and ability to assuage his ego, which has certainly paid dividends for them over the past year: antitrust investigations dropped, trade loopholes opened, executive orders signed, and so on. (What do you think [the ballroom donations were for](https://www.opensecrets.org/news/2026/01/trump-ballroom-donors-poised-to-benefit-from-ai-plan-they-helped-shape/)?) And it’s possible that they believed that the Iran situation would be similar to Venezuela, wherein they’d reap the benefits of seizing Iran’s oil supply, and decided not to intervene.
+
+But there’s a critical characteristic they overlooked, one that dates back to Trump’s relationship with Roy Cohn in the ’70s: Trump does not like to be humiliated by his foes, and Trump is always inclined to strike back twice as hard in order to crush their spirits, with little care for consequences or long-term damage. It mostly manifests via legal challenges and lawsuits in America, but has occasionally gone in a violent direction (see: January 6th and the ICE protests in Minnesota). In this case, he is trying to one-up a violent religious theocracy, [which declared a military _jihad_ against the United States](https://www.telegraph.co.uk/world-news/2026/03/01/iran-declares-jihad-anti-us-riots-spread-middle-east/) in the wake of Khamenei’s death, and also possesses missiles. The rich nerds who make the beep-boops have _very_ little chance of changing Trump’s mind — especially so long as there’s [a political contingent on the right egging him on](https://newrepublic.com/article/207533/lindsey-graham-iran-war-neocons) — and even if Sacks believed he was talking to a friendly audience in an online safe space, there’s no guarantee that Trump will be happy that he voiced dissent at _all_.
+
+## **Oh, right, crypto is still happening, too.**
+
+Unfortunately, I couldn’t catch a lot of the Blockchain Conference this year (see: Iran) but it seems like some major developments came out of it, [including the CFTC and the SEC dropping a major guidance](https://bitcoinmagazine.com/news/sec-cftc-most-crypto-not-securities) that most digital assets are not securities, clarifying the way that certain cryptocurrency is regulated and whose rules apply. But though it’s the most comprehensive document released around this crucial issue, they also warned that it _still_ needs Congress to pass laws that would make those changes permanent, [and the CFTC is pretty busy as is](https://www.theverge.com/business/896517/kalshi-cftc-insider-trading-polymarket). In other words: _The Clarity Act still needs to be passed, guys._ And that seems to be going great. Right?
+
+## DC’s hottest bar is…
+
+.. another blockchain-based bar! This time, Polymarket announced the surprise opening of The Situation Room, “the world’s first bar dedicated to monitoring the situation.” According to renderings posted on X, the bar, described as a “sports bar just for situation monitoring,” will have everything one needs to monitor the situation: live feeds on X, sports games, and Bloomberg terminals. (Polymarket did not immediately comment on where said bar would be located.)
+
+[![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-18-at-1.46.26%E2%80%AFPM-1.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-18-at-1.46.26%E2%80%AFPM-1.png?quality=90&strip=all&crop=0,0,100,100)
+
+screenshot via @polymarket/X.
+
+## And now, Recess.
+
+I’ve been doing some spring cleaning at home and recently found a quart-sized Ziploc bag that’s got a handful of spare change that I’ve been meaning to drop off at a Coinstar for over a year. But I’m lazy, and if there’s anything I’ve learned from TMZ, it’s that paying money for stories works (sometimes). So I will give this bag of loose change to anyone who can send authentic, verified, non-AI generated footage of [this reported fight](https://pagesix.com/2026/03/17/society/jeremy-o-harris-drunkenly-called-openais-sam-altman-a-nazi-at-the-vanity-fair-oscar-party/) between **Sam Altman** and playwright **Jeremy O. Harris** at the exclusive, off-the-record _Vanity Fair_ Oscar Party, allegedly over OpenAI’s contract with the Pentagon. (I presume the audience of _Regulator_ is composed of Hollywood A-listers.)
+
+And, no, I’m not going to send you the cash equivalent of the bag’s value. The condition for the payout is that you have to take this bag off of my hands, including all of the Costa Rican currency. AND I’m keeping all the quarters. And in the extraordinarily unlikely event that someone follows through on this offer, I have to get permission from Nilay Patel to break the ethics policy this one time, because this is technically a quid pro quo, albeit an extremely awful quid pro quo for whomever sends it.
+
+[![This bag of untold riches (sans quarters) could be yours!](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/bag-of-loose-change.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/bag-of-loose-change.jpg?quality=90&strip=all&crop=0,0,100,100)
+
+This bag of untold riches (sans quarters) could be yours!
+
+See you next week.
+
+**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.
+
+-   Tina Nguyen
