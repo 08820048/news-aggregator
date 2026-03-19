@@ -1,0 +1,25 @@
+---
+title: "Amazon doesn’t want the blame for the Post Office going under"
+source: "Emma Roth"
+url: "https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out"
+published: "2026-03-18T20:55:40.000Z"
+category: "tech"
+summary: "Amazon is going on the defensive after a report from The Wall Street Journal revealed that the ecommerce giant plans to slash shipments with the United States Postal Service, which said this week that it's running out of money. In a lengthy statement published on Wednesday, Amazon says it didn't want to reduce shipments with the USPS, and that negotiations only stalled after the USPS \"abruptly walked away\" from negotiations for a new contract. As reported by the WSJ, Amazon plans to cut packages sent through the USPS by at least two-thirds by this fall, around the same time its contract with the independent federal agency is set to expire. … Read the full story at The Verge."
+---
+Amazon is going on the defensive after a [report from _The Wall Street Journal_](https://www.wsj.com/business/retail/amazon-usps-package-volume-change-93d0f6db?gaa_at=eafs&gaa_n=AWEtsqfav63c1UvOu7NgIu4jlbbrpERP6Yfqt8lSqghCaSheA_TgSA7Zg9jc_3VZggI%3D&gaa_ts=69baf1e6&gaa_sig=H0TjU3F5mjcYjo3Wb8R1VRp9aX9-6xJ0uqIp4uadMosJfnp9D1OwXtb1ugYn77hz3Eo2-mpRoLX0Q0GdxWCNiA%3D%3D) revealed that the ecommerce giant plans to slash shipments with the United States Postal Service, which said this week that it’s running out of money. In [a lengthy statement published on Wednesday](https://www.aboutamazon.com/news/company-news/amazon-packages-usps-postal-volume), Amazon says it didn’t want to reduce shipments with the USPS, and that negotiations only stalled after the USPS “abruptly walked away” from negotiations for a new contract.
+
+As reported by the _WSJ_, Amazon plans to cut packages sent through the USPS by at least two-thirds by this fall, around the same time its contract with the independent federal agency is set to expire. Amazon claims it’s been working with the USPS for over a year on a deal “that would bring them billions in revenue,” but the agency walked away [at the “eleventh hour” during negotiations last December](https://www.theverge.com/news/838255/amazon-usps-delivery-contract-2026).
+
+Even as Amazon invests billions in building out a sprawling [network of delivery and logistics services](https://www.theverge.com/news/691877/amazon-same-day-delivery-small-town-rural), it still works with the USPS for last-mile deliveries — or the final leg of a shipment — especially in rural areas. The _WSJ_ says the USPS currently handles around 30 to 40 percent of Amazon deliveries in more remote locations, where shipping costs are higher, and where the USPS has a mandate to deliver six days per week. But big businesses like Amazon reportedly get discounted rates on shipping with the USPS, something the agency is no longer negotiating with businesses individually, according to the _WSJ_. The delivery mandate, coupled with discounted rates for large shippers, has [dealt a blow to the USPS’s finances](https://www.brookings.edu/articles/the-us-postal-services-fiscal-crisis/).
+
+As part of [efforts to shore up revenue](https://news.usps.com/2025/12/17/usps-announces-bid-solicitation-for-access-to-last-mile-delivery-network/), the USPS implemented a new bidding process for last-mile deliveries. “There’s only one thing I am absolutely certain of — if we continue to do things the way we’re doing it today, we’re dead in about a year, and so I have got to go out and test the market on this price to find out if it’s a fair price,” Postmaster General David Steiner [_told Reuters_](https://www.reuters.com/business/finance/us-postal-service-seek-bids-last-mile-deliveries-retailers-shippers-2025-12-17/) last year.
+
+During a hearing on Tuesday, Steiner reiterated that the USPS will run out of money in less than a year if Congress doesn’t allow it to borrow more cash and raise the price of postage. “One easy action, increasing our borrowing authority, buys us time… Time that we can use to best determine what the Postal Service should do to best serve the American public,” Steiner said, [according to _The New York Times_](https://www.nytimes.com/2026/03/17/us/politics/usps-postal-service-finances.html).
+
+Amazon says it has “repeatedly requested engagement” with Steiner, and that the company “received no response” to the bid it submitted in February 2026. “We’ve submitted a bid as part of their new auction concept and hope to continue our partnership, even at a reduced level,” Amazon’s statement says. “However, without long-term certainty, we now have to prepare to meet our customers’ delivery needs regardless of the outcome of the auction.”
+
+Steiner told _Reuters_ that the USPS delivers around 1.7 billion Amazon packages each year. He added that he would “love to continue” the agency’s relationship with Amazon but “at a fair price.” The USPS didn’t immediately respond to a request for comment.
+
+**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.
+
+-   Emma Roth
