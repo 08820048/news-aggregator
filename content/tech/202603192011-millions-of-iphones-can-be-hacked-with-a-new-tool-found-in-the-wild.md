@@ -1,0 +1,61 @@
+---
+title: "Millions of iPhones can be hacked with a new tool found in the wild"
+source: "
+                    Andy Greenberg, Wired.com
+                "
+url: "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/"
+published: "2026-03-19T20:11:36.000Z"
+category: "tech"
+summary: "DarkSword, a powerful iPhone-hacking technique, has been discovered in use by Russian hackers."
+---
+Darksword
+
+DarkSword, a powerful iPhone-hacking technique, has been discovered in use by Russian hackers.
+
+iPhone hacking techniques have sometimes been described almost like rare and elusive animals: Hackers have used them so stealthily and carefully against such a small number of hand-picked targets that they’re only rarely seen in the wild. Now a recent spate of [espionage and cybercriminal campaigns](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/) has instead deployed those same phone-takeover tools, embedded in infected websites, to indiscriminately hack phones by the thousands. And one new technique in particular—capable of taking over any of hundreds of millions of [iOS devices](https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/)—has appeared on the web in an easily reusable form, putting a significant fraction of the world’s [iPhone](https://www.wired.com/gallery/iphone-buying-guide/) users at risk.
+
+Researchers at Google and cybersecurity firms iVerify and Lookout on Wednesday [jointly](https://iverify.io/blog/darksword-ios-exploit-kit-explained) [revealed](https://www.lookout.com/threat-intelligence/article/darksword) the [discovery](https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain) of a sophisticated iPhone hacking technique known as DarkSword that they’ve seen in use on infected websites, capable of instantly and silently hacking iOS devices that visit those sites. While the technique doesn’t affect the latest updated versions of iOS, it does work against iOS devices running versions of Apple’s previous operating system release, iOS 18, which as of last month still accounted for close to a quarter of iPhones, [according to Apple’s own count.](https://developer.apple.com/support/app-store/)
+
+“A vast number of iOS users could have all of their personal data stolen simply for visiting a popular website,” says Rocky Cole, iVerify’s cofounder and CEO. “Hundreds of millions of people who are still using older Apple devices or older operating system versions remain vulnerable.”
+
+The iPhone-hacking campaign that used DarkSword has come to light just two weeks after the revelation of another, even more sophisticated and fully featured [hacking toolkit known as Coruna](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/) was found in use by what Google describes as a Russian state-sponsored espionage group and other hacker groups. Although DarkSword appears to have been created by different developers from Coruna, the researchers found that it was used by those same Russian spies. Like Coruna, it too was embedded in components of otherwise legitimate Ukrainian websites, including online news outlets and a government agency site, to harvest data from visitors’ phones.
+
+Beyond this Russian spy campaign, according to Google, DarkSword was spotted earlier when hackers used it to compromise the phones of victims in Saudi Arabia, Turkey, and Malaysia. In the case of the Turkish and Malaysian targets, Google writes in its blog post that customers of the Turkish security and surveillance firm PARS Defense appear to have used the intrusion tool. All of that suggests that DarkSword has already proliferated to several different hacking groups, Google says, and more are likely to adopt it.
+
+In fact, iVerify cofounder and researcher Matthias Frielingsdorf notes that the Russian hackers who most recently used DarkSword in their espionage campaign left the full, unobscured DarkSword code—complete with explanatory comments in English that describe each component and include the “DarkSword” name for the tool—available on those sites for anyone to access and reuse. That carelessness, he says, practically invites other hackers to pick up the tool and target other iPhone users. “Anyone who manually grabbed all the different parts of the exploit could put them onto their own web server and start infecting phones. It’s as simple as that,” says Frielingsdorf. “It’s all nicely documented, also. It’s really too easy.”
+
+An Apple spokesperson told WIRED in a statement that “every day Apple’s security teams around the world work tirelessly to protect users’ devices and data,” and noted that Apple had released security updates that would protect users from both Coruna and DarkSword, including emergency updates released last week for older devices that can’t run iOS 26. “Keeping software up to date remains the single most important thing users can do to maintain the high security of their Apple devices,” the statement reads. Users who enable iOS’s strictest security setting known as [Lockdown Mode](https://www.wired.com/story/apple-lockdown-mode-hands-on/) are also protected, the company added.
+
+Google declined to comment beyond the blog post it released about its DarkSword findings. WIRED also reached out to PARS Defense via its X account but didn’t immediately receive a response.
+
+According to Lookout, DarkSword is designed to steal data from vulnerable iPhones that include passwords and photos; logs from iMessage, WhatsApp, and Telegram; browser history; Calendar and Notes data; and even data from Apple’s Health app. Despite the apparent espionage focus of the hacking campaign, DarkSword also steals users’ cryptocurrency wallet credentials, suggesting the hackers may have carried out a possible side business in for-profit cybercrime.
+
+Rather than install spyware that persists on users’ phones, DarkSword uses stealthier techniques that are more often seen in “fileless” malware that typically target Windows devices, hijacking the legitimate processes in an iPhone’s operating system to steal data. “Instead of using a spyware payload to brute force your way through the file system—which leaves tons of artifacts of exploitation that are pretty easy to detect—this just uses system processes the way they’re meant to be used,” iVerify’s Cole says. “And it leaves far fewer traces.”
+
+That fileless technique also means that a DarkSword infection doesn’t persist on a phone after it reboots, Cole says. Instead, it steals data from the phone within the first few minutes after it’s hacked—what he calls a “smash-and-grab” approach.
+
+While the Coruna iOS hacking toolkit exposed earlier this month works against iOS versions 13 through 17, DarkSword works against most versions of iOS 18, the previous version of Apple’s mobile operating system before the company released iOS 26 last fall. (In fact, DarkSword contains two distinct exploit “chains” that take advantage of different vulnerabilities in earlier and later versions of iOS 18, depending on which one a target device is running.) That means many more phones remain at risk to DarkSword than Coruna, especially given the relatively slow adoption and unpopularity of iOS 26, which has been [criticized for new features](https://www.wired.com/story/phone-updates-used-to-be-annoying-the-latest-ios-is-awful/) such as a “liquid glass” interface some users have complained is [overly animated and reduces legibility](https://www.wired.com/story/liquid-glass-could-be-one-of-apples-most-divisive-system-designs-yet/).
+
+Both [Apple itself](https://developer.apple.com/support/app-store/) and [StatCounter](https://gs.statcounter.com/os-version-market-share/ios/mobile-tablet/worldwide), which tracks operating system adoption, released numbers last month showing that close to a quarter of iPhone users remain on iOS 18. To update your iPhone, tap Settings, then General, then Software Update. (And you can find steps for limiting liquid glass [here](https://www.wired.com/story/how-to-mostly-get-rid-of-liquid-glass/).) Both iVerify and Lookout say their security apps also can detect if a phone is compromised with DarkSword in the form they’ve observed it.
+
+Who created DarkSword remains a mystery. But the researchers who found it agree it almost certainly wasn’t built by the Russian hackers who deployed it. They instead suspect a “broker” firm that buys and sells hacking techniques. Aside from the English-language comments in DarkSword’s code—probably written to explain its use to a customer—the clearest clue about its origin is its association with Coruna: [TechCrunch reported](https://techcrunch.com/2026/03/10/us-military-contractor-likely-built-iphone-hacking-tools-used-by-russian-spies-in-ukraine/) last week that Coruna was created by Trenchant, a subsidiary of US government contractor L3Harris that creates hacking techniques for the US government. Former Trenchant employee Peter Williams [pleaded guilty last year](https://www.wired.com/story/peter-williams-trenchant-trade-secrets-theft-russian-firm/) to selling the company’s tools to a Russian broker firm called Operation Zero, which has since been [sanctioned by the US government](https://home.treasury.gov/news/press-releases/sb0404).
+
+While there’s no clear sign that DarkSword was also created by Trenchant or built for use by the US government, its deployment by the same Russian hackers who likely bought access to Coruna suggests that DarkSword, too, may have been sold by Operation Zero or another broker in hacking techniques. (Operation Zero didn’t respond to WIRED’s request for comment.) Beyond the Russian spies who used it, Coruna was also later used by cybercriminals to steal cryptocurrency from Chinese-speaking victims, an even more reckless use of an iPhone hacking toolkit—and a potential sign that Operation Zero will resell its offerings to any hacker group willing to pay.
+
+The back-to-back appearance of two different, powerful iPhone hacking techniques, possibly both sold by a broker firm with little discretion, suggests an increasingly active market for the resale of exploits that once were considered extremely rare and used only for highly targeted attacks against individual victims.
+
+“People assumed that it was just going to be journalists or activists or maybe an opposition politician that was targeted, and that this wasn’t a concern for a normal citizen,” says Justin Albrecht, who leads mobile threat intelligence at Lookout. “Now that we see iOS exploits being delivered through an unscrupulous broker, there’s a whole market here for this to get to cybercriminals” who will use it with far less discretion.
+
+iVerify’s Cole argues that the fact that DarkSword was put to use so brazenly, with no real attempt to prevent its discovery on the sites where it was embedded, also suggests that iOS hacking techniques are now attainable enough on the black market that hackers are willing to use them indiscriminately—even if the result is their exposure.
+
+“If this one gets burned, I’ll just go get another one,” Cole says, describing the hackers’ apparent thinking. “They know there’s more where this came from.”
+
+This story originally appeared on [wired.com](https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/).
+
+[![Photo of WIRED](https://cdn.arstechnica.net/wp-content/uploads/2023/09/wired-headshot.jpg)](https://arstechnica.com/author/wired-com/)
+
+Wired.com is your essential daily guide to what's next, delivering the most original and complete take you'll find anywhere on innovation's impact on technology, science, business and culture.
+
+[34 Comments](https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/#comments "34 comments")
+
+1.  [![Listing image for first story in Most Read: TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs](https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-909570482-768x432.jpg)](https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/)
