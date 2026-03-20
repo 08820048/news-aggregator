@@ -1,0 +1,15 @@
+---
+title: "Despite hardware limits, Parallels supports running Windows on MacBook Neo"
+source: "
+                    Andrew Cunningham
+                "
+url: "https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-supports-running-windows-on-macbook-neo/"
+published: "2026-03-19T16:50:10.000Z"
+category: "tech"
+summary: "\"8GB unified memory is the minimum practical configuration.\""
+---
+Apple’s MacBook Neo is impressive for its $600 price, but its A18 Pro processor is one of its biggest compromises compared to a modern MacBook Air—[in our review](https://arstechnica.com/gadgets/2026/03/apple-macbook-neo-review-can-a-mac-get-by-with-an-iphones-processor-inside/), we found it was more than up to basic computing tasks, but for demanding workloads that benefit from more CPU and GPU cores and RAM, the Air is a better choice.
+
+But those limited computing resources are still enough to run Windows on your Mac using the Parallels Desktop virtualization software—[so says Parallels itself](https://www.parallels.com/blogs/apple-macbook-neo/), which after some testing and benchmarking has declared the Neo suitable for “lightweight computing and everyday productivity, document editing, and web-based apps” while running Windows 11.
+
+Parallels says the MacBook Neo’s respectable single-core CPU performance keeps the Neo feeling “quick and responsive” when running multiple Windows-only software packages, including QuickBooks Desktop and other accounting apps, Microsoft Office, “light engineering and data tools” including AutoCAD LT and MATLAB, and “Windows-only courseware and education software” with “no Mac equivalent.” In Parallels’ testing, the Neo’s single-core CPU performance in Windows was still roughly 20 percent faster compared to a Core Ultra 5 235U chip in a Dell Pro 14 laptop.
