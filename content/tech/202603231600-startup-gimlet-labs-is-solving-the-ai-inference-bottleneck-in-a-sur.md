@@ -1,0 +1,43 @@
+---
+title: "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way"
+source: "Julie Bort"
+url: "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/"
+published: "2026-03-23T16:00:00.000Z"
+category: "tech"
+summary: "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously."
+---
+Stanford adjunct professor and successfully exited founder Zain Asgar just raised an $80 million Series A for a startup that solve the AI inference bottleneck problem in an astute way. The round was led by Menlo Ventures. 
+
+The company, [Gimlet Labs](https://gimletlabs.ai/), has created what it claims is the first and only “multi-silicon inference cloud” which is software that allows an AI workload to be simultaneously run across diverse types of hardware. It can split an AI app’s work across both traditional CPUs and AI-tuned GPUs, as well as high-memory systems.  
+
+“We basically run across whatever different hardware that’s available,” Asgar told TechCrunch. 
+
+A single agent may chain together multiple steps, and each “requires different hardware: Inference is compute-bound; decode is memory-bound; and tool calls are network-bound,” writes lead investor, Menlo’s Tim Tully, in a blog post about the funding.  
+
+No chip yet does it all, but as new hardware gets rolled out, and aging GPUs get redeployed, “the multi-silicon fleet is ready — it’s just missing the software layer to make it work.” That’s what Tully believes Gimlet Labs offers.
+
+If the current deploy-more-compute trend continues, [McKinsey estimates](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-cost-of-compute-a-7-trillion-dollar-race-to-scale-data-centers) data center spending will tally nearly $7 trillion by 2030. Asgar says that apps are only using the existing hardware already deployed “somewhere between 15 to 30 percent” of the time.  
+
+“Another way to think about this: you’re wasting hundreds of billions of dollars because you’re just leaving idle resources,” he said. “Our goal was basically to try to figure out how you can get AI workloads to be 10x more efficient than ever, today.” 
+
+Techcrunch event
+
+San Francisco, CA | October 13-15, 2026
+
+So he and his cofounders, Michelle Nguyen, Omid Azizi, and Natalie Serrino, set about building orchestration software that slices up agentic workloads so that they can be simultaneous spread across all kinds of hardware. 
+
+Gimlet Labs claims it reliably speeds AI inference up by 3x to 10x for the same cost and power. Gimlet says it can even slice the underlying model so that it runs across different architectures, using the best chip for each portion of the model. 
+
+The company has already partnered with chip makers NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix.  
+
+Gimlet’s product, delivered either as software or through an API to its own Gimlet Cloud, isn’t for the rank-and-file AI app developer. It’s for the largest AI model labs and data centers. 
+
+The company publicly launched [in October](https://finance.yahoo.com/news/gimlet-labs-emerges-stealth-8-120300188.html) with, it said, eight-figure revenues out of the gate (so at least $10 million). Asgar said that his customer base has more than doubled in the last four months and now includes a major model maker and an extremely large cloud computing company, although he declined to name them.  
+
+The cofounders had previously worked together at Pixie, a startup that created an open source observability tool for Kubernetes. Pixie was [acquired](https://techcrunch.com/2020/12/10/new-relic-acquires-kubernetes-observability-platform-pixie-labs/) by New Relic in 2020, just two months after it launched with a $9 million Series A led by Benchmark. (Pixie’s tech is now part of the open source org that oversees Kubernetes.)  
+
+After Asgar randomly ran into Tully about a year ago and also received angel investments from Stanford professors, VCs started calling. After launch, a term sheet landed on Asgar’s desk. When VCs heard Asgar was looking at offers, “we got a pretty big swarm of funding,” and the round was quickly oversubscribed, he said. 
+
+With the previous seed, the startup has now raised a total of $92 million, including from a slew of angels like Sequoia’s Bill Coughran, Stanford Professor Nick McKeown, former CEO of VMware Raghu Raghuram and Intel CEO Lip-Bu Tan. The company currently employs 30 people.
+
+Other investors include Factory, who led the seed, Eclipse Ventures, Prosperity7 and Triatomic.
