@@ -1,0 +1,49 @@
+---
+title: "Daredevil: Born Again Season 2 Review"
+source: "Scott Collura"
+url: "https://www.ign.com/articles/daredevil-born-again-season-2-review"
+published: "2026-03-25T01:00:00.000Z"
+category: "gaming"
+summary: "Daredevil: Born Again Season 2 review: This season is packed with too many characters and subplots, some far better used than others. But the central story of Matt Murdock’s quest to take down Mayor Fisk remains compelling, backed by cool and exciting action scenes."
+---
+**While we avoid specific details, vague spoilers for the season follow.**
+
+[**Daredevil: Born Again debuts on Disney+ on March 24**](https://www.ign.com/articles/daredevil-born-again-season-2-episode-release-times) **at 9pm ET/6pm PT, with new episodes dropping every Tuesday.**
+
+[Daredevil: Born Again](https://www.ign.com/tv/daredevil-born-again) returns for a second season having moved beyond the baggage of the big offscreen turbulence it faced in its first year. Whereas that season had a massive creative overhaul midway through production, with a new team brought in to both shoot new material and still incorporate much of what was initially shot, Season 2 was guided start to finish by that second team. This includes showrunner Dario Scardapane, with directors Aaron Moorhead and Justin Benson also returning for the first two episodes.
+
+The result is a season that definitely feels less clunky and isn’t as sometimes oddly structured as Season 1. Yet the impressive thing about Season 1 is how well it still worked, despite its bizarre Frankensteined nature. Season 2 has plenty more to satisfy Daredevil fans and feels more focused, although there are some elements that still aren’t quite as impactful.
+
+Season 1 ended with Mayor Wilson Fisk (Vincent D’Onofrio), aka the Kingpin, going full scorched earth, declaring martial law in New York City, while officially making [all vigilante activity](https://www.ign.com/articles/every-street-level-hero-we-could-see-in-daredevil-born-again-season-2) completely illegal, and Season 2’s opening feels like it’s stepping off the gas a bit in this regard. And though this is partially by design, underlining how many of the populace are disturbingly okay with Fisk’s approach, it also feels like a bit of a cop out. It’s not as egregious as, say, Stranger Things’ takeback on the consequences of the Earth literally splitting open, but it still feels less intense than what was hinted at. In general, Born Again Season 2 gets off to a slow start, with its weakest episodes kicking off the season.
+
+That being said, this is still a very solid series centered on a continually engaging hero. And rejoice, Daredevil fans, because in the five combined seasons of Daredevil and Daredevil: Born Again, this is only the second time – along with Season 2 of the Netflix series – where the title character is actually [using his full, horned costume persona](https://www.ign.com/articles/daredevil-has-a-new-blackout-suit-in-born-again-season-2-and-theres-a-very-specific-reason-for-it) right from the start and not either in the midst of a slow build towards the costume or Matt Murdock having quit being Daredevil (again). Charlie Cox continues to expertly embody the character, his gravitas, and physicality.
+
+Charlie Cox continues to expertly embody the character, his gravitas, and physicality.“
+
+The action scenes on this show still don’t quite reach the intensity of the Netflix series, which felt so rough and tumble, but we do get _some_ awesome Daredevil ass-kicking by the end of the first hour and, on the balance, the action this season is fast-paced and thrilling. There is more mileage than ever gotten from the use of Daredevil’s trick billy club and how he utilizes it in battle. This includes a couple of very fun Sam Raimi-type shots where we’re essentially seeing the POV of the inanimate club as it flies through the air, ready to slam into a bad guy’s skull in a satisfying manner.
+
+After sitting out most of Season 1, Karen Page is much more central to the story this time out, and it’s great to see Deborah Ann Woll and Charlie Cox play off each other again. The season has some very heated scenes where Matt and Karen debate his refusal to ever kill his enemies – after he very nearly did just that [with Bullseye in Season 1](https://www.ign.com/articles/daredevil-born-again-series-premiere-review-disney-plus) – and whether that’s the right call or not given the stakes they find themselves in now.
+
+And speaking of Bullseye, he is the MVP and standout of Season 2 in a lot of ways. The trailers have hinted at the potential for some sort of cooperation between Bullseye and Daredevil, but suffice to say, it’s more complicated than that, and the fact that this guy [killed Foggy Nelson](https://www.ign.com/articles/did-daredevil-born-again-just-confirm-a-popular-foggy-nelson-fan-theory) (not to mention a lot of other people) is not swept under the rug. But of course, being a despicable fictional killer and villain doesn’t stop you from being a wonderful fictional character, and Bullseye is an especially electric presence this season, with Wilson Bethel doing a fantastic job of showing the character’s oh-so eccentric perspective. And when Bullseye unleashes with his “turns any object into a deadly weapon” abilities, particularly when it’s against someone who’s not an innocent, it’s inarguably thrilling.
+
+The rest of the supporting cast is a mixed bag in terms of how well they are utilized. The end of Season 1 began to rectify the sketchy nature of some of Born Again’s newly introduced characters, and that continues here to some extent, with Nikki M. James’ Kirsten McDuffie and Genneya Walton’s BB Urich given more to do. And Fisk’s inner circle of Buck Cashman (Arty Froushan), Sheila Rivera (Zabryna Guevara), and Daniel Blake (Michael Gandolfini) have some strong material as they must continue to navigate how much they’re willing to go along with the whims of their amoral boss.
+
+But Heather Glenn (Margarita Levieva) still feels very out of place on the series. She didn’t fit well as a love interest for Matt, and now that she’s working for Fisk, the subplot of her processing what she went through in Season 1 never really gels either. And though she has a lot more screen time this season, the niece of the late White Tiger, Angela Del Toro (Camila Rodriguez), is an example of a character who’s mostly surface level, given a basic “I stand up for what my uncle believed in” persona.
+
+There are several characters who make more of an impact, though some aren’t in as many episodes as one might hope. This includes a couple of Matt’s fellow vigilantes, Jack Duquesne, AKA Swordsman (Tony Dalton) and, of course, the highly anticipated return of Krysten Ritter as Jessica Jones. They keep us waiting quite awhile to get to Jessica, and it feels like even more could be done with her, but it’s still so gratifying to have her back, with Ritter as effortlessly witty as ever in the role, while providing a new energy for Matt to interact with.
+
+Tony Dalton meanwhile is a blast as Jack, though he too feels like someone itching for more screen time. Also adding his trademark oh-so appealing offbeat energy is Matthew Lillard, who pops in throughout the season as the mysterious Mr. Charles and has some notable business connections to the Fisks.
+
+[![null](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://assets-prd.ignimgs.com/2026/01/27/1-marvel-televisions-daredevil-born-again-season-2-teaser-trailer-00-00-46-1769528711725.png)
+
+Krysten Ritter is back as Jessica Jones.
+
+Another highlight is getting more of fascinating interplay between Fisk and his wife, Vanessa with Vincent D'Onofrio and Ayelet Zurer once more playing wonderfully off each other, as we see how Vanessa continues to be the one person who the otherwise terrifying, combustive Fisk truly loves.
+
+The allegorical use of Fisk and his administration as a parallel to modern day American politics continues to loom large as well, with Fisk’s Anti Vigilante Task Force even more directly serving as a pretty obvious stand in for ICE, both in terms of the unchecked damage and heartbreak they are inflicting upon citizens. It might not be subtle, but it very much feels in the spirit of classic Marvel Comics, with its superhero universe reflecting real life conflicts in modern society.
+
+Born Again Season 2 has some undeniably exciting and satisfying moments as it concludes, albeit intermixed with a couple of beats that feel like they cut some corners dramatically. But its very best material is around the middle of its eight-episode season, including an especially strong and involving episode full of flashbacks set near the start of the original Netflix Daredevil series. As we intercut between the past and present, there are clever changes to the visual style to match how that previous series looked, including altering the aspect ratio. Beyond that, Born Again Season 2 leans further into embracing story elements and characters from the old days, gifting longtime fans with some appreciated callbacks.
+
+### Verdict
+
+Daredevil Born Again Season 2 gets a 7. It’s a good show that offers a more focused story than Season 1, as Daredevil and his allies attempt to push back against Mayor Fisk’s reign of terror. Starting with Matt Murdock and Wilson Fisk, the core characters remain compelling, with both Karen Page and Bullseye getting to step up in a big way this season. At the same time, it feels like there are simply too many characters. A few you’d like to see more of are underutilized, while some supporting players and subplots feel extraneous or surface level, with cheesier dialogue sometimes butting heads with far more strongly written scenes. But at the end of the day, it sure feels good to once more see Matt Murdock put on that costume and go toe to toe with a bunch of guys who are very much asking for trouble.
