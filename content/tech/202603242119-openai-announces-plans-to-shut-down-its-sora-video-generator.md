@@ -1,0 +1,19 @@
+---
+title: "OpenAI announces plans to shut down its Sora video generator"
+source: "
+                    Kyle Orland
+                "
+url: "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/"
+published: "2026-03-24T21:19:50.000Z"
+category: "tech"
+summary: "Move comes amid a reported plan to refocus on business and productivity use cases."
+---
+OpenAI is preparing to shut down Sora, the video generation app that drew widespread attention when it [launched in late 2024](https://arstechnica.com/ai/2024/12/ten-months-after-first-tease-openai-launches-sora-video-generation-publicly/).
+
+OpenAI [announced the move in a social media post Tuesday](https://x.com/soraofficialapp/status/2036532795984715896) just after a Wall Street Journal story [broke the news](https://www.wsj.com/tech/ai/openai-set-to-discontinue-sora-video-platform-app-a82a9e4e). The company said it will have more to share soon on “timelines for the app and API and details on preserving your work.”
+
+“To everyone who created with Sora, shared it, and built community around it: thank you,” OpenAI wrote. “What you made with Sora mattered, and we know this news is disappointing.”
+
+The announcement comes days after [leaked news of an OpenAI all-hands meeting](https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825) in which company executives reportedly said they were refocusing on business and productivity applications rather than being “distracted by side quests” as OpenAI head of applications Fidji Simo reportedly put it.
+
+The move also comes just months after Disney [invested $1 billion in OpenAI](https://arstechnica.com/ai/2025/12/disney-invests-1-billion-in-openai-licenses-200-characters-for-ai-video-app-sora/) as part of a deal that would “bring beloved characters from across Disney’s brands to Sora.” It’s unclear how that investment and partnership will continue with following Sora’s shutdown.
