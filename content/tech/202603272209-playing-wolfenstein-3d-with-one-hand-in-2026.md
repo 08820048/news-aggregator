@@ -1,0 +1,91 @@
+---
+title: "Playing Wolfenstein 3D with one hand in 2026"
+source: "
+                    Kyle Orland
+                "
+url: "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/"
+published: "2026-03-27T22:09:00.000Z"
+category: "tech"
+summary: "Over three decades later, this historical curiosity has more than a few rough edges"
+---
+Achtung!
+
+Over three decades later, this historical curiosity has more than a few rough edges
+
+![](https://cdn.arstechnica.net/wp-content/uploads/2026/03/wofl3d-1.jpg)
+
+Not a lot of cover to be found in rooms like this... Credit: id Software
+
+Like practically everyone who owned a PC in the early ’90s, I tore through the shareware episode of _Wolfenstein 3D_ shortly after it came out. At the time, the game’s mere existence seemed like a magic trick, offering a smooth-scrolling first-person perspective that was unlike pretty much anything I had ever seen. Strictly speaking, the game might have been ironically two-dimensional (lacking even the simulated gameplay “height” of follow-up _Doom_), but the sense of depth conveyed by the viewpoint was simply mind-blowing.
+
+Coming back to _Wolfenstein 3D_ in 2026 feels quite a bit different. The initial magic trick of the game’s perspective has worn off after nearly 35 years of playing the countless first-person shooters it inspired. And the advancements in shooter design since 1992 make some of the decisions id Software made for its first experiment in the genre feel a bit archaic from a modern perspective.
+
+Still, it’s fascinating to look back at _Wolfenstein 3D_ today and see the seeds that would sprout into one of gaming’s most popular genres. Playing it today feels like going to a car museum and taking a Model T for a spin, with all the confusion and danger that entails.
+
+## Where am I?
+
+Right off the bat, _Wolfenstein 3D_’s biggest limitation stems from the walls themselves, which all sit at stark 90-degree angles from each other. As you might expect, that leads to a lot of big, rectangular rooms and arrow-straight hallways with sharp turns.
+
+The level designers did their best to be imaginative within this limitation. There are plenty of maze-like branching pathways, zig-zagging walls that approximate diagonals, and low barriers that let you see into portions of the map you can’t yet access. But there’s only so much even the best designers can do with such a limited toolset. _Wolfenstein 3D_ just feels unbearably blocky today.
+
+[![](https://cdn.arstechnica.net/wp-content/uploads/2026/03/wolf3d-map.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2026/03/wolf3d-map.jpg)
+
+Being able to view a map, like this one pulled from the game’s files, would be really helpful while playing the game.
+
+Being able to view a map, like this one pulled from the game’s files, would be really helpful while playing the game. Credit: [Wolfenstein Wiki](https://wolfenstein.fandom.com/wiki/Episode_2/Floor_2)
+
+That blockiness is made all the worse thanks to the lack of an in-game map that has been practically a standard feature of almost every first-person shooter following _Wolfenstein 3D_. Without that kind of map, I found myself constantly getting lost, accidentally backtracking through similar-looking rooms or looping through corridors without knowing where I was meant to be going.
+
+Again, the designers did their best to mix things up, varying wall textures to signify distinct areas of the map or placing wall decorations or landmarks to distinguish the different big rectangular rooms. These only do so much, though, when you’re twisting down one path of a branching corridor and trying to remember which of the three identical-looking doors you chose before getting turned around in a firefight. Maybe it’s a skill issue on my part, but I found myself finishing well above the “par” time set for most levels because I ended up walking in circles.
+
+## Bang bang, shoot shoot
+
+Judged solely as a shooter, _Wolfenstein 3D_ feels particularly outdated compared to modern examples of the genre. The vast majority of enemy encounters are characterized by a distinct lack of available cover, and the instant-hit bullets fired by most of those enemies can also make it hard to dodge effectively when forced out in the open.
+
+Instead, the best defense in the game usually ends up being a good offense, firing on an enemy to briefly and repeatedly stun them so they can’t counterattack. The only real exception to this is the boss encounters, where you empty round after round into bullet sponges while strafing behind pillars to avoid their telegraphed attacks.
+
+I often ended up using the doors of a _Wolfenstein 3D_ room as a kind of improvised cover, opening one and then immediately stepping aside to avoid the enemies that are often lurking there, ready for a jump-scare pounce. The game then becomes a matter of kiting those enemies into the open one by one to take them out safely. As a process, it lacks both the satisfying timing and planning of a cover-based shooter and the more free-flowing float-and-dodge movement of an action-oriented shooter.
+
+[![](https://cdn.arstechnica.net/wp-content/uploads/2026/03/wolf3d-3.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2026/03/wolf3d-3.jpg)
+
+If you lose a life, you can kiss that cool gun goodbye (unless you saved, that is).
+
+Credit: id Software
+
+If you lose a life, you can kiss that cool gun goodbye (unless you saved, that is). Credit: id Software
+
+The difficulty balancing could use some work as well. The lowest setting, “Can I Play, Daddy” is laughably easy for anyone with modern FPS experience, with lots of item pickups and enemies that are extremely slow to attack and who inflict barely any damage when they do manage to get a shot off. The default “Bring ‘em On!” difficulty, on the other hand, feels borderline unfair at points, with enemies that can take out half of your health with just a few stray shots.
+
+While a few new enemies are slowly introduced once you work past the shareware levels, I can’t say any of them were all that interesting. And after playing through dozens of levels, I’ll say I was really jonesing for a new weapon that didn’t just amount to “the old weapon but with an increased rate of fire.”
+
+Then there are the overarching design decisions that are perplexing from a modern perspective. Like many arcade games that were still popular at the time, _Wolfenstein 3D_ keeps track of a numerical score throughout each playthrough. The game also gives you a limited number of lives to play with, removing your weapons with each death (accumulating enough points even grants bonus lives).
+
+But the game also lets you save at any time, making these features practically irrelevant for anyone who wants to save-scum through the most difficult fights. And while _Wolfenstein 3D_ retains any damage you’ve built up between levels, it requires you to start a completely new game when you complete a full episode, with no explicit links between them.
+
+## Look ma, one hand
+
+The most intriguing discovery I made on my fresh replay of _Wolfenstein 3D_ was how well-suited the game is to mouse controls. Back in 1992, I probably barely knew how to use a mouse, much less how to effectively aim a virtual gun with one. This time around, I was delighted to find that the entire game can be effectively played one-handed, without touching the keyboard at all.
+
+Unlike most modern shooters, the mouse in _Wolfenstein 3D_ acts as something of a proxy for directional keys. Swinging the mouse left and right turns, but moving up and down controls forward and backward movement. A left-click can fire your weapon, a right-click toggles a strafing system, and a middle-click opens doors, removing the need to touch the keyboard at all.
+
+[![](https://cdn.arstechnica.net/wp-content/uploads/2026/03/mechahitler.avif)](https://cdn.arstechnica.net/wp-content/uploads/2026/03/mechahitler.avif)
+
+No, that’s not Grok AI, it’s Mecha-Hitler!
+
+Credit: id Software
+
+No, that’s not Grok AI, it’s Mecha-Hitler! Credit: id Software
+
+With the mouse sensitivity turned all the way up, this system results in much faster movement than the usual keyboard controls, letting you whip up and back down long corridors with a quick flick of the wrist. It felt like I was zipping around Castle Wolfenstein on a Segway and made the game feel fresh despite all the anachronistic design choices.
+
+_Wolfenstein 3D_ is relatively easy to blaze through today, with relatively short levels and relatively simple enemy patterns that won’t tax any modern fan of the genre. Any replay value comes from trawling for hidden secret entrances (most of which require maniacally trying to “open” every bare piece of wall you can find) or reducing your overall completion time, speedrun-style.
+
+Despite the simplicity and the odd design quirks, though, I had fun traveling through the historical curiosity that is _Wolfenstein 3D_. It’s nice to look back at where a genre came from and marvel at how well-formed many of its basic conventions were right from the start, rough edges and all.
+
+[![Photo of Kyle Orland](https://cdn.arstechnica.net/wp-content/uploads/2016/05/k.orland-13.jpg)](https://arstechnica.com/author/kyle-orland/)
+
+Kyle Orland has been the Senior Gaming Editor at Ars Technica since 2012, writing primarily about the business, tech, and culture behind video games. He has journalism and computer science degrees from University of Maryland. He once [wrote a whole book about _Minesweeper_](https://bossfightbooks.com/collections/books/products/minesweeper-by-kyle-orland).
+
+[44 Comments](https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/#comments "44 comments")
+
+1.  [![Listing image for first story in Most Read: DOJ confirms FBI Director Kash Patel’s personal email was hacked](https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266689842-768x432.jpg)](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/)
