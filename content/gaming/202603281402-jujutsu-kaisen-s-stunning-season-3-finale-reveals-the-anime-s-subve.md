@@ -1,0 +1,45 @@
+---
+title: "Jujutsu Kaisen's stunning season 3 finale reveals the anime's subversive genius"
+source: "Francesco Cacciatore"
+url: "https://www.polygon.com/jujutsu-kaisen-season-3-finale-sendai-colony-fight-explains-series/"
+published: "2026-03-28T14:02:17.000Z"
+category: "gaming"
+summary: "Jujutsu Kaisen season 3 finale shows that this is a battle series by aspiration, where fights are not just a means but the end itself."
+---
+[![4](https://static0.polygonimages.com/wordpress%2Fwp-content%2Fauthors%2F688c7702158d1-foto%20profilo%20buona.jpg?fit=crop&w=90&h=90)](https://www.polygon.com/author/francesco-cacciatore/)
+
+Published Mar 28, 2026, 10:02 AM EDT
+
+'Sendai Colony' is the perfect showcase for what makes Gege Akutami's series a revolutionary battle manga
+
+## Jujutsu Kaisen has always been about fighting. The brilliant season 3 finale shows why.
+
+   ![The Domain clash in Jujutsu Kaisen Sendai Colony showing Okkotsu, Uro, and Ishigori ready to unleash their domain expansion](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/the-domain-clash-in-jujutsu-kaisen-sendai-colony.png?&fit=crop&w=1200&h=675)Image: MAPPA/Gege Akutami/Crunchyroll
+
+_Jujutsu Kaisen_ is a deceptively complex series. On the surface, it’s all about super-powered exorcists battling evil monsters and, more often, each other. On a deeper level, however, _Jujutsu Kaisen_ is about… super-powered exorcists battling evil monsters and each other. That’s not a slight. This is a [battle manga](https://www.nypl.org/blog/2021/05/07/battle-manga-all-out-fight-finish) by aspiration and design, where fights are not just a basic [shonen](https://www.polygon.com/anime-genres-meaning-list-explained-shonen-shojo-seinin-isekai/) tool to woo readers with excitement, but the core of the series’ aesthetic and its ultimate purpose.
+
+It’s easy to criticize _Jujutsu Kaisen_ for its rushed plot, incomplete worldbuilding, or for [shifting the focus away from its main characters](https://www.polygon.com/jujutsu-kaisen-jjk-season-3-yuji-culling-game-fights/) too often. However, there’s something undeniably special about this series, a _je ne sais quoi_ that’s hard to pinpoint. The final episode of season 3 of the anime, “Sendai Colony,” isn’t just another showcase of [MAPPA’s talent at elevating the source material](https://www.polygon.com/jujutsu-kaisen-season-3-finale-recap-review/) into visual spectacle, it’s also the best way to understand everything you need to know about _Jujutsu Kaisen_ in less than 30 minutes.
+
+The episode adapts eight chapters of _Jujutsu Kaisen_ creator Gege Akutami’s manga (174-181), which have understandably become some of the most celebrated by the fandom. During the Culling Game, the Sendai Colony is locked in a standoff between three incarnated sorcerers (Dhruv Lakdawalla, Takako Uro, and Ryu Ishigori) and a special grade cursed spirit (Kurourushi). The arrival of Yuta Okkotsu, who immediately kills Dhruv, breaks the standoff and escalates a four-way battle among some of the strongest players in the Culling Game.
+
+There’s no need to linger on the details of this non-stop adrenaline rush. If you haven’t watched the episode yet, drop what you’re doing and spend the next 27 minutes letting MAPPA’s animators and Gege Akutami’s creative genius awe you. This is what _Jujutsu Kaisen_ is all about. But what is that, exactly?
+
+Fights are an integral part of many shonen manga. One could classify classics like _Dragon Ball_, _Naruto_, and _Bleach_ as battle shonen and not be too far away from the truth. In these series, however, the fights are a means to an end. They’re there to move the story forward, posing challenges for characters to overcome. But in _Jujutsu Kaisen_, the fights are the story. They are the end, not the means. But this doesn’t make the series shallow. Quite the opposite.
+
+    ![Okkotsu, Uro, and Ishigori initiate a triple domain expansion in Jujutsu Kaisen](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/sendai-colony-triple-domain-expansion.png?q=70&fit=crop&w=1300&dpr=1)Image: Gege Akutami/Shueisha
+
+The best comparison possible, among mainstream manga, is [_Hunter x Hunter_](https://www.polygon.com/22619955/hunter-x-hunter-chimera-ant-fans-netflix/). In another life, its creator, Yoshihiro Togashi, could have been a game designer. The series’ power system, Nen, is one of the most complex in the medium, and the fights in _Hunter x Hunter_ are a [web of intricacies that unravel in unexpected ways](https://www.polygon.com/hunter-x-hunter-netero-meruem-chimera-ant-arc/). Jujutsu sorcery is similarly complicated, but while Togashi is in love with the rules of the game, Akutami is more interested in their application. _Hunter x Hunter_’s battle sequences are often overwhelmed by walls of text as the protagonists think about every possible move and scenario. _Jujutsu Kaisen_, on the other hand, is often criticized for being unclear or hard to understand, but that’s because Akutami prefers showing rather than telling, and that includes the complexities of Jujutsu sorcery, domains, and [the intricacies of the Culling Game](https://www.polygon.com/jujutsu-kaisens-culling-game-explained/).
+
+_Jujutsu Kaisen_ also strives to maintain a balance between the technical aspects of its fights and the human element of the people involved in them. It succeeds by using an approach best described using [a Japanese concept called “ma”](https://new.uniquejapan.com/ikebana/ma/) (間). This can be translated as “absence” or “interval,” but its most poignant meaning in the arts is “design by subtraction.” It’s the silence between the notes, the negative space in a painting or statue. In _Jujutsu Kaisen_, we can see how this minimalist approach yields character portraits that are meaningful despite, or because of, their lack of detail.
+
+    ![Hunter x Hunter chapter 408 negotiation battle between Morena and Borksen](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/hunter-x-hunter-chapter-408-game-battle.png?q=70&fit=crop&w=690&dpr=1)Image: Yoshihiro Togashi/Shueisha
+
+After the big battle in “Sendai Colony,” fans somehow end up caring about both Uro and Ishigori, despite knowing very little about them. During the fight, we infer that Uro was, in her first life, an assassin who was betrayed by one of Okkotsu’s ancestors. Once a nameless killer, she was given a name by a member of the Fujiwara clan, but only because he planned to betray her by framing her for murder. That’s all the detail we get, but it’s enough to build an emotionally resonant backstory and, more importantly, add weight to her confrontation with Okkotsu.
+
+Ishigori, on the other hand, follows the shonen stereotype of the “battle maniac,” a man who pursues strength by challenging other strong people. However, this is given a fresh spin by framing Ishigori’s desire as the craving for a “dessert.” He lived a satisfying first life, but he could never overcome a lingering feeling of discontent. By fighting and losing to Okkotsu, he finally gets that crowning achievement he was missing by “eating his fill.” This is a representation of “the loneliness of the strong,” one of the recurring themes in the series, seen in characters such as Gojo and Sukuna. _Jujutsu Kaisen_ communicates all this without even a hint of a flashback, just from Ishigori’s scattered thoughts and his interactions with Okkotsu during the fight.
+
+On top of all that, “Sendai Colony” also gave us Okkotsu’s real introduction to the main series, as this entire fight is basically a way to show that he has also stepped into the realm of “the strongest,” like Gojo and Sukuna. Once again, MAPPA filled in the gaps in Akutami’s ability to display his imagination on paper. There’s probably never been another instance of such exquisite interplay between a manga and its anime adaptation. Every episode gives the impression that the animators aren’t just interpreting or elevating the source material; they’re enriching it by pulling out visual elements that were already present there, buried under the surface and ready to bloom. There's no better example than the final clash between Okkotsu and Ishigori, with the season's opening theme suddenly playing as the desserts disappear from the plates, which can only be described as triumphal.
+
+_Jujutsu Kaisen_ is a series about fighting. Akutami set out to innovate the battle shonen genre, and he succeeded by focusing on its roots: the fights. With a conceptual style based on subtraction, he stripped all the unnecessary elements from the genre. What is left is a shining core of the purest metal.
+
+This is not to everyone’s taste. Those unnecessary elements can be important and enjoyable parts of a story, too. And at the end of _Jujutsu Kaisen_ (the manga reached its finale in 2024), we’re still left with a lot of questions about its characters and its world. One may not like that approach, but it’s hard to ignore the genius behind the creative vision that led to it.

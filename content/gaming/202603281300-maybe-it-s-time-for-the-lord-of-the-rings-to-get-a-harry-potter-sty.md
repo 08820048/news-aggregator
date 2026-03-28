@@ -1,0 +1,67 @@
+---
+title: "Maybe It's Time for The Lord of the Rings to Get a Harry Potter-Style Reboot"
+source: "Jesse Schedeen"
+url: "https://www.ign.com/articles/lord-of-the-rings-movies-reboot-harry-potter"
+published: "2026-03-28T13:00:00.000Z"
+category: "gaming"
+summary: "Rather than move forward with spinoffs that cling to the original The Lord of the Rings movies, maybe the time has come to give the franchise a full, Harry Potter-style reboot."
+---
+It’s been a pretty good week for those who love big-budget adaptations of iconic fantasy novels. HBO Max released the [first trailer for its long-awaited Harry Potter series](https://www.ign.com/articles/harry-potter-tv-show-trailer-reveals-first-look-at-classic-moments-reimagined-and-a-christmas-release-date), which reboots the franchise for the small screen. Meanwhile, there was also the announcement that [Stephen Colbert is helping to craft a new The Lord of the Rings movie](https://www.ign.com/articles/stephen-colbert-is-writing-a-new-lord-of-the-rings-film-the-lord-of-the-rings-shadow-of-the-past) called Shadow of the Past, one that looks to [be both a sequel and companion to the original trilogy](https://www.ign.com/articles/lord-of-the-rings-shadow-of-the-past-plot-timeline-sequel).
+
+It’s interesting to see Warner Bros.’ differing approaches to these two popular franchises. One project is a complete reboot aimed at telling a familiar story in greater depth than before; the other is a direct continuation that will (presumably) bring back a great many familiar faces from the original movies. But we have to wonder if Warners is actually taking the right approach to keeping The Lord of the Rings alive. Do fans actually want more movies with the original cast, or does the series need a Harry Potter-style reboot of its own? Let’s discuss why the latter might actually be the better choice at this point.
+
+## The Problem With CGI De-Aging
+
+WB currently has two The Lord of the Rings movies in active development. Alongside Shadow of the Past, there’s also the previously announced [The Lord of the Rings: The Hunt for Gollum](https://www.ign.com/movies/lord-of-the-rings-the-hunt-for-gollum), which will see Andy Serkis play dual roles both in front of and behind the camera. The two projects seem to be almost a duology of sorts, as they both focus heavily on the same time period (the early portion of The Fellowship of the Ring when Gandalf and Frodo are first coming to terms with the true nature of the cursed ring Bilbo left behind).
+
+Given the period in which they’re set, there’s a lot of potential for actors from the original Rings trilogy to return. We know The Hunt for Gollum will star Serkis’ Gollum and Ian McKellen’s Gandalf, and Shadow of the Past will almost certainly bring back Sean Astin’s Sam, Billy Boyd’s Pippin, and Dominic Monaghan’s Merry. There’s also plenty of room for Viggo Mortensen’s Aragorn, Orlando Bloom’s Legolas, and John Rhys-Davies’ Gimli to return in either project. Basically, any Rings veteran is fair game, except for the ones like Hugo Weaving who have expressly ruled out any desire to return.
+
+There’s just one problem here. It’s been a long time since The Return of the King dropped in theaters, and these actors are all visibly older than they were in 2003. Both The Hunt for Gollum and Shadow of the Past are probably going to have to rely heavily on CGI de-aging technology to make the characters look as they did all those years ago. It’s going to be a real test for that technology in a way we haven’t seen since [2019’s The Irishman](https://www.ign.com/articles/2019/09/30/the-irishman-review-netflix).
+
+[](https://assets-prd.ignimgs.com/2024/09/11/gan-1726066030666.jpg)
+
+Can The Hunt for Gollum really transform Ian McKellen back into his circa-2001 self?
+
+Frankly, we don’t know that any Hollywood VFX firms are up to that challenge. As much as big blockbusters have come to rely on de-aging tech to transform actors into younger simulacra of themselves, how often are the results actually that convincing? Films like 2006’s X-Men: The Last Stand and 2010’s Tron Legacy served as early but flawed showcases of that technology, and things haven’t necessarily improved all that much in the decades since and with the endless barrage of MCU and Star Wars flashback scenes as testing grounds. Even a director as legendary as Martin Scorsese struggled with the aforementioned The Irishman, which [utterly failed to transform an aging, lumbering Robert De Niro](https://www.ign.com/articles/2019/10/15/robert-de-niro-says-de-aging-technology-risks-making-movies-look-cartoony) into his spry, 1970s-era self.
+
+As films like The Irishman and [Indiana Jones and the Dial of Destiny](https://www.ign.com/articles/indiana-jones-and-the-dial-of-destiny-review) show, de-aging presents a far greater challenge than just smoothing out wrinkles and adding color back to an actor’s hair. Actors move and carry themselves far differently when they age. They gain weight and slow down. Dial of Destiny’s opening sequence looks alright in still form, but one need only watch Harrison Ford’s de-aged Indy move and fight to know that we’re actually looking at a senior citizen wearing a mountain of digital camouflage.
+
+Is there any reason to assume this tech has suddenly improved by leaps and bounds in the past couple of years? Maybe the advent of AI will bring with it new techniques and tools for de-aging. Maybe AI will make de-aging cheaper and easier than it’s been in the past, making these tie-in movies that much more feasible. But again, everything we’ve seen of this technology suggests that it’s inherently limited. There’s only so much you can do to hide an actor’s true age.
+
+How awkward is it going to be watching films where nearly every main character is being digitally massaged and tweaked by a team of special effects artists in every shot? Heck, Ian McKellen is 86 years old heading into filming on The Hunt for Gollum. No amount of computer wizardry is going to erase the toll time has taken on him since he last played Gandalf the Grey. The Hobbit movies may have employed some dodgy CGI at times, but Middle-earth is going to be plagued by the Uncanny Valley effect like never before.
+
+## Do Fans Actually Want More Lord of the Rings Movies?
+
+The fact that both The Hunt for Gollum and Shadow of the Past are going to have to rely a lot on CGI de-aging is one reason to be wary of these films. But there are other, broader concerns as well. Do Lord of the Rings fans even want new movies in the first place? We’re not convinced the demand is actually there.
+
+Take, for instance, the rather tepid response to 2024’s The Lord of the Rings: The War of the Rohirrim. That animated prequel earned [middling reviews (including from IGN)](https://www.ign.com/articles/the-lord-of-the-rings-the-war-of-the-rohirrim-review) and was basically DOA at the box office, grossing a mere $20.7 million worldwide. The fact that it was an animated tie-in to a previously live-action-centric franchise certainly didn’t help, but regardless, fans didn’t really seem to care all that much about the prospect of a prequel set 100 years before the events of the LotR trilogy. Why should they, when it seems the project was greenlit more as [a way for WB and New Line to hold onto the film rights](https://www.hollywoodreporter.com/movies/movie-news/lord-of-the-rings-amazon-vs-warner-bros-1235337625/) than because it was a story that absolutely needed to be told?
+
+No doubt there’s a bigger built-in audience for The Hunt for Gollum and Shadow of the Past, given that they’re both live-action films with far more tangible ties to the classic Rings trilogy. Still, how many fans are actually clamoring for either story to be told? Did anyone feel a burning need to know what exactly Gollum was up to when Frodo first set out to Rivendell? Does Shadow of the Past exist for any other reason than to satisfy those Tolkien nerds who really wanted Tom Bombadil to show up in Fellowship? It starts to feel like the studio is just trying to scrape whatever meat from the bone they have left.
+
+We recently ran a poll about Shadow of the Past, asking IGN readers if they’d rather the film focus more on acting as a prequel or sequel to the Rings movies. Interestingly, roughly 60% of respondents picked Option #3 — “I’d rather it didn’t exist at all.” That’s just one poll, but it does provide an illuminating glimpse into how the fandom is responding to these movies. They’re interested in (or maybe mortified by?) the announcements, but not necessarily looking forward to the end products.
+
+None of this is to say there isn’t still a strong fanbase surrounding The Lord of the Rings. The books and Blu-rays continue to sell like gangbusters year after year, and the original trilogy recently [enjoyed a successful rerelease in theaters](https://www.ign.com/articles/lord-of-the-rings-trilogy-re-release-already-earned-5-million-in-domestic-presales). Fans love these stories; they just seem to be wary of spinoffs that don’t add value to the equation. Why shouldn’t they be, after we all suffered through one too many The Hobbit movies?
+
+The obvious takeaway here is that it may be time to give the franchise a rest. The Lord of the Rings had its day, and it was very successful in its time. But trying to further sequelize and expand this series, even as the original cast only grows older, may be an exercise in futility. It’s OK to simply move on to other things and savor what we have.
+
+But we have to be realistic here. Warner Bros. and New Line aren’t going to simply let the franchise grow dormant. They’re going to exploit the IP however they can. In an age where the theatrical market is practically on life support, studios are going to cling to proven franchises more and more. So if crafting new sequels and spinoffs to the original Rings trilogy is a bad idea, there’s really only one other solution left.
+
+## Why a Reboot May Be Better
+
+It may seem sacrilegious given how revered the original Rings trilogy is, but maybe the time has come to reboot the series. If we can reboot Harry Potter 15 years after Harry Potter and the Deathly Hallows Part 2 hit theaters, why can’t we do the same for The Lord of the Rings 23 years after Return of the King?
+
+Yes, it’s hard to imagine any new adaptation living up to the standard set by Peter Jackson and company. But that doesn’t mean we wouldn’t be interested in seeing a new generation of filmmakers try their hand at the source material. The key is finding someone with a sufficiently different voice. Remember when [Guillermo del Toro was in line to direct the Hobbit movies](https://www.ign.com/articles/2008/07/09/exclusive-gdt-on-the-hobbit)? Give us someone like that who can fully reimagine Middle-earth with a more fantastical bent.
+
+There’s also always room to craft a new series of movies that digs even deeper into the books and appendices than the Jackson movies did. Those movies are incredibly faithful to J.R.R. Tolkien’s work, but they do skip over significant chunks of the plot from the books. Give us a version of The Fellowship of the Ring where Tom Bombadil shows up from the beginning (rather than tacking him on a few decades after the fact). End The Return of the King with the Scouring of the Shire this time, so fans get a real taste of how depressing Tolkien can be.
+
+There’s room to do what the Warcraft movie tried to do in terms of providing a more well-rounded take on the conflict between orcs and men.“
+
+There’s even room to do something entirely new with the source material. I wouldn’t mind seeing a version of the Rings story that devotes more time to fleshing out the other side of the conflict. What is it like being an orc under Sauron’s command? Do the Ringwraiths retain any semblance of their old humanity? What motivated the tribes of men who united against Gondor? Tolkien’s work is often criticized for dehumanizing the villains, to the point where the word “racist” is sometimes tossed around. There’s room to do what the Warcraft movie tried to do in terms of providing a more well-rounded take on the conflict between orcs and men.
+
+The obvious solution here is for Warners to follow the Harry Potter playbook and do a full-fledged streaming series, with each season covering one novel. Unfortunately, given how the rights situation currently sits, that’s not an option for the studio. And realistically, even with a Game of Thrones-level budget, is it really feasible to try to depict those epic battles and Middle-earth locales on the small screen?
+
+The Lord of the Rings is a franchise that will probably always best thrive as a theatrical experience. So that leaves only one good option going forward: Reboot the series. Recast those iconic roles. Find a way to revisit this beloved source material in a way that doesn’t simply rehash the past, but brings something new to the table. It’s no easy challenge, but we’d rather see a whole new take on The Lord of the Rings than spinoffs that drag the original cast out for one more half-hearted adventure.
+
+For more on these upcoming movies, find out [who's been cast in The Hunt for Gollum so far](https://www.ign.com/articles/the-lord-of-the-rings-the-hunt-for-gollum-stars-kate-winslet-in-major-role).
+
+_Jesse is a mild-mannered staff writer for IGN. Allow him to lend a machete to your intellectual thicket by_ [_following @jschedeen on BlueSky_](https://bsky.app/profile/jschedeen.bsky.social)_._
