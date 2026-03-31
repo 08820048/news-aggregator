@@ -1,0 +1,25 @@
+---
+title: "Meta launches new ‘prescription optimized’ smart glasses"
+source: "Victoria Song"
+url: "https://www.theverge.com/tech/904020/meta-scriber-blayzer-prescription-smart-glasses"
+published: "2026-03-31T15:16:13.000Z"
+category: "tech"
+summary: "The new Optics Styles glasses will support an ‘unrestricted’ range of prescriptions. | Image: Meta While Meta has released several versions of its AI glasses over the last few years, today it announced it's released two new styles specifically geared toward those of us with less-than-perfect vision. Dubbed the Ray-Ban Meta Optics Styles, the new frames come in a rectangular \"Blayzer\" style and a circular \"Scriber\" version. Compared to the regular Ray-Bans, these also sport overextension hinges, interchangeable nose pads, and adjustable temple tips for opticians so users can better customize fit. While the overextension hinges were introduced with the Meta Ray-Ban Display, they were absent from the regular Ray-Ban lineup. The frames will … Read the full story at The Verge."
+---
+While Meta has released several versions of its AI glasses over the last few years, today it [announced](https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/) it’s released two new styles specifically geared toward those of us with less-than-perfect vision.
+
+Dubbed the Ray-Ban Meta Optics Styles, the new frames [come in a rectangular “Blayzer” style](https://www.meta.com/blog/ray-ban-meta-styles-prescription-lenses/) and a circular “Scriber” version. Compared to the regular Ray-Bans, these also sport overextension hinges, interchangeable nose pads, and adjustable temple tips for opticians so users can better customize fit. While the overextension hinges were introduced with the [Meta Ray-Ban Display](https://www.theverge.com/tech/801684/meta-ray-ban-display-review-smart-glasses-ai-wearables), they were absent from the regular Ray-Ban lineup. The frames will come in a variety of colors, ranging from matte and transparent black to dark olive, ice gray, and stone beige. The carrying case also comes in dark brown. The new “prescription optimized” glasses will be available starting April 14th for $499, and are currently available for preorder.
+
+[![The Ray-Ban Meta Optics Styles in Scriber and the stone beige color.](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/RBM-2_Scriber_Transparent_Shiny_Stone_Beige_Clear_-Charging-Case.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/RBM-2_Scriber_Transparent_Shiny_Stone_Beige_Clear_-Charging-Case.png?quality=90&strip=all&crop=0,0,100,100)
+
+According to Meta’s press release, these glasses also “support nearly all prescriptions.” Previously, the Ray-Ban glasses were only able to support prescriptions of ±6 (and only ±2 for the Display glasses) — not too shabby for smart glasses, but far from “nearly all prescriptions.” When asked for further clarification, Meta spokesperson Albert Aydin told _The Verge_ that “The prescription range for Blayzer and Scriber is unrestricted. However, customers will need to check with their retailer on any range restrictions.” Aydin further explained that the ±6 range still applies if you’re ordering directly from Meta’s site. If your prescription falls outside of that, you’ll have to take the frames to an optician or a LensCrafters-type store.
+
+Meta has gotten a lot of flak recently for its smart glasses, especially with regard to privacy, a [proposed facial recognition feature](https://www.theverge.com/tech/878725/meta-facial-recognition-smart-glasses-name-tag-privacy-advoates), and how the [glasses have been misused by creeps](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/). This rollout also highlights another obstacle for wider adoption of AI glasses: vision and fit. For many people, smart glasses can’t just be gadgets — they have to double as medical devices for vision correction. Thus far, smart glasses makers have struggled to accommodate all types of vision and face shapes.
+
+Meta also announced some new software features coming to the Ray-Bans. On the software front, Meta is adding AI-powered nutrition logging later this summer. Using the glasses, you’ll be able to use a voice prompt, take a photo of your meal, and have those details added to a food log in the Meta AI app. It claims that in the future, the glasses will be able to do that automatically without prompts. The company is also adding hands-free WhatsApp summaries to its Early Access program and says these message summaries will be processed on-device with end-to-end encryption.
+
+Meanwhile, Display users are getting two new games to play: 2048 and a new platformer called GOAT, both of which are available now and use the Neural Band. The Neural handwriting feature is also rolling out more broadly in the coming weeks and will add iMessage support. Turn-by-turn navigation will also start supporting every US city in May.
+
+**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.
+
+-   Victoria Song
