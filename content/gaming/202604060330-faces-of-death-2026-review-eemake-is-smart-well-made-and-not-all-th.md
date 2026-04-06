@@ -1,0 +1,43 @@
+---
+title: "Faces of Death 2026 review: Eemake is smart, well-made, and not all that disturbing"
+source: "Jesse Hassenger"
+url: "https://www.polygon.com/faces-of-death-2026-remake-review/"
+published: "2026-04-06T03:30:19.000Z"
+category: "gaming"
+summary: "Is it really Faces of Death if you don't feel gross about watching it?"
+---
+[![4](https://static0.polygonimages.com/wordpress%2Fwp-content%2Fauthors%2F6887ba32bd4d2-JH%20Monster%20bio.jpg?fit=crop&w=90&h=90)](https://www.polygon.com/author/jesse-hassenger/)
+
+Published Apr 5, 2026, 11:30 PM EDT
+
+This firmly fictional 2026 remake has an irresistible premise and a polished execution
+
+## Faces of Death (2026) is a well-made reboot that may disappoint true horror sickos
+
+   ![FACES OF DEATH - Still 9](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/faces-of-death-still-9.jpg?&fit=crop&w=1600&h=900)Image: IFC
+
+The new horror movie [_Faces of Death_](https://www.polygon.com/faces-of-death-2026-trailer-charlie-xcx/) starts from a challenge so irresistible that it threatens to overshadow the results: How do you reboot a horror franchise that’s part cult curiosity, part mockumentary, and part disturbingly convincing gore-effects demo reel? The 1978 _Faces of Death_ gained [VHS notoriety](https://www.polygon.com/faces-of-death-2026-trailer-charlie-xcx/) as a horror tape beyond the pale, a compilation of “real” people meeting various ghastly ends captured by the camera. You could likely find it at whatever local video store had the most robust pornography section.
+
+In reality, [only a sliver of the footage](https://www.looper.com/86648/untold-truth-faces-death/) in _Faces of Death_ was real archival material — mostly the less actively disturbing segments. But the grainy textures and visual-effects work were realistic enough to convince plenty of impressionable would-be edgelords and horror fans they were watching a genuine snuff film. The project spawned three sequels and various compilations, making _Faces of Death_ a multi-film franchise with no story or characters. It’s also one that might now seem outmoded both technically and culturally, given the circulation of horrific internet clips, audience savviness about found-footage horror, and the fictional extremes of movies like [_Hostel_](https://www.polygon.com/hostel-20-year-anniversary-eli-roth-torture-porn-horror/). The new fictional-narrative version of _Faces of Death_ finds a clever way into a 2026 version — though it also finds a too-easy way out. It’s both a canny contemporary riff on the material and a well-made but only moderately scary slasher.
+
+Director/co-writer Daniel Goldhaber and co-writer/producer Isa Mazzei are well-equipped to explore the eerie space where online content becomes something more convincingly illicit than just a viral video. They previously made the excellent internet-based psychological thriller [_Cam_](https://www.polygon.com/2018/11/16/18099572/cam-review-horror-netflix/), about a camgirl who encounters an online doppelganger; as well as the less online (but very reality-inspired) thriller [_How to Blow Up a Pipeline_](https://www.polygon.com/reviews/23672727/how-to-blow-up-a-pipeline-movie-review/). The verisimilitude of the latter seems to be at work in the new movie’s peek behind the content-moderation curtain. Margot (Barbie Ferreira) works at a TikTok-like video-hosting site, reviewing clips that have been flagged for various reasons, but while she absorbs bland corporate rhetoric about doing right by users, she’s actually subjected to punishing and unforgiving productivity expectations. In service of clicking through as much as possible, she’s also expected to err on the side of permissiveness, so as to not gum up the works with debates about appropriateness. It’s assembly-line moderation, and the depressing fluorescent-lit soul-draining atmosphere of her workspace is one of the movie’s scariest touches.
+
+The job encourages Margot, who is recovering from a traumatic experience involving both grief and viral notoriety, to embrace dispassionate numbness and anonymity; the latter is certainly appealing to her. But after she reviews several videos with disturbingly realistic-looking violence and the same menacing hashtag, Margot’s internal alarms start going off, much to the annoyance of her boss (Jermaine Fowler). A look at the old _Faces of Death_ VHS confirms it: Someone is recreating scenes from the movie. But are they staged, or genuine murders? And whose responsibility is it to investigate them? While the sharing of the videos is horrific, that chronic posting could be the only clue to stopping a maniac who might otherwise work quietly in private. Ignoring the advice of her friends and coworkers, Margot takes matters into her own hands.
+
+    ![faces of death](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/br_07134_f.jpg?q=49&fit=crop&w=825&dpr=2)Image: IFC
+
+It’s a brilliant set-up, playing on the sketchy history of the original movie: acknowledging its fakeness while playing on our fears of (or fascination with) the ease of stumbling across horrific real-life footage online. The problem is that once Goldhaber and Mazzei have so clearly evoked that feeling, they don’t fully capitalize on it. Unlike _Cam_, which becomes progressively more mysterious and unnerving as its heroine digs deeper into a mystery, _Faces of Death_ doesn’t go all that far down the rabbit hole. It does such a great job creating an unabashedly fictional companion piece to the grainy flim-flam of the original that it accidentally demystifies itself. This doesn’t render it completely toothless; the back half of the movie does have some disturbing images and ideas. (There’s one memorable bit of gore involving mannequins, for example.) It also more or less backs off any feeling of true extremity, and stays within the realm of a well-made slasher.
+
+    ![On a dimly lit basement stage with a video camera set up to record it, dummies are set up to represent a man outside of a door surrounded by cops with weapons, in a scene from Faces of Death (2026) recreating a scene from the 1978 film of the same name.](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/faces-of-death-2026.jpg?q=49&fit=crop&w=825&dpr=2)Image: IFC
+
+In the year of [_Scream 7_](https://www.polygon.com/scream-7-neve-campell-returns-review/), that’s not nothing. Goldhaber has a keen sense of pacing through editing, and crafts some sequences, like a chase through a grassy suburb, that are viscerally exciting. The screenplay gives Ferreira both final-girl grit and a fried vulnerability that plays to her strengths as an actor. Though she’s an empathetic presence as always, Ferreira summons an open-wound emotional rawness that explains why some people find it so easy to look away from her warnings. It’s the greater world around her that doesn’t quite come to life. Despite a creepy performance from Dacre Montgomery as an elusive antagonist, Ferreira doesn’t have much to play off of; there’s not much detail or mystery within the familiar framework of a slashing-psycho movie.
+
+Some will compare the new _Faces of Death_ to the recent [_Red Rooms_](https://www.polygon.com/what-to-watch/509522/red-rooms-movie-watch-streaming-shudder-best-horror-thriller-dark/), a truly disturbing treatment of digital snuff, and that’s probably not fair. From the jump, _Faces of Death_ is clearly aiming for something more playful than upsetting. Charli xcx has a small role as Margot’s disaffected yet self-satisfied edgelord coworker, a walking (and caricatured) cautionary tale about the dangers of ignoring your humanity (or others’) for kicks; that’s not the casting choice of a movie aiming for pure queasy dread. The pop star’s brief performance also exemplifies a satirical angle that doesn’t feel fully exploited. Scenes like the stalking of an online influencer provide neither nasty dark-comedy catharsis nor genuinely unsettling shocks.
+
+    ![FACES OF DEATH - Still 7](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/faces-of-death-still-7.jpg?q=49&fit=crop&w=825&dpr=2)Image: IFC
+
+This shouldn’t diminish how much better-made _Faces of Death_ is than most slashers. As a horror movie, it provides the requisite fun night out with an extra contemporary kick that will make some viewers think twice about the psychological and ethical mechanics behind their daily scroll. It just can’t compete with the checkered, transgressive reputation of its namesake. Truly iterating on the unseemly thrills of _Faces of Death_, daring as it sounds, may ultimately be impossible.
+
+* * *
+
+Faces of Death _is in theaters on April 10th._
