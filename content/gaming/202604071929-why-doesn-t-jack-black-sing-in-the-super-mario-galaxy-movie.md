@@ -1,0 +1,31 @@
+---
+title: "Why doesn't Jack Black sing in the Super Mario Galaxy Movie?"
+source: "Tasha Robinson"
+url: "https://www.polygon.com/jack-black-songs-super-mario-galaxy-movie/"
+published: "2026-04-07T19:29:58.000Z"
+category: "gaming"
+summary: "Jack Black wants to do a Bowser musical. His song \"Peaches\" was a huge hit in the first Super Mario Bros. movie. Why doesn't he sing in this one?"
+---
+[![4](https://static0.polygonimages.com/wordpress%2Fwp-content%2Fauthors%2F6883b83d89b09-Facepaw.jpg?fit=crop&w=90&h=90)](https://www.polygon.com/author/tasha-robinson/)
+
+Published Apr 7, 2026, 3:29 PM EDT
+
+Black wanted this movie to be a Bowser musical — and we know exactly where the songs should go
+
+   ![Bowser goes for a ride with his son Bowser Jr., both Koopas beaming at each other, in The Super Mario Galaxy Movie](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/bowsernson.jpg?&fit=crop&w=1600&h=900)Image: Nintendo/Illumination
+
+[_The Super Mario Galaxy Movie_](https://www.polygon.com/super-mario-galaxy-movie-review/) is a frantic speed run from one end of the Mario galaxy to the other and back again, packed with so many cameos, references, and bits of comic business that it doesn’t spend nearly enough time on its supposed stars. Somehow, writer Matthew Fogel and the three-man director team have enough time for [Star Fox](https://www.polygon.com/super-mario-galaxy-movie-surprise-cameo-star-fox-mccloud/) and his animated backstory, [Wart](https://www.polygon.com/super-mario-galaxy-movie-nintendo-direct-wart-poster/) and a meaningless fight in his casino, and \[[end-credits cameo and sequel tease redacted](https://www.polygon.com/super-mario-galaxy-movie-post-credits-scene-explained/)\]. But they never find time amid all this chaotic noise to let Jack Black (voicing Bowser, King of the Koopas) sing.
+
+Bowser does subvocalize a sorta-tune when he’s walking through the dollhouse he’s been penned up in since the action of the first Super Mario Bros. movie. But he doesn’t get a real musical number of his own — and that’s pretty baffling, given that the first movie’s biggest breakout moment was Bowser’s ridiculous, over-the-top ballad declaring his love for Princess Peach.
+
+Look. Jack Black loves to sing. [He was in a band for 30 years.](https://tenaciousd.com/) He starred in a hit movie where he [teaches kids how to rock ‘n’ roll](https://www.youtube.com/watch?v=7qkEiWpDLt0). He just hosted _Saturday Night Live_, and they were smart enough to let him [sing in his opening monologue](https://www.youtube.com/watch?v=GUljNxFV07I&t=290s) even though he wasn’t the actual musical guest. Black’s [dumb, funny little 50-second song](https://www.youtube.com/watch?v=41O_MydqxTU) about [lava chicken in _A Minecraft Movie_](https://www.billboard.com/music/chart-beat/jack-black-steves-lava-chicken-number-1-top-movie-songs-chart-1235984496/) hit [No. 1 on _Billboard_’s Top Movie Songs chart](https://www.billboard.com/music/chart-beat/jack-black-steves-lava-chicken-number-1-top-movie-songs-chart-1235984496/). At this point, letting Black sing in a movie is like letting [Christopher Walken dance in a movie](https://faroutmagazine.co.uk/watch-fabulous-supercut-christopher-walken-dancing/) — it doesn’t matter whether the movie requires it, it’s just something the people want to see. Give the people what they want!
+
+Black singing “Peaches” in _The Super Mario Bros. Movie_ was a gift to adult viewers — a gift the movie desperately needed. It was humor aimed at the parents who had to be there for their kids, who definitely weren’t thinking “Is this a Liberace riff?” for the whole song. It was also a boon for the internet and the movie’s marketers, who got to watch Black sell the hell out of the song in an over-the-top live-action video expressly made for virality. Why doesn’t _The Super Mario Galaxy Movie_ have anything like this?
+
+It’s certainly not because the movie is short on moments where Bowser could — even _should_ — sing. The guy has giant, overflowing emotions, and in this animated movie franchise, he's canonically a singer, songwriter, and pianist who sometimes expresses those feelings through song. Where'd that idea go? _The Super Mario Galaxy Movie_ is an emotional roller coaster for the guy! When he pleads for Mario to un-shrink him so he doesn’t have to reunite with his estranged son as a humiliatingly wee pipsqueak? Perfect opportunity for an [“I’ve Got a Dream”](https://www.youtube.com/watch?v=zi5Z6rNU9Hw)\-style showtune about what he needs from Mario and why. His actual reunion with Bowser Jr.? A chance for father and son to express in song what they want, respectively, and see how those things dovetail, like in [_Kpop Demon Hunters_’ “Free.”](https://www.youtube.com/watch?v=fjOeJssZX_Q) When Bowser Jr. gives his proud papa a flying tour of Bowser World, you can almost hear the strains of ["A Whole New World"](https://www.youtube.com/watch?v=rJN81dAwlHM) from _Aladdin_ playing.
+
+But the biggest potential musical moment for _The Super Mario Galaxy Movie_ comes when Bowser has to confront whether captivity reformed him, or whether he was lying to Mario and Luigi, and down in his heart, he’s still a full-on villain. That plot beat barely gets a moment for consideration in the movie, which is odd — why waste such good personal drama? But it’s also a waste of a space for a full villain song, a _Lorax_\-type [“How Bad Can I Be?”](https://www.youtube.com/watch?v=oD5ZgeVYmzs) number where Bowser justifies his big decision.
+
+Ah well. Black’s talents aren’t the only ones being wasted in _The Super Mario Galaxy Movie_. At least he got to sing about the movie’s plot setup on Instagram, while wearing a Bowser costume.
+
+We could have used this prologue in the movie itself, admittedly… but then we would have spent the rest of the movie waiting for the rest of the film to resolve into the full-on “Bowser’s Revenge” musical [Black pitched after the first Super Mario movie](https://movieweb.com/jack-black-super-mario-sequel-bowser-musical/), and being disappointed every time he shows up on screen without bursting into song. I’m still holding out hope for that sequel myself. [Glen Powell can sing, kinda](https://www.youtube.com/watch?v=bgIVjXAzKQI). Maybe in the next movie, Bowser and Star Fox can perform the crossover duet of fans’ dreams.
