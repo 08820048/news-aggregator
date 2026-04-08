@@ -1,0 +1,21 @@
+---
+title: "Brandon Sanderson Ranks The Lord of the Rings as the Best Movie Trilogy of All Time"
+source: "Jacob Kienlen"
+url: "https://www.ign.com/articles/brandon-sanderson-ranks-the-lord-of-the-rings-as-the-best-movie-trilogy-of-all-time"
+published: "2026-04-08T19:18:28.000Z"
+category: "gaming"
+summary: "In the most recent episode of his podcast, Intentionally Blank, Brandon Sanderson and Dan Wells discussed rankings for the best movie trilogy of all time. Unsurprisingly, The Lord of the Rings claimed the top spot."
+---
+Brandon Sanderson is making [quick progress on his own Mistborn movie](https://www.ign.com/articles/brandon-sanderson-is-already-halfway-done-with-the-mistborn-screenplay-for-apple-tv) adaptation, but in the meantime he's been taking a closer look at older movies. In the most [recent episode of his podcast](https://www.youtube.com/watch?v=KGdqOSjczjc&t=2382s), Intentionally Blank, he and Dan Wells discussed rankings for the best movie trilogy of all time. Unsurprisingly, [The Lord of the Rings](https://www.ign.com/articles/lord-of-the-rings-movies-in-order) claimed the top spot.
+
+"It was made knowing it would be a trilogy," Sanderson explains, "Lord of the Rings is cheating because it has the source material, but they could have ruined that source material and they didn't".
+
+Sanderson has spent a lot of time diving into the work of Tolkien and is considered an expert on his work. He's even got an [upcoming lecture on Tolkien](https://tolkienlecture.org/) on May 19 where he'll be diving into the gritty details of how these books changed fantasy literature forever. So with that in mind, he's definitely biased toward anything related to [The Lord of the Rings books](https://www.ign.com/articles/the-lord-of-the-rings-books-reading-order). However, he went on to praise Peter Jackson's adaptations for elevating the source material.
+
+"I just reread the books. And there are a ton of places where Peter Jackson added a bunch that is great," said Sanderson, "The Interaction between Sam and Frodo where Sam leaves is better. It is stronger narratively. Helms Deep is way stronger. I know this is blasphemy, but Tolkien wrote the books in an era where he didn't have what we have now — which is almost 75 years more of how to build arcs and how to deal with them".
+
+Whether you agree with Brandon Sanderson's ranking or not, it's hard to deny the staying power of Peter Jackson's trilogy. All three of the movies [returned to theaters earlier this year](https://www.ign.com/articles/all-3-the-lord-of-the-rings-movies-are-returning-to-theaters-in-extended-edition-form-so-prepare-yourself-for-hours-and-hours-of-middle-earth-fun-all-over-again) and saw a surprising amount of success with that strategy. Even before the re-release hit theaters, the films had already earned more than [$5 million in domestic presales](https://www.ign.com/articles/lord-of-the-rings-trilogy-re-release-already-earned-5-million-in-domestic-presales). It's hard to imagine any other major movie trilogy receiving the same amount of love 25 years after their original release.
+
+Of course, The Lord of the Rings prequels and sequels have not received the same level of love. Peter Jackson's Hobbit trilogy has its own set of flaws and Amazon's Rings of Power series has had a mixed reception from the fandom after two seasons. With the upcoming [Hunt for Gollum movie](https://www.ign.com/movies/lord-of-the-rings-the-hunt-for-gollum) and the freshly announced [Shadow of the Past sequel](https://www.ign.com/articles/lord-of-the-rings-shadow-of-the-past-plot-timeline-sequel) on the horizon, we'll see just how well nostalgia Peter Jackson's beloved trilogy can keep the franchise afloat long term.
+
+_Jacob Kienlen is a Senior Audience Development Strategist and Writer for IGN. Born and raised in Portland, Oregon, he has considered the Northwest his home for his entire life. With a bachelor's degree in communication and 10 years of professional writing experience, his expertise is spread across a variety of different pop culture topics -- from TV series to_ [_books_](https://www.ign.com/wikis/books) _and the latest_ [_Pokémon games_](https://www.ign.com/articles/all-pokemon-games-on-nintendo-switch)_._
