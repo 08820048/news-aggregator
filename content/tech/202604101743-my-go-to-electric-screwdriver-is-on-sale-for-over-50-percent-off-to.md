@@ -1,0 +1,39 @@
+---
+title: "My go-to electric screwdriver is on sale for over 50 percent off today"
+source: "Brandon Widder"
+url: "https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale"
+published: "2026-04-10T17:43:17.000Z"
+category: "tech"
+summary: "Fanttik, like Hoto, is quickly becoming a household name. The tool brand’s cordless wares are quiet, capable, and certainly more stylish than anything you’d find at your local Ace Hardware or neighborhood tool library. The S1 Pro electric screwdriver is a great example of the company’s penchant for attractive design, one you can currently grab on Amazon for an all-time low of $39.99 ($50 off) when you enter promo code YBRS9843 at checkout. Fanttik S1 Pro Cordless Electric Screwdriver Where to Buy: $89.99 $39.99 at Amazon (with code YBRS9843) Unsurprisingly, Fanttik’s TikTok-worthy screwdriver isn’t going to rival a dedicated drill when it comes to torque or comfort, even when talking about the smaller 12V variety. Still, it’s more efficient than a manual screwdriver when it comes to performing small- to medium-sized tasks around the home, whether that be assembling a bed or tightening the screws on your bicycle seat — two things I used it for just this week. It’s lightweight and sleek, with a 220RPM motor, three torque settings, a circular LED light, and a dedicated button for screwing in or out. In addition to the S1 Pro itself, you get a magnetic case that also houses the screwdriver and the 16 S2 hardened steel bits, which encompass everything from flathead and Allen heads to Torx bits for opening up smaller electronics. It’s also equipped with a 2,000mAh battery, which, according to Fanttik, should be enough to operate up to 340 screws. I haven’t put that claim to the test myself, but so far, so good. More ways to save Now through 10PM PT today, April 10th, Iniu’s 10,000mAh Portable Charger is on sale at Best Buy for just $15.99 ($13 off), which is the best price we’ve seen. I’ve become a big fan of Iniu’s compact charging banks in recent years, particularly the 2oW P61L-P1 on sale here, which comes with a built-in USB-C cable, a three-year warranty, and enough juice to charge an older smartphone model like the iPhone 15 to 65 capacity in just 25 minutes. If you’re really looking to level up your newborn’s sleeping arrangements, enter the Cradlewise. The smart crib / bassinet — which is now available on Amazon for $1,709 ($90) thanks to an on-page coupon — combines a sound machine, an AI-enhanced baby monitor, and an automated rocker into a single device, with real-time notifications and sleep insights at the ready. It also easily converts from bassinet to crib, allowing you to eke out about 24 months of use, assuming you want to use it with your toddler. Speaking of all-in-one devices, Mophie’s slick Juice Pack battery case is still on sale at Amazon starting at $49.93 (about $50 off), an all-time low. The MagSafe-compatible, lanyard-equipped case can provide both impact protection and an additional 50 percent of battery life to iPhone 16 and 17-series phones, including the iPhone 16 Pro, iPhone 17 Pro, and even the beefier 17 Pro Max."
+---
+[![Brandon Widder](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195881/BRANDON_WIDDER.0.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96)](https://www.theverge.com/authors/brandon-widder)
+
+Brandon Widder
+
+is a senior editor overseeing deals, gift guides, and commerce. He spent six years spearheading buying guides and consumer tech coverage at Digital Trends.
+
+Fanttik, like Hoto, is quickly [becoming a household name](https://www.theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok). The tool brand’s cordless wares are quiet, capable, and certainly more stylish than anything you’d find at your local Ace Hardware or neighborhood tool library. The S1 Pro electric screwdriver is a great example of the company’s penchant for attractive design, one you can currently grab on [Amazon](https://www.amazon.com/gp/product/B0C141QZVL/?tag=theverge02-20) for an all-time low of $39.99 ($50 off) when you enter promo code **YBRS9843** at checkout.
+
+[![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Fanttik-S1-Pro-Cordless-Electric-Screwdriver-Lifestyle-Image.jpg?quality=90&strip=all&crop=16.695278969957%2C0%2C66.609442060086%2C100&w=2400)](https://www.amazon.com/gp/product/B0C141QZVL/?tag=theverge02-20)[![](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Fanttik-S1-Pro-Cordless-Electric-Screwdriver-Lifestyle-Image.jpg?quality=90&strip=all&crop=0.042918454935617%2C0%2C99.914163090129%2C100&w=2400)](https://www.amazon.com/gp/product/B0C141QZVL/?tag=theverge02-20)
+
+$40
+
+Unsurprisingly, Fanttik’s TikTok-worthy screwdriver isn’t going to rival a dedicated drill when it comes to torque or comfort, even when talking about the smaller 12V variety. Still, it’s more efficient than a manual screwdriver when it comes to performing small- to medium-sized tasks around the home, whether that be assembling a bed or tightening the screws on your bicycle seat — two things I used it for just this week. It’s lightweight and sleek, with a 220RPM motor, three torque settings, a circular LED light, and a dedicated button for screwing in or out.
+
+In addition to the S1 Pro itself, you get a magnetic case that also houses the screwdriver and the 16 S2 hardened steel bits, which encompass everything from flathead and Allen heads to Torx bits for opening up smaller electronics. It’s also equipped with a 2,000mAh battery, which, according to Fanttik, should be enough to operate up to 340 screws. I haven’t put that claim to the test myself, but so far, so good.
+
+## More ways to save
+
+-   Now through 10PM PT today, April 10th, **Iniu’s 10,000mAh Portable Charger** is on sale at [Best Buy](https://bestbuy.7tiv.net/c/482924/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Finiu-pocket-power-10k-power-bank-with-built-in-usb-c-cable-compact-10000mah-pd-20w-in-out-for-iphone-samsung-etc-black%2FCZTZXS32H2) for just $15.99 ($13 off), which is the best price we’ve seen. I’ve become a big fan of Iniu’s compact charging banks in recent years, particularly the 2oW P61L-P1 on sale here, which comes with a built-in USB-C cable, a three-year warranty, and enough juice to charge an older smartphone model like the iPhone 15 to 65 capacity in just 25 minutes.
+-   If you’re really looking to level up your newborn’s sleeping arrangements, enter the **Cradlewise**. The smart crib / bassinet — which is now available on [Amazon](https://www.amazon.com/dp/B0GD3C5LCL/?tag=theverge02-20) for $1,709 ($90) thanks to an on-page coupon — combines a sound machine, an AI-enhanced baby monitor, and an automated rocker into a single device, with real-time notifications and sleep insights at the ready. It also easily converts from bassinet to crib, allowing you to eke out about 24 months of use, assuming you want to use it with your toddler.
+-   Speaking of all-in-one devices, **Mophie’s slick Juice Pack battery case** is still on sale at Amazon starting at $49.93 (about $50 off), an all-time low. The MagSafe-compatible, lanyard-equipped case can provide both impact protection and an additional 50 percent of battery life to iPhone 16 and 17-series phones, including the [iPhone 16 Pro](https://www.amazon.com/dp/B0DJCHDZTW/?tag=theverge02-20), [iPhone 17 Pro](https://www.amazon.com/dp/B0FRV89R11/?tag=theverge02-20), and even the [beefier 17 Pro Max](https://www.amazon.com/dp/B0FRW4XK6P/?tag=theverge02-20).
+
+## Verge Shopping
+
+Sign up to get the best deals on products we’ve found and tested sent to your inbox.
+
+Email (required)
+
+**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.
+
+-   Brandon Widder
