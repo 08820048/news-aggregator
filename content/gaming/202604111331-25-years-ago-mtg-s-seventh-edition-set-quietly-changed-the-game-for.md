@@ -1,0 +1,41 @@
+---
+title: "25 years ago, MTG's Seventh Edition set quietly changed the game forever"
+source: "Corey Plante"
+url: "https://www.polygon.com/mtg-seventh-edition-25th-anniversary-7ed/"
+published: "2026-04-11T13:31:45.000Z"
+category: "gaming"
+summary: "Across 350 cards, Magic: The Gathering's Seventh Edition set shifted toward more modern design changes"
+---
+[![4](https://static0.polygonimages.com/wordpress%2Fwp-content%2Fauthors%2F69120a4964522-headshot.jpg?fit=crop&w=90&h=90)](https://www.polygon.com/author/corey-plante/)
+
+Published Apr 11, 2026, 9:31 AM EDT
+
+Seventh Edition helped usher in the modern era of Magic
+
+## 25 years ago, one Magic: The Gathering set quietly changed the game forever
+
+   ![mana clash art](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/mana-clash-art.jpg?&fit=crop&w=1200&h=675)Image: Wizards of the Coast
+
+I couldn’t possibly remember exactly when I started playing [_Magic: The Gathering_](https://www.polygon.com/mtg-magic-the-gathering/), but going through boxes of my old cards offered some interesting hints at my history with the game. I have a few stray cards as far back as 1994’s _Antiquities_, which came out when I was only four years old. I also vividly remember my hype for the Odyssey block that began in September 2001, particularly the _Judgment_ set with my beloved “Phantom” cards.
+
+By far, however, I have the greatest number of cards from _Seventh Edition_, including my childhood favorite: a foil [Thorn Elemental](https://scryfall.com/card/7ed/273%E2%98%85/thorn-elemental). I remember relishing the cool art, even though I was hardly ever able to get this big stompy threat onto the battlefield. Early _Magic_ just didn’t have enough ramp for me to get it out before my erudite best friend crushed me with his annoying blue deck every single time we played.
+
+    ![7ed mtg thorn elemental white border](https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/7ed-mtg-thorn-elemental-white-border.jpg?q=70&fit=crop&w=672&dpr=1)Image: Wizards of the Coast
+
+Looking back and learning more about the set a quarter-century after its April 2001 release, I’ve realized that _Seventh Edition_ was quietly very important to _Magic_ for a number of reasons. It marked a significant turning point in terms of modernizing the game that we know today.
+
+Though _Urza’s Legacy_ introduced foil cards to the game two years prior, _Seventh Edition_ was the first core set ever to include foil versions of every card in the set. Each card also featured new art, something that hadn’t been done since the original _Limited Edition_. It gave the entire set a more cohesive creative vision.
+
+_Seventh_ was also the last base set to have the original card frame — _Eighth Edition_ began the new [“Core Set”](https://www.polygon.com/24187331/mtg-foundations-announcement-release-date-price/) model of releases with a brand-new card frame. From a visual standpoint, _Seventh Edition_ exists in this strange middle point. Cards definitely look older than other more recent sets, but they also lack the archaic small print and classic art style seen in earlier sets.
+
+I despise blue for the most part, but the image of a blue wizard levitating while he meditates on the basic [Counterspell](https://www.tcgplayer.com/product/2860/magic-7th-edition-counterspell?srsltid=AfmBOoqOtLIf_ToP0O_iLFB6VTfEyKT3mjQZ4ighxpAf3Oi58d5mJcfX&Language=English) card lives in my head rent-free. [Llanowar Elves](https://scryfall.com/card/7ed/253/llanowar-elves) and [Rampant Growth](https://scryfall.com/card/7ed/262/rampant-growth) were staples in my decks. The latter depicts a knight getting strangled by vines with huge sunflowers in the background. The former shows an elf with a shock of flowing red hair, his face anguished. (I remember wishing I knew what he was looking at.) I also remember ogling my friend’s beautiful [Birds of Paradise](https://scryfall.com/card/7ed/231/birds-of-paradise) with its disordered rainbow color pattern. When we discovered [Dingus Egg](https://www.tcgplayer.com/product/2872/magic-7th-edition-dingus-egg?srsltid=AfmBOoq8J7go3DR4_76_eEz4VfNeG5zB14tnzPmeJwMkCm7kS-XZkmSt&Language=English), we called each other “dingus” for months. To date, nobody really knows what a dingus is.
+
+Despite being a core set, _Seventh_ came with a simple storyline, something that Wizards of the Coast typically only does with expansion sets. That story was also a bit strange, and, [according to Mark Rosewater](https://markrosewater.tumblr.com/post/167236708478/mark-why-the-seventh-edition-is-so-different-from), did not resonate with fans. Armies led by the white-aligned [Northern Paladin](https://www.tcgplayer.com/product/3009/magic-7th-edition-northern-paladin?Language=English&page=1) and [Southern Paladin](https://www.tcgplayer.com/product/3085/magic-7th-edition-southern-paladin?Language=English&page=1) were at war with the [Eastern Paladin](https://www.tcgplayer.com/product/2882/magic-7th-edition-eastern-paladin?Language=English&page=1) and [Western Paladin](https://www.tcgplayer.com/product/3147/magic-7th-edition-western-paladin?Language=English&page=1) associated with black. Every paladin trades one of their eyes for a magical gemstone that enhances their power. Cards like [Infernal Contract](https://www.tcgplayer.com/product/2953/magic-7th-edition-infernal-contract?Language=English) depict this in gruesome fashion.
+
+Northern and Southern look like your typical holy paladins, whereas the Eastern and Western look more like dark knights, positioning this conflict somewhat too-neatly as a stereotypical “good versus evil” conflict. Each of the paladins gets a two-cost tap ability that can destroy a creature of a specific color. They’re higher value collectibles for the most part, but even 25 years ago, they weren’t particularly strong.
+
+Alongside Thorn Elemental, there were two other “super tramplers” in the set: [Lone Wolf](https://scryfall.com/card/7ed/254/lone-wolf) and [Pride of Lions](https://scryfall.com/card/7ed/261/pride-of-lions). It’s been said that Wizards of the Coast experimented with their ability as an alternative to trample. Instead of extra damage spilling over to hit an opponent, these three green creatures instead can bypass a blocking creature’s toughness to deal combat damage directly to the defending player. But they still take combat damage from a blocker. Pride of Lions, by the way, has some hilarious art that looks like it would be on a silly retro t-shirt you might find at a thrift store and thing, "How did this get made?"
+
+_Seventh Edition_ also had some really great pain lands that tap to add one of two mana colors by spending one life, or generate a colorless mana without the life cost. According to data from [MTG Decks](https://mtgdecks.net/prices/edition/7ED/Commander), that cycle of five dual lands is among the most popular cards from the set used in Commander. There’s also [City of Brass](https://scryfall.com/card/7ed/327%E2%98%85/city-of-brass) and the intensely risky red instant [Final Fortune](https://www.tcgplayer.com/product/2900/magic-7th-edition-final-fortune?Language=English&page=1) that gives you an extra turn after the current turn — but you lose at the end of that turn unless you defeat your opponent first. The art there depicts a knight about to deal a killing blow against a Jeff Goldblum-looking guy digging through a treasure chest full of gold coins.
+
+As an added bonus for digging through my old bulk, I stumbled upon a gem: [Spellbook](https://www.tcgplayer.com/product/3086/magic-7th-edition-spellbook?srsltid=AfmBOoqQPw9b7SBla8MTVfyMARE-0Dn4EiIXAQOu4i_L94j0kPdYdOAW&Language=English). It’s a zero-cost artifact that makes it so you have no maximum hand size. I slotted that directly into my [Jenova, Ancient Calamity Commander deck](https://www.polygon.com/mtg-tmnt-leaks-prerelease-jenova-ancient-calamity-commander-deck/). She makes it so that whenever one of my mutants dies, I draw cards equal to its power. Up until now, my biggest problem has been beefing up my creatures so much that I wind up drawing something like 10 cards when they die. Problem solved, all thanks to a trip down memory lane with the _Seventh Edition_.
