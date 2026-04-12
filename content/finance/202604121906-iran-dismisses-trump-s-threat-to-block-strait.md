@@ -1,0 +1,23 @@
+---
+title: "Iran dismisses Trump’s threat to block strait"
+source: "Unknown"
+url: "https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84"
+published: "2026-04-12T19:06:46.000Z"
+category: "finance"
+summary: "Oil prices expected to rise as Trump tells US navy to ‘interdict’ ships that pay Iran to pass through strategic chokepoint"
+---
+For help please visit [help.ft.com](https://help.ft.com/). We apologise for any inconvenience.
+
+The following information can help our support team to resolve this issue.
+
+Reason
+
+Challenge
+
+Request ID
+
+9eb4dae2d9b0843b
+
+Status Code
+
+403
